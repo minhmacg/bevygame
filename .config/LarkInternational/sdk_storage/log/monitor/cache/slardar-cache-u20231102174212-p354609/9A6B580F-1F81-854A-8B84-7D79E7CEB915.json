@@ -1,0 +1,120 @@
+{
+	"id":	"9A6B580F-1F81-854A-8B84-7D79E7CEB915",
+	"type":	"custom",
+	"config":	{
+		"aid":	"666",
+		"device_id":	"7296905328707256325",
+		"user_id":	"7296910485247492128",
+		"app_version":	"6.9.16",
+		"channel":	"",
+		"data_report_url":	"https://slardar-bd-sg.larksuite.com/monitor_pc/collect/api/pc_log",
+		"crash_report_url":	"https://slardar-bd-sg.larksuite.com/monitor_pc/collect/api/pc_crash",
+		"block_report_url":	"https://slardar-bd-sg.larksuite.com/monitor_pc/collect/api/pc_jank",
+		"session_id":	""
+	},
+	"procotol":	{
+		"header":	{
+			"device_id":	"7296905328707256325",
+			"user_id":	"7296910485247492128",
+			"aid":	"666",
+			"app_version":	"6.9.16",
+			"channel":	"",
+			"session_id":	"",
+			"os":	"linux",
+			"os_version":	"6.5.9-arch2-1(Linux)",
+			"context":	{
+				"last_login_user_id":	"7296910485247492128",
+				"last_login_device_id":	"7296905328707256325"
+			}
+		},
+		"data":	[{
+				"log_type":	"flexible",
+				"event_name":	"startup",
+				"metrics":	{
+					"duration":	3685
+				},
+				"category":	{
+					"page":	"messenger"
+				},
+				"process_type":	"monitor",
+				"timestamp":	1698944635328
+			}, {
+				"log_type":	"flexible",
+				"event_name":	"enter_chat",
+				"metrics":	{
+					"duration":	370
+				},
+				"category":	{
+					"page":	"messenger"
+				},
+				"process_type":	"monitor",
+				"timestamp":	1698944674115
+			}, {
+				"log_type":	"flexible",
+				"event_name":	"startup",
+				"metrics":	{
+					"duration":	2033
+				},
+				"category":	{
+					"page":	"openplatform"
+				},
+				"process_type":	"monitor",
+				"timestamp":	1698944683225
+			}, {
+				"log_type":	"flexible",
+				"event_name":	"startup",
+				"metrics":	{
+					"duration":	3536
+				},
+				"category":	{
+					"page":	"messenger"
+				},
+				"process_type":	"monitor",
+				"timestamp":	1698944689608
+			}, {
+				"log_type":	"flexible",
+				"event_name":	"startup",
+				"metrics":	{
+					"duration":	1121
+				},
+				"category":	{
+					"page":	"openplatform"
+				},
+				"process_type":	"monitor",
+				"timestamp":	1698944693661
+			}, {
+				"log_type":	"flexible",
+				"event_name":	"startup",
+				"metrics":	{
+					"duration":	869
+				},
+				"category":	{
+					"page":	"openplatform"
+				},
+				"process_type":	"monitor",
+				"timestamp":	1698944710480
+			}, {
+				"log_type":	"flexible",
+				"event_name":	"startup",
+				"metrics":	{
+					"duration":	300000
+				},
+				"category":	{
+					"page":	"passport"
+				},
+				"process_type":	"monitor",
+				"timestamp":	1698944893513
+			}, {
+				"log_type":	"flexible",
+				"event_name":	"app_login_startup",
+				"metrics":	{
+					"duration":	300000
+				},
+				"category":	{
+					"page":	"passport"
+				},
+				"process_type":	"monitor",
+				"timestamp":	1698944893527
+			}]
+	}
+}

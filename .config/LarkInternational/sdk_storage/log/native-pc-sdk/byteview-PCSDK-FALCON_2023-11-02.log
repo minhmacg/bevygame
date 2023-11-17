@@ -1,0 +1,2180 @@
+23:49:55.294 - 333655 - I - [BYTEVIEW-BYTERTC]: ========== Falcon Start Running ==========
+23:49:55.294 - 333655 - I - [BYTEVIEW-BYTERTC]: Hello, Falcon init begin !!!
+23:49:55.294 - 333655 - I - [BYTEVIEW-BYTERTC]: VC Process Id: 333613.
+23:49:55.294 - 333655 - I - [BYTEVIEW-BYTERTC]: Falcon version: 6.9.9
+23:49:55.294 - 333655 - I - [BYTEVIEW-BYTERTC]: Falcon package, IsMacArm64: false
+23:49:55.294 - 333655 - I - [BYTEVIEW-BYTERTC]: try to register exit_notifier.
+23:49:55.294 - 333655 - I - [BYTEVIEW-BYTERTC]: exit_handler register successed.
+23:49:55.294 - 333655 - I - [BYTEVIEW-BYTERTC]: entry Init
+23:49:55.294 - 333655 - I - [BYTEVIEW_TASK]: entry Reset
+23:49:55.294 - 333655 - I - [BYTEVIEW_TASK]: exit Reset, cost : 0
+23:49:55.294 - 333655 - I - [BYTEVIEW_TASK]: entry TaskRunner
+23:49:55.294 - 333655 - I - [BYTEVIEW_TASK]: TaskRunner created, type: 2
+23:49:55.294 - 333655 - I - [BYTEVIEW_TASK]: exit TaskRunner, cost : 0
+23:49:55.294 - 333655 - I - [BYTEVIEW_TASK]: entry TaskRunner
+23:49:55.294 - 333655 - I - [BYTEVIEW_TASK]: TaskRunner created, type: 3
+23:49:55.294 - 333655 - I - [BYTEVIEW_TASK]: exit TaskRunner, cost : 0
+23:49:55.294 - 333655 - I - [BYTEVIEW_TASK]: entry TaskRunner
+23:49:55.294 - 333655 - I - [BYTEVIEW_TASK]: TaskRunner created, type: 4
+23:49:55.294 - 333655 - I - [BYTEVIEW_TASK]: exit TaskRunner, cost : 0
+23:49:55.294 - 333655 - I - [BYTEVIEW_TASK]: entry TaskRunner
+23:49:55.294 - 333655 - I - [BYTEVIEW_TASK]: TaskRunner created, type: 8
+23:49:55.294 - 333655 - I - [BYTEVIEW_TASK]: exit TaskRunner, cost : 0
+23:49:55.294 - 333655 - I - [BYTEVIEW_TASK]: entry TaskRunner
+23:49:55.294 - 333655 - I - [BYTEVIEW_TASK]: TaskRunner created, type: 9
+23:49:55.294 - 333655 - I - [BYTEVIEW_TASK]: exit TaskRunner, cost : 0
+23:49:55.294 - 333655 - I - [BYTEVIEW_TASK]: entry TaskRunnerMonitor
+23:49:55.294 - 333655 - I - [BYTEVIEW_TASK]: TaskRunnerMonitor created.
+23:49:55.294 - 333655 - I - [BYTEVIEW_TASK]: exit TaskRunnerMonitor, cost : 0
+23:49:55.294 - 333655 - I - [BYTEVIEW_TASK]: entry TimerTaskRunner
+23:49:55.294 - 333655 - I - [BYTEVIEW_TASK]: TimerTaskRunner created.
+23:49:55.294 - 333655 - I - [BYTEVIEW_TASK]: exit TimerTaskRunner, cost : 0
+23:49:55.294 - 333655 - I - [BYTEVIEW_TASK]: entry UITaskRunner
+23:49:55.294 - 333655 - I - [BYTEVIEW_TASK]: UITaskRunner created.
+23:49:55.294 - 333655 - I - [BYTEVIEW_TASK]: exit UITaskRunner, cost : 0
+23:49:55.294 - 333655 - I - [BYTEVIEW_TASK]: entry StartRunner
+23:49:55.294 - 333655 - I - [BYTEVIEW_TASK]: TimerTaskRunner start runner.
+23:49:55.295 - 333655 - I - [BYTEVIEW_TASK]: exit StartRunner, cost : 1
+23:49:55.295 - 333655 - I - [BYTEVIEW_TASK]: entry StartRunner
+23:49:55.295 - 333655 - I - [BYTEVIEW_TASK]: UITaskRunner start runner.
+23:49:55.295 - 333655 - I - [BYTEVIEW_TASK]: exit StartRunner, cost : 0
+23:49:55.295 - 333655 - I - [BYTEVIEW_TASK]: entry StartRunner
+23:49:55.295 - 333655 - I - [BYTEVIEW_TASK]: TaskRunner start runner, type: 3.
+23:49:55.295 - 333655 - I - [BYTEVIEW_TASK]: exit StartRunner, cost : 0
+23:49:55.295 - 333655 - I - [BYTEVIEW_TASK]: entry StartRunner
+23:49:55.295 - 333655 - I - [BYTEVIEW_TASK]: TaskRunner start runner, type: 4.
+23:49:55.295 - 333655 - I - [BYTEVIEW_TASK]: exit StartRunner, cost : 0
+23:49:55.295 - 333655 - I - [BYTEVIEW_TASK]: entry StartRunner
+23:49:55.295 - 333655 - I - [BYTEVIEW_TASK]: TaskRunner start runner, type: 2.
+23:49:55.295 - 333655 - I - [BYTEVIEW_TASK]: exit StartRunner, cost : 0
+23:49:55.295 - 333655 - I - [BYTEVIEW_TASK]: entry StartRunner
+23:49:55.295 - 333655 - I - [BYTEVIEW_TASK]: TaskRunner start runner, type: 8.
+23:49:55.295 - 333655 - I - [BYTEVIEW_TASK]: exit StartRunner, cost : 0
+23:49:55.295 - 333655 - I - [BYTEVIEW_TASK]: entry TaskRunner
+23:49:55.295 - 333655 - I - [BYTEVIEW_TASK]: TaskRunner created, type: 10
+23:49:55.295 - 333655 - I - [BYTEVIEW_TASK]: exit TaskRunner, cost : 0
+23:49:55.295 - 333655 - I - [BYTEVIEW_TASK]: entry StartRunner
+23:49:55.295 - 333655 - I - [BYTEVIEW_TASK]: TaskRunner start runner, type: 10.
+23:49:55.295 - 333655 - I - [BYTEVIEW_TASK]: exit StartRunner, cost : 0
+23:49:55.295 - 333655 - I - [BYTEVIEW_TASK]: entry TaskRunner
+23:49:55.295 - 333655 - I - [BYTEVIEW_TASK]: TaskRunner created, type: 11
+23:49:55.295 - 333655 - I - [BYTEVIEW_TASK]: exit TaskRunner, cost : 0
+23:49:55.295 - 333655 - I - [BYTEVIEW_TASK]: entry StartRunner
+23:49:55.295 - 333655 - I - [BYTEVIEW_TASK]: TaskRunner start runner, type: 11.
+23:49:55.295 - 333655 - I - [BYTEVIEW_TASK]: exit StartRunner, cost : 0
+23:49:55.295 - 333655 - I - [BYTEVIEW_TASK]: TaskRunnerManager, enable_usb_dev_process is false, start usbdevice main task and capture card listener task
+23:49:55.295 - 333655 - I - [BYTEVIEW_TASK]: entry TaskRunner
+23:49:55.295 - 333655 - I - [BYTEVIEW_TASK]: TaskRunner created, type: 6
+23:49:55.295 - 333655 - I - [BYTEVIEW_TASK]: exit TaskRunner, cost : 0
+23:49:55.295 - 333655 - I - [BYTEVIEW_TASK]: entry StartRunner
+23:49:55.295 - 333655 - I - [BYTEVIEW_TASK]: TaskRunner start runner, type: 6.
+23:49:55.295 - 333655 - I - [BYTEVIEW_TASK]: exit StartRunner, cost : 0
+23:49:55.295 - 333655 - I - [BYTEVIEW_TASK]: entry StartRunner
+23:49:55.295 - 333655 - I - [BYTEVIEW_TASK]: TaskRunner start runner, type: 9.
+23:49:55.295 - 333655 - I - [BYTEVIEW_TASK]: exit StartRunner, cost : 0
+23:49:55.295 - 333655 - I - [BYTEVIEW_TASK]: entry TaskRunner
+23:49:55.295 - 333655 - I - [BYTEVIEW_TASK]: TaskRunner created, type: 12
+23:49:55.295 - 333655 - I - [BYTEVIEW_TASK]: exit TaskRunner, cost : 0
+23:49:55.295 - 333655 - I - [BYTEVIEW_TASK]: entry StartRunner
+23:49:55.295 - 333655 - I - [BYTEVIEW_TASK]: TaskRunner start runner, type: 12.
+23:49:55.296 - 333655 - I - [BYTEVIEW_TASK]: exit StartRunner, cost : 0
+23:49:55.296 - 333655 - I - [BYTEVIEW_TASK]: entry TaskRunner
+23:49:55.296 - 333655 - I - [BYTEVIEW_TASK]: TaskRunner created, type: 13
+23:49:55.296 - 333655 - I - [BYTEVIEW_TASK]: exit TaskRunner, cost : 0
+23:49:55.296 - 333655 - I - [BYTEVIEW_TASK]: entry StartRunner
+23:49:55.296 - 333655 - I - [BYTEVIEW_TASK]: TaskRunner start runner, type: 13.
+23:49:55.296 - 333655 - I - [BYTEVIEW_TASK]: exit StartRunner, cost : 0
+23:49:55.296 - 333655 - I - [BYTEVIEW_TASK]: entry StartRunner
+23:49:55.296 - 333655 - I - [BYTEVIEW_TASK]: TaskRunnerMonitor start runner.
+23:49:55.296 - 333655 - I - [BYTEVIEW_TASK]: exit StartRunner, cost : 0
+23:49:55.296 - 333655 - I - [BYTEVIEW-BYTERTC]: SDKInitLogic::SDKInitLogic()
+23:49:55.299 - 333703 - I - [BYTEVIEW_TASK]: TimerTaskRunner Running, thread name: falcon_timer_thread
+23:49:55.299 - 333706 - I - [BYTEVIEW_TASK]: TaskRunner Running, type:4, thread name: falcon_callback_thread
+23:49:55.299 - 333707 - I - [BYTEVIEW_TASK]: TaskRunner Running, type:2, thread name: falcon_main_thread
+23:49:55.299 - 333708 - I - [BYTEVIEW_TASK]: TaskRunner Running, type:8, thread name: falcon_audio_thread
+23:49:55.301 - 333704 - I - [BYTEVIEW_TASK]: UITaskRunner Running, thread name: falcon_ui_thread
+23:49:55.301 - 333705 - I - [BYTEVIEW_TASK]: TaskRunner Running, type:3, thread name: falcon_device_thread
+23:49:55.301 - 333709 - I - [BYTEVIEW_TASK]: TaskRunner Running, type:10, thread name: falcon_usb_send_thread
+23:49:55.301 - 333710 - I - [BYTEVIEW_TASK]: TaskRunner Running, type:11, thread name: falcon_usb_receive_thread
+23:49:55.301 - 333711 - I - [BYTEVIEW_TASK]: TaskRunner Running, type:6, thread name: falcon_usb_device_main_thread
+23:49:55.301 - 333712 - I - [BYTEVIEW_TASK]: TaskRunner Running, type:9, thread name: falcon_capturecard_listener_thread
+23:49:55.301 - 333713 - I - [BYTEVIEW_TASK]: TaskRunner Running, type:12, thread name: usb_device_send_thread
+23:49:55.301 - 333714 - I - [BYTEVIEW_TASK]: TaskRunner Running, type:13, thread name: usb_device_receive_thread
+23:49:55.301 - 333715 - I - [BYTEVIEW_TASK]: TaskRunnerMonitor Running, thread name: falcon_monitor_thread
+23:49:55.301 - 333655 - I - [BYTEVIEW-BYTERTC]: DeviceLogic::DeviceLogic
+23:49:55.301 - 333655 - I - [BYTEVIEW-BYTERTC]: entry init
+23:49:55.302 - 333655 - I - [BYTEVIEW-BYTERTC]: [EncryptLogic] init success.
+23:49:55.302 - 333655 - I - [BYTEVIEW-BYTERTC]: exit init, cost : 1
+23:49:55.302 - 333655 - I - [BYTEVIEW-BYTERTC]: exit Init, cost : 8
+23:49:55.302 - 333655 - I - [BYTEVIEW-BYTERTC]: Falcon sdklogic init begin !!!
+23:49:55.302 - 333655 - I - [BYTEVIEW-BYTERTC]: entry ExecuteInit
+23:49:55.302 - 333655 - I - [BYTEVIEW-BYTERTC]: entry InitStore
+23:49:55.302 - 333655 - I - [BYTEVIEW-BYTERTC]: [devicelogic]enable_byteview_device:true,enable_device_remember:true,enable_init_device:true,enable_hot_swap_device_auto_change:true,enable_hot_swap_video_device_auto_change:true,enable_same_as_system:false,record_auto_switch_flag:false,size1:0,size2:0
+23:49:55.302 - 333655 - I - [BYTEVIEW-BYTERTC]: exit InitStore, cost : 0
+23:49:55.302 - 333655 - I - [BYTEVIEW-BYTERTC]: entry PreInit
+23:49:55.302 - 333655 - I - [BYTEVIEW-BYTERTC]: exit PreInit, cost : 0
+23:49:55.302 - 333655 - I - [BYTEVIEW-BYTERTC]: entry LogicInit
+23:49:55.303 - 333655 - I - [BYTEVIEW-BYTERTC]: entry ByteRtcEngineMediator
+23:49:55.303 - 333655 - I - [BYTEVIEW-BYTERTC]: RoomMessageManager::construct
+23:49:55.303 - 333655 - I - [BYTEVIEW-BYTERTC]: entry EventHandler
+23:49:55.303 - 333655 - I - [BYTEVIEW-BYTERTC]: exit EventHandler, cost : 0
+23:49:55.304 - 333655 - I - [BYTEVIEW-BYTERTC]: RoomMessageManager::addMessageHandler, context 2, handler 0x7f930c041700]
+23:49:55.307 - 333655 - I - [BYTEVIEW-BYTERTC]: EffectResourceManager init
+23:49:55.307 - 333655 - I - [BYTEVIEW-BYTERTC]: SetDefaultVideoOutputMode enableShareMemory:true, enableCallback:false
+23:49:55.307 - 333655 - I - [BYTEVIEW-BYTERTC]: EnableShareMemorySlots add loop listener
+23:49:55.308 - 333655 - I - [BYTEVIEW-BYTERTC]: entry addDaemonEventHandler
+23:49:55.308 - 333655 - I - [BYTEVIEW-BYTERTC]: exit addDaemonEventHandler, cost : 0
+23:49:55.308 - 333655 - I - [BYTEVIEW-BYTERTC]: exit ByteRtcEngineMediator, cost : 5
+23:49:55.310 - 333655 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineMediator::InitAudioDump
+23:49:55.310 - 333655 - I - [BYTEVIEW-BYTERTC]: create m_audiodumpManger succeed.
+23:49:55.310 - 333655 - I - [BYTEVIEW-BYTERTC]: entry SetLogPath
+23:49:55.310 - 333655 - I - [BYTEVIEW-BYTERTC]: AudiodumpManager::SetLogPath, CreateFolder audiodump succeed
+23:49:55.310 - 333655 - I - [BYTEVIEW-BYTERTC]: exit SetLogPath, cost : 0
+23:49:55.310 - 333655 - I - [BYTEVIEW-BYTERTC]: AudiodumpManager::CheckAudioDumpFiles
+23:49:55.310 - 333655 - I - [BYTEVIEW-BYTERTC]: entry DoctorImpl
+23:49:55.310 - 333655 - I - [BYTEVIEW-BYTERTC]: exit DoctorImpl, cost : 0
+23:49:55.310 - 333655 - I - [BYTEVIEW-BYTERTC]: setDumpPath len:70, isEnableDumpLog: true
+23:49:55.310 - 333655 - I - [BYTEVIEW-BYTERTC]: entry Init
+23:49:55.310 - 333655 - I - [BYTEVIEW-BYTERTC]: exit Init, cost : 0
+23:49:55.311 - 333655 - I - [BYTEVIEW-BYTERTC]: InitDoctorModule, start getCoreAudioStatus, interval 12000
+23:49:55.311 - 333655 - I - [BYTEVIEW-BYTERTC]: enter CoreAudioStatusManager::getCoreAudioStatus, timeInterval 12000
+23:49:55.311 - 333655 - I - [BYTEVIEW-BYTERTC]: entry WavFormatManager
+23:49:55.311 - 333655 - I - [BYTEVIEW-BYTERTC]: exit WavFormatManager, cost : 0
+23:49:55.311 - 333655 - I - [BYTEVIEW-BYTERTC]: exit LogicInit, cost : 9
+23:49:55.311 - 333655 - I - [BYTEVIEW-BYTERTC]: exit ExecuteInit, cost : 9
+23:49:55.311 - 333655 - I - [BYTEVIEW-BYTERTC]: Falcon sdklogic init end !!!
+23:49:55.311 - 333655 - I - [BYTEVIEW-BYTERTC]: Hello, Falcon init end !!!
+23:49:55.312 - 333655 - I - [BYTEVIEW-BYTERTC]: SetRestartCoreaudiodAuthorizationDescription, authorizationDescription len: 80
+23:49:55.313 - 333655 - I - [BYTEVIEW-BYTERTC]: SetRestartCoreaudiodAuthorizationDescriptionForRtc, authorizationDescription len: 80
+23:49:55.313 - 333707 - I - [BYTEVIEW-BYTERTC]: entry setRestartCoreaudiodAuthorizationDescriptionForRtc
+23:49:55.313 - 333707 - I - [BYTEVIEW-BYTERTC]: setRestartCoreaudiodAuthorizationDescriptionForRtc len: 80
+23:49:55.313 - 333707 - I - [BYTEVIEW-BYTERTC]: exit setRestartCoreaudiodAuthorizationDescriptionForRtc, cost : 0
+23:49:55.313 - 333655 - I - [BYTEVIEW-BYTERTC]: SetRestartVdcAssistantAuthorizationDescription, authorizationDescription len: 76
+23:49:55.313 - 333655 - I - [BYTEVIEW-BYTERTC]: entry ServerOptionSetRtcFgConfig
+23:49:55.313 - 333655 - I - [BYTEVIEW-BYTERTC]: ServerOptionSetRtcFgConfig,rtc_fg_config={"byteview.callmeeting.client.rtc.hdmiaec":"true","byteview.callmeeting.client.rtc.sharequalityfps":"true","byteview.callmeeting.client.rtc.simulcast":"true"}
+23:49:55.313 - 333655 - I - [BYTEVIEW-BYTERTC]: exit ServerOptionSetRtcFgConfig, cost : 0
+23:49:55.313 - 333655 - I - [BYTEVIEW-BYTERTC]: entry ServerOptionSetVendorType
+23:49:55.313 - 333655 - I - [BYTEVIEW-BYTERTC]: ServerOptionSetVendorType, vendor_type=3, isMediaOversea=true, isDataOversea=true, service_type=vc
+23:49:55.313 - 333707 - I - [BYTEVIEW-BYTERTC]: setVendorType - ByteRtcVendorType: 3, isMediaOversea: true, isDataOversea: true, serviceType: vc
+23:49:55.313 - 333655 - I - [BYTEVIEW-BYTERTC]: exit ServerOptionSetVendorType, cost : 0
+23:49:55.313 - 333655 - I - [BYTEVIEW-BYTERTC]: entry SetEnableKaMedia
+23:49:55.313 - 333655 - I - [BYTEVIEW-BYTERTC]: setEnableKAMedia true
+23:49:55.313 - 333655 - I - [BYTEVIEW-BYTERTC]: exit SetEnableKaMedia, cost : 0
+23:49:55.313 - 333655 - I - [BYTEVIEW-BYTERTC]: entry ServerOptionSetEnableSameAsSystem
+23:49:55.313 - 333655 - I - [BYTEVIEW-BYTERTC]: ServerOptionSetEnableSameAsSystem,enable=true
+23:49:55.313 - 333655 - I - [BYTEVIEW-BYTERTC]: exit ServerOptionSetEnableSameAsSystem, cost : 0
+23:49:55.313 - 333655 - I - [BYTEVIEW-BYTERTC]: entry ServerOptionSetDeviceSameAsSystemConfig
+23:49:55.313 - 333655 - I - [BYTEVIEW-BYTERTC]: exit ServerOptionSetDeviceSameAsSystemConfig, cost : 0
+23:49:55.313 - 333655 - I - [BYTEVIEW-BYTERTC]: entry EnableRecordAutoSwitch
+23:49:55.313 - 333655 - I - [BYTEVIEW-BYTERTC]: EnableRecordAutoSwitch,enable=true
+23:49:55.313 - 333655 - I - [BYTEVIEW-BYTERTC]: exit EnableRecordAutoSwitch, cost : 0
+23:49:55.313 - 333655 - I - [BYTEVIEW-BYTERTC]: entry ServerOptionSetExcludeDeviceType
+23:49:55.313 - 333655 - I - [BYTEVIEW-BYTERTC]: ServerOptionSetExcludeDeviceType,exclude_device_type=0
+23:49:55.313 - 333655 - I - [BYTEVIEW-BYTERTC]: exit ServerOptionSetExcludeDeviceType, cost : 0
+23:49:55.313 - 333655 - I - [BYTEVIEW-BYTERTC]: entry ServerOptionSetDeviceNameBlackList
+23:49:55.313 - 333655 - I - [BYTEVIEW-BYTERTC]: ServerOptionSetDeviceNameBlackList,size=31
+23:49:55.313 - 333655 - I - [BYTEVIEW-BYTERTC]: exit ServerOptionSetDeviceNameBlackList, cost : 0
+23:49:55.314 - 333655 - I - [BYTEVIEW-BYTERTC]: entry ServerOptionSetMemDeviceNameBlackList
+23:49:55.314 - 333655 - I - [BYTEVIEW-BYTERTC]: ServerOptionSetMemDeviceNameBlackList,size=25
+23:49:55.314 - 333655 - I - [BYTEVIEW-BYTERTC]: exit ServerOptionSetMemDeviceNameBlackList, cost : 0
+23:49:55.314 - 333655 - I - [BYTEVIEW-BYTERTC]: entry ServerOptionSetIgnoreDefaultDeviceIds
+23:49:55.314 - 333655 - I - [BYTEVIEW-BYTERTC]: ServerOptionSetIgnoreDefaultDeviceIds,size=1
+23:49:55.314 - 333655 - I - [BYTEVIEW-BYTERTC]: ServerOptionSetIgnoreDefaultDeviceIds :ByteviewAudioDevice_UID
+23:49:55.314 - 333655 - I - [BYTEVIEW-BYTERTC]: exit ServerOptionSetIgnoreDefaultDeviceIds, cost : 0
+23:49:55.314 - 333655 - I - [BYTEVIEW-BYTERTC]: entry ServerOptionSetEnableHotSwapVideoDeviceAutoChange
+23:49:55.314 - 333655 - I - [BYTEVIEW-BYTERTC]: ServerOptionSetEnableHotSwapVideoDeviceAutoChange,enable=false
+23:49:55.314 - 333655 - I - [BYTEVIEW-BYTERTC]: exit ServerOptionSetEnableHotSwapVideoDeviceAutoChange, cost : 0
+23:49:55.314 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.314 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 33.
+23:49:55.314 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.314 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.314 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 258.
+23:49:55.314 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.314 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.314 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 45.
+23:49:55.314 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.314 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.314 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 15.
+23:49:55.314 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.314 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.314 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 30.
+23:49:55.314 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.314 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.314 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 30.
+23:49:55.314 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.314 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.314 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 45.
+23:49:55.314 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.314 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.314 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 239.
+23:49:55.314 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.314 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.314 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 221.
+23:49:55.314 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.314 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.314 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 15.
+23:49:55.314 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.314 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.314 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 45.
+23:49:55.314 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.314 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.314 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 15.
+23:49:55.314 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.314 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.314 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 265.
+23:49:55.314 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.314 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.314 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 15.
+23:49:55.314 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.314 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.314 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 45.
+23:49:55.314 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.314 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.314 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 15.
+23:49:55.314 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.314 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.314 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 15.
+23:49:55.314 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.314 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.314 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 15.
+23:49:55.314 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.315 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.315 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 16.
+23:49:55.315 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.315 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.315 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 20.
+23:49:55.315 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.315 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.315 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 45.
+23:49:55.315 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.315 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.315 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 16.
+23:49:55.315 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.315 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.315 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 45.
+23:49:55.315 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.315 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.315 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 15.
+23:49:55.315 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.315 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.315 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 45.
+23:49:55.315 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.315 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.315 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 32.
+23:49:55.315 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.315 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.315 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 31.
+23:49:55.315 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.315 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.315 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 22.
+23:49:55.315 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.315 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.315 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 31.
+23:49:55.315 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.315 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.315 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 19.
+23:49:55.315 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.315 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.315 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 30.
+23:49:55.315 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.315 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.315 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 15.
+23:49:55.315 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.315 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.315 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 37.
+23:49:55.315 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.315 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.315 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 45.
+23:49:55.315 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.315 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.315 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 30.
+23:49:55.315 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.315 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.315 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 15.
+23:49:55.315 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.315 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.315 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 30.
+23:49:55.315 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.315 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.315 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 15.
+23:49:55.315 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.315 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.315 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 19.
+23:49:55.315 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.315 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.315 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 45.
+23:49:55.315 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.315 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.315 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 45.
+23:49:55.315 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:33
+23:49:55.315 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.315 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.315 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 363.
+23:49:55.315 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.315 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.315 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 15.
+23:49:55.315 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.315 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.315 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 37.
+23:49:55.315 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.315 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.315 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 45.
+23:49:55.315 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.315 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.315 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 37.
+23:49:55.315 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.315 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.315 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 15.
+23:49:55.315 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.315 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.315 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 31.
+23:49:55.315 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.315 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.315 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 49.
+23:49:55.315 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.315 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.315 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 326.
+23:49:55.315 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.315 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.315 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 299.
+23:49:55.315 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.315 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.315 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 15.
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 1
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 223.
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 30.
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 20.
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 227.
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 45.
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 30.
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 503.
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 37.
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 15.
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 33.
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 45.
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 45.
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 15.
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 37.
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 15.
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 3.
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 15.
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 45.
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 305.
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 15.
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 48.
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 24.
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 45.
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 299.
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 37.
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 271.
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 15.
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 33.
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 30.
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 371.
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 47.
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 43.
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 35.
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 45.
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 15.
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 45.
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 32.
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 47.
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 291.
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 16.
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 49.
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 37.
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 214.
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 15.
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 16.
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 15.
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 44.
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 37.
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 32.
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 45.
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 45.
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 15.
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 315.
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 227.
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 30.
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 30.
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 10.
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 15.
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 45.
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 47.
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 37.
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 16.
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 337.
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 45.
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 19.
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 49.
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 33.
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 15.
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 45.
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 15.
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 32.
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 15.
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 39.
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 343.
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 37.
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 22.
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 37.
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 30.
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 15.
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 45.
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 45.
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 29.
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 31.
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 15.
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 15.
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.316 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.317 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 30.
+23:49:55.317 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 1
+23:49:55.317 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.317 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 45.
+23:49:55.317 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.317 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.317 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 45.
+23:49:55.317 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.317 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.317 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 37.
+23:49:55.317 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.317 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.317 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 45.
+23:49:55.317 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.317 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.317 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 30.
+23:49:55.317 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.317 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.317 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 49.
+23:49:55.317 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.317 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.317 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 30.
+23:49:55.317 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.317 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.317 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 239.
+23:49:55.317 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.317 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.317 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 45.
+23:49:55.317 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.317 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.317 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 48.
+23:49:55.317 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.317 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.317 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 45.
+23:49:55.317 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.317 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.317 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 15.
+23:49:55.317 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.317 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.317 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 45.
+23:49:55.317 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.317 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.317 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 45.
+23:49:55.317 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.317 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.317 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 33.
+23:49:55.317 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.317 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.317 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 15.
+23:49:55.317 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.317 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.317 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 49.
+23:49:55.317 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.317 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.317 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 37.
+23:49:55.317 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.317 - 333655 - I - [BYTEVIEW-BYTERTC]: entry AddCertificate
+23:49:55.317 - 333655 - I - [BYTEVIEW-BYTERTC]: AddCertificate, length: 16.
+23:49:55.317 - 333655 - I - [BYTEVIEW-BYTERTC]: exit AddCertificate, cost : 0
+23:49:55.317 - 333727 - I - [BYTEVIEW-BYTERTC]: CoreAudioStatusManager send OnCoreAudioStatusUpdated, IsNormal true
+23:49:55.318 - 333726 - I - [BYTEVIEW-BYTERTC]: AudiodumpManager::DoCheckAudioDumpFiles, folderList size 0
+23:49:55.318 - 333726 - I - [BYTEVIEW-BYTERTC]: left file size is 0,  do not need delete
+23:49:55.318 - 333655 - I - [BYTEVIEW-BYTERTC]: Falcon rtcsdk init begin !!!
+23:49:55.318 - 333655 - I - [BYTEVIEW-BYTERTC]: entry ExecuteInitRtc
+23:49:55.321 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:258
+23:49:55.321 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:45
+23:49:55.321 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:15
+23:49:55.321 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:30
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:30
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:45
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:239
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:221
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:15
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:45
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:15
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:265
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:15
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:45
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:15
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:15
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:15
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:16
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:20
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:45
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:16
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:45
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:15
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:45
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:32
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:31
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:22
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:31
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:19
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:30
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:15
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:37
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:45
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:30
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:15
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:30
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:15
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:19
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:45
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:45
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:363
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:15
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:37
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:45
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:37
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:15
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:31
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:49
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:326
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:299
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:15
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:223
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:30
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:20
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:227
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:45
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:30
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:503
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:37
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:15
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:33
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:45
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:45
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:15
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:37
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:15
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:3
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:15
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:45
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:305
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:15
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:48
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:24
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:45
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:299
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:37
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:271
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:15
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:33
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:30
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:371
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:47
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:43
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:35
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:45
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:15
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:45
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:32
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:47
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:291
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:16
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:49
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:37
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:214
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:15
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:16
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:15
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:44
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:37
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:32
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:45
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:45
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:15
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:315
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:227
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:30
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:30
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:10
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:15
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:45
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:47
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:37
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:16
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:337
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:45
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:19
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:49
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:33
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:15
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:45
+23:49:55.322 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:15
+23:49:55.323 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:32
+23:49:55.323 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:15
+23:49:55.323 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:39
+23:49:55.323 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:343
+23:49:55.323 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:37
+23:49:55.323 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:22
+23:49:55.323 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:37
+23:49:55.323 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:30
+23:49:55.323 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:15
+23:49:55.323 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:45
+23:49:55.323 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:45
+23:49:55.323 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:29
+23:49:55.323 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:31
+23:49:55.323 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:15
+23:49:55.323 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:15
+23:49:55.323 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:30
+23:49:55.323 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:45
+23:49:55.323 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:45
+23:49:55.323 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:37
+23:49:55.323 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:45
+23:49:55.323 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:30
+23:49:55.323 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:49
+23:49:55.323 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:30
+23:49:55.323 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:239
+23:49:55.323 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:45
+23:49:55.323 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:48
+23:49:55.323 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:45
+23:49:55.323 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:15
+23:49:55.323 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:45
+23:49:55.323 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:45
+23:49:55.323 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:33
+23:49:55.323 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:15
+23:49:55.323 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:49
+23:49:55.323 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:37
+23:49:55.323 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::addCertificate length:16
+23:49:55.323 - 333707 - I - [BYTEVIEW-BYTERTC]: entry UpdateStore
+23:49:55.323 - 333707 - I - [BYTEVIEW-BYTERTC]: [devicelogic]enable_byteview_device:true,enable_device_remember:true,enable_init_device:true,enable_hot_swap_device_auto_change:true,enable_hot_swap_video_device_auto_change:false,enable_same_as_system:true,record_auto_switch_flag:true,size1:31,size2:25
+23:49:55.323 - 333707 - I - [BYTEVIEW-BYTERTC]: exit UpdateStore, cost : 0
+23:49:55.323 - 333707 - I - [BYTEVIEW-BYTERTC]: entry initUseSameAsSytem
+23:49:55.324 - 333707 - I - [BYTEVIEW-BYTERTC]: exit initUseSameAsSytem, cost : 1
+23:49:55.324 - 333707 - I - [BYTEVIEW-BYTERTC]: entry DoInitRtc
+23:49:55.324 - 333707 - I - [BYTEVIEW-BYTERTC]: [SDKInitLogic]: Execute rtc init start...
+23:49:55.324 - 333707 - I - [BYTEVIEW-BYTERTC]: entry Start
+23:49:55.324 - 333707 - I - [BYTEVIEW-BYTERTC]: exit Start, cost : 0
+23:49:55.324 - 333707 - I - [BYTEVIEW-BYTERTC]: [SDKInigLogic]: Set tnc config path.
+23:49:55.324 - 333707 - I - [BYTEVIEW-BYTERTC]: [SDKInigLogic]: Tnc config path is empty.
+23:49:55.324 - 333707 - I - [BYTEVIEW-BYTERTC]: entry SetVenderType
+23:49:55.324 - 333707 - I - [BYTEVIEW-BYTERTC]: exit SetVenderType, cost : 0
+23:49:55.324 - 333707 - I - [BYTEVIEW-BYTERTC]: [MeetingLogic]: SetFgConfig: {"byteview.callmeeting.client.rtc.hdmiaec":"true","byteview.callmeeting.client.rtc.sharequalityfps":"true","byteview.callmeeting.client.rtc.simulcast":"true"}
+23:49:55.324 - 333707 - I - [BYTEVIEW-BYTERTC]: entry SetFgConfig
+23:49:55.324 - 333707 - I - [BYTEVIEW-BYTERTC]: rtcJsonConfig: {"byteview.callmeeting.client.rtc.hdmiaec":"true","byteview.callmeeting.client.rtc.sharequalityfps":"true","byteview.callmeeting.client.rtc.simulcast":"true"}
+23:49:55.324 - 333707 - I - [BYTEVIEW-BYTERTC]: rtcFgConfig: {"byteview.callmeeting.client.rtc.hdmiaec":"true","byteview.callmeeting.client.rtc.sharequalityfps":"true","byteview.callmeeting.client.rtc.simulcast":"true"} falconFgConfig: 
+23:49:55.325 - 333707 - I - [BYTEVIEW-BYTERTC]: exit SetFgConfig, cost : 1
+23:49:55.325 - 333707 - I - [BYTEVIEW-BYTERTC]: entry SetHostName
+23:49:55.325 - 333707 - I - [BYTEVIEW-BYTERTC]: exit SetHostName, cost : 0
+23:49:55.325 - 333707 - I - [BYTEVIEW-BYTERTC]: entry EnableVideoSink
+23:49:55.325 - 333707 - I - [BYTEVIEW-BYTERTC]: exit EnableVideoSink, cost : 0
+23:49:55.325 - 333707 - I - [BYTEVIEW-BYTERTC]: entry SetDefaultVideoOutputMode
+23:49:55.325 - 333707 - I - [BYTEVIEW-BYTERTC]: exit SetDefaultVideoOutputMode, cost : 0
+23:49:55.325 - 333707 - I - [BYTEVIEW-BYTERTC]: [meeting] rtc_params {"bw_threshold":{"extreme_low":400.0,"low":800.0,"multistream_addtion":200.0},"rtc.aid":"666","rtc.linux_effect":1,"meeting_network_quality_strategy":{"downlink":{"bw_kbps":{"audio_bad":10,"screen_bad":200,"video_bad":200},"loss_percent":{"audio_bad":60,"audio_good":40,"screen_bad":50,"screen_good":30,"video_bad":60,"video_good":40},"rtt_ms":{"bad":5000,"good":2000,"screen_bad":5000,"screen_good":2000}},"soomth_config":{"down":2,"up":2},"uplink":{"bw_kbps":{"audio_bad":10,"screen_bad":200,"video_bad":160},"loss_percent":{"audio_bad":60,"audio_good":40,"screen_bad":50,"screen_good":30,"video_bad":60,"video_good":40},"pub_video_map":{"1080":{"bad":270,"good":630},"144":{"bad":40,"good":144},"180":{"bad":40,"good":180},"270":{"bad":40,"good":180},"360":{"bad":90,"good":270},"450":{"bad":144,"good":270},"540":{"bad":144,"good":360},"630":{"bad":180,"good":450},"720":{"bad":180,"good":450},"90":{"bad":40,"good":90}},"rtt_ms":{"bad":5000,"good":2000,"screen_bad":5000,"screen_good":2000}}}}
+23:49:55.325 - 333707 - I - [BYTEVIEW-BYTERTC]: entry InitRtcEngine
+23:49:55.325 - 333707 - I - [BYTEVIEW-BYTERTC]: init g_bEngineMediatorCreated=true
+23:49:55.325 - 333707 - I - [BYTEVIEW-BYTERTC]: entry initEngine
+23:49:55.325 - 333707 - I - [BYTEVIEW-BYTERTC]: initEngine use byteviewdevice
+23:49:55.325 - 333707 - I - [BYTEVIEW-BYTERTC]: entry DeviceManager
+23:49:55.325 - 333707 - I - [BYTEVIEW-BYTERTC]: entry initDeviceManagerAdapter
+23:49:55.325 - 333707 - I - [BYTEVIEW-BYTERTC]: DeviceManager::initDeviceManagerAdapter always useRtc
+23:49:55.325 - 333707 - I - [BYTEVIEW-BYTERTC]: engine null
+23:49:55.325 - 333707 - I - [BYTEVIEW-BYTERTC]: entry ByteRtcAudioDeviceAdapter
+23:49:55.325 - 333707 - I - [BYTEVIEW-BYTERTC]: exit ByteRtcAudioDeviceAdapter, cost : 0
+23:49:55.325 - 333707 - I - [BYTEVIEW-BYTERTC]: entry Init
+23:49:55.325 - 333707 - I - [BYTEVIEW-BYTERTC]: exit Init, cost : 0
+23:49:55.325 - 333707 - I - [BYTEVIEW-BYTERTC]: exit initDeviceManagerAdapter, cost : 0
+23:49:55.325 - 333707 - I - [BYTEVIEW-BYTERTC]: exit DeviceManager, cost : 0
+23:49:55.325 - 333707 - I - [BYTEVIEW-BYTERTC]: entry initEngine
+23:49:55.325 - 333707 - I - [BYTEVIEW-BYTERTC]: intiEngine - appID: 5b978bab09b27c0034d252c0, serverName: ByteviewFalcon processId: 333613
+23:49:55.325 - 333707 - I - [BYTEVIEW-BYTERTC]: initEngine add loop listener
+23:49:55.325 - 333707 - I - [BYTEVIEW-BYTERTC]: initEngine create engine
+23:49:55.454 - 333747 - I - [BYTEVIEW-BYTERTC]: EventHandler::OnConnectionStateChanged state 2
+23:49:55.542 - 333613 - I - [BYTEVIEW-BYTERTC]: entry RustIpcClientErrorReport
+23:49:55.542 - 333613 - I - [BYTEVIEW-BYTERTC]: exit RustIpcClientErrorReport, cost : 0
+23:49:55.542 - 333613 - I - [BYTEVIEW-BYTERTC]: entry rustIPCClientInstallForIron
+23:49:55.542 - 333613 - I - [BYTEVIEW-BYTERTC]: entry Init
+23:49:55.542 - 333613 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] connected to server.
+23:49:55.542 - 333613 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] rust sdk init successed.
+23:49:55.542 - 333613 - I - [BYTEVIEW-BYTERTC]: exit Init, cost : 0
+23:49:55.542 - 333613 - I - [BYTEVIEW-BYTERTC]: exit rustIPCClientInstallForIron, cost : 0
+23:49:55.542 - 333613 - I - [BYTEVIEW-BYTERTC]: entry RustIPCClientSubscribeForIron
+23:49:55.542 - 333613 - I - [BYTEVIEW-BYTERTC]: entry RegisterPush
+23:49:55.542 - 333613 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] register push, cmd count: 44
+23:49:55.542 - 333613 - I - [BYTEVIEW-BYTERTC]: Register Push Command: 5046
+23:49:55.542 - 333613 - I - [BYTEVIEW-BYTERTC]: Register Push Command: 87103
+23:49:55.542 - 333613 - I - [BYTEVIEW-BYTERTC]: Register Push Command: 2313
+23:49:55.542 - 333613 - I - [BYTEVIEW-BYTERTC]: Register Push Command: 87101
+23:49:55.542 - 333613 - I - [BYTEVIEW-BYTERTC]: Register Push Command: 2306
+23:49:55.542 - 333613 - I - [BYTEVIEW-BYTERTC]: Register Push Command: 87104
+23:49:55.542 - 333613 - I - [BYTEVIEW-BYTERTC]: Register Push Command: 89325
+23:49:55.542 - 333613 - I - [BYTEVIEW-BYTERTC]: Register Push Command: 89343
+23:49:55.542 - 333613 - I - [BYTEVIEW-BYTERTC]: Register Push Command: 89344
+23:49:55.542 - 333613 - I - [BYTEVIEW-BYTERTC]: Register Push Command: 2210
+23:49:55.542 - 333613 - I - [BYTEVIEW-BYTERTC]: Register Push Command: 2215
+23:49:55.542 - 333613 - I - [BYTEVIEW-BYTERTC]: Register Push Command: 2303
+23:49:55.542 - 333613 - I - [BYTEVIEW-BYTERTC]: Register Push Command: 89392
+23:49:55.542 - 333613 - I - [BYTEVIEW-BYTERTC]: Register Push Command: 88889
+23:49:55.542 - 333613 - I - [BYTEVIEW-BYTERTC]: Register Push Command: 5012
+23:49:55.542 - 333613 - I - [BYTEVIEW-BYTERTC]: Register Push Command: 2350
+23:49:55.542 - 333613 - I - [BYTEVIEW-BYTERTC]: Register Push Command: 2371
+23:49:55.542 - 333613 - I - [BYTEVIEW-BYTERTC]: Register Push Command: 6014
+23:49:55.542 - 333613 - I - [BYTEVIEW-BYTERTC]: Register Push Command: 6087
+23:49:55.542 - 333613 - I - [BYTEVIEW-BYTERTC]: Register Push Command: 5010
+23:49:55.542 - 333613 - I - [BYTEVIEW-BYTERTC]: Register Push Command: 2360
+23:49:55.542 - 333613 - I - [BYTEVIEW-BYTERTC]: Register Push Command: 89101
+23:49:55.542 - 333613 - I - [BYTEVIEW-BYTERTC]: Register Push Command: 89104
+23:49:55.542 - 333613 - I - [BYTEVIEW-BYTERTC]: Register Push Command: 89111
+23:49:55.542 - 333613 - I - [BYTEVIEW-BYTERTC]: Register Push Command: 89109
+23:49:55.542 - 333613 - I - [BYTEVIEW-BYTERTC]: Register Push Command: 89097
+23:49:55.542 - 333613 - I - [BYTEVIEW-BYTERTC]: Register Push Command: 89346
+23:49:55.542 - 333613 - I - [BYTEVIEW-BYTERTC]: Register Push Command: 1071
+23:49:55.542 - 333613 - I - [BYTEVIEW-BYTERTC]: Register Push Command: 2251
+23:49:55.542 - 333613 - I - [BYTEVIEW-BYTERTC]: Register Push Command: 2143
+23:49:55.542 - 333613 - I - [BYTEVIEW-BYTERTC]: Register Push Command: 1301
+23:49:55.542 - 333613 - I - [BYTEVIEW-BYTERTC]: Register Push Command: 89382
+23:49:55.542 - 333613 - I - [BYTEVIEW-BYTERTC]: Register Push Command: 5301
+23:49:55.542 - 333613 - I - [BYTEVIEW-BYTERTC]: Register Push Command: 2376
+23:49:55.542 - 333613 - I - [BYTEVIEW-BYTERTC]: Register Push Command: 46
+23:49:55.542 - 333613 - I - [BYTEVIEW-BYTERTC]: Register Push Command: 800105
+23:49:55.542 - 333613 - I - [BYTEVIEW-BYTERTC]: Register Push Command: 2397
+23:49:55.542 - 333613 - I - [BYTEVIEW-BYTERTC]: Register Push Command: 4141
+23:49:55.542 - 333613 - I - [BYTEVIEW-BYTERTC]: Register Push Command: 5122
+23:49:55.542 - 333613 - I - [BYTEVIEW-BYTERTC]: Register Push Command: 87106
+23:49:55.542 - 333613 - I - [BYTEVIEW-BYTERTC]: Register Push Command: 87107
+23:49:55.542 - 333613 - I - [BYTEVIEW-BYTERTC]: Register Push Command: 800108
+23:49:55.542 - 333613 - I - [BYTEVIEW-BYTERTC]: Register Push Command: 2363
+23:49:55.542 - 333613 - I - [BYTEVIEW-BYTERTC]: Register Push Command: 5019
+23:49:55.542 - 333613 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] register push successed.
+23:49:55.542 - 333613 - I - [BYTEVIEW-BYTERTC]: exit RegisterPush, cost : 0
+23:49:55.542 - 333613 - I - [BYTEVIEW-BYTERTC]: exit RustIPCClientSubscribeForIron, cost : 0
+23:49:55.542 - 333613 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] InvokeAsync command begin, task_id: 1, cmd: 10000
+23:49:55.542 - 333613 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] InvokeAsync command end, task_id: 1, cmd: 10000
+23:49:55.542 - 333613 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] InvokeAsync command begin, task_id: 2, cmd: 10000
+23:49:55.542 - 333613 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] InvokeAsync command end, task_id: 2, cmd: 10000
+23:49:55.542 - 333613 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] InvokeAsync command begin, task_id: 3, cmd: 10000
+23:49:55.542 - 333613 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] InvokeAsync command end, task_id: 3, cmd: 10000
+23:49:55.543 - 333613 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] InvokeAsync command begin, task_id: 4, cmd: 10000
+23:49:55.543 - 333613 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] InvokeAsync command end, task_id: 4, cmd: 10000
+23:49:55.543 - 333613 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] InvokeAsync command begin, task_id: 5, cmd: 10000
+23:49:55.543 - 333613 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] InvokeAsync command end, task_id: 5, cmd: 10000
+23:49:55.543 - 333613 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] InvokeAsync command begin, task_id: 6, cmd: 10000
+23:49:55.543 - 333613 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] InvokeAsync command end, task_id: 6, cmd: 10000
+23:49:55.543 - 333613 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] InvokeAsync command begin, task_id: 7, cmd: 10000
+23:49:55.543 - 333613 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] InvokeAsync command end, task_id: 7, cmd: 10000
+23:49:55.543 - 333613 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] InvokeAsync command begin, task_id: 8, cmd: 10000
+23:49:55.543 - 333613 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] InvokeAsync command end, task_id: 8, cmd: 10000
+23:49:55.543 - 333613 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] InvokeAsync command begin, task_id: 9, cmd: 10000
+23:49:55.543 - 333613 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] InvokeAsync command end, task_id: 9, cmd: 10000
+23:49:55.543 - 333613 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] InvokeAsync command begin, task_id: 10, cmd: 10000
+23:49:55.543 - 333613 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] InvokeAsync command end, task_id: 10, cmd: 10000
+23:49:55.543 - 333613 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] InvokeAsync command begin, task_id: 11, cmd: 10000
+23:49:55.543 - 333613 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] InvokeAsync command end, task_id: 11, cmd: 10000
+23:49:55.543 - 333613 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] InvokeAsync command begin, task_id: 12, cmd: 10000
+23:49:55.543 - 333613 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] InvokeAsync command end, task_id: 12, cmd: 10000
+23:49:55.543 - 333613 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] InvokeAsync command begin, task_id: 13, cmd: 10000
+23:49:55.543 - 333613 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] InvokeAsync command end, task_id: 13, cmd: 10000
+23:49:55.543 - 333613 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] InvokeAsync command begin, task_id: 14, cmd: 10000
+23:49:55.543 - 333613 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] InvokeAsync command end, task_id: 14, cmd: 10000
+23:49:55.543 - 333613 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] InvokeAsync command begin, task_id: 15, cmd: 10000
+23:49:55.543 - 333613 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] InvokeAsync command end, task_id: 15, cmd: 10000
+23:49:55.544 - 333613 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] InvokeAsync command begin, task_id: 16, cmd: 10000
+23:49:55.544 - 333613 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] InvokeAsync command end, task_id: 16, cmd: 10000
+23:49:55.544 - 333613 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] InvokeAsync command begin, task_id: 17, cmd: 10000
+23:49:55.544 - 333613 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] InvokeAsync command end, task_id: 17, cmd: 10000
+23:49:55.544 - 333613 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] InvokeAsync command begin, task_id: 18, cmd: 10000
+23:49:55.544 - 333613 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] InvokeAsync command end, task_id: 18, cmd: 10000
+23:49:55.544 - 333613 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] InvokeAsync command begin, task_id: 19, cmd: 10000
+23:49:55.544 - 333613 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] InvokeAsync command end, task_id: 19, cmd: 10000
+23:49:55.544 - 333613 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] InvokeAsync command begin, task_id: 20, cmd: 10000
+23:49:55.544 - 333613 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] InvokeAsync command end, task_id: 20, cmd: 10000
+23:49:55.544 - 333613 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] InvokeAsync command begin, task_id: 21, cmd: 10000
+23:49:55.544 - 333613 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] InvokeAsync command end, task_id: 21, cmd: 10000
+23:49:55.544 - 333613 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] InvokeAsync command begin, task_id: 22, cmd: 10000
+23:49:55.544 - 333613 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] InvokeAsync command end, task_id: 22, cmd: 10000
+23:49:55.545 - 333668 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] InvokeAsync command begin, task_id: 23, cmd: 10000
+23:49:55.545 - 333668 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] InvokeAsync command end, task_id: 23, cmd: 10000
+23:49:55.611 - 333782 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] received register push success flag.
+23:49:55.611 - 333782 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] received response data, task id:1.
+23:49:55.612 - 333782 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] received response data, task id:2.
+23:49:55.612 - 333782 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] received response data, task id:11.
+23:49:55.612 - 333782 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] received response data, task id:10.
+23:49:55.612 - 333782 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] received response data, task id:8.
+23:49:55.612 - 333782 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] received response data, task id:7.
+23:49:55.612 - 333782 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] received response data, task id:6.
+23:49:55.612 - 333782 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] received response data, task id:9.
+23:49:55.623 - 333782 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] received response data, task id:21.
+23:49:55.623 - 333782 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] received response data, task id:20.
+23:49:55.626 - 333782 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] received response data, task id:23.
+23:49:55.626 - 333782 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] received response data, task id:22.
+23:49:55.626 - 333782 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] received response data, task id:16.
+23:49:55.630 - 333782 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] received response data, task id:18.
+23:49:55.632 - 333782 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] received response data, task id:17.
+23:49:55.698 - 333782 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] received response data, task id:5.
+23:49:55.729 - 333782 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] received response data, task id:14.
+23:49:55.741 - 333782 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] received response data, task id:13.
+23:49:55.764 - 333782 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] received response data, task id:15.
+23:49:55.765 - 333782 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] received response data, task id:12.
+23:49:55.765 - 333782 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] received response data, task id:4.
+23:49:55.772 - 333747 - I - [BYTEVIEW-BYTERTC]: EventHandler::OnConnectionStateChanged state 3
+23:49:55.775 - 333782 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] received response data, task id:19.
+23:49:55.903 - 333747 - I - [BYTEVIEW-BYTERTC]: onCrashParamReport, rtc_app_id 5b978bab09b27c0034d252c0
+23:49:55.910 - 333747 - I - [BYTEVIEW-BYTERTC]: onExternalScreenFrameUpdate - pixels:2304000, fps:15.
+23:49:55.915 - 333747 - I - [BYTEVIEW-BYTERTC]: EventHandler::onConnectionTypeUpdated is_p2p false
+23:49:55.915 - 333747 - W - [BYTEVIEW-BYTERTC]: EventHandler::onConnectionTypeUpdated, rtc_event_handler_ is null
+23:49:55.929 - 333747 - I - [BYTEVIEW-BYTERTC]: EventHandler::OnNetworkTypeChanged type 2
+23:49:55.929 - 333707 - I - [BYTEVIEW-BYTERTC]: initEngine get video device
+23:49:55.930 - 333707 - I - [BYTEVIEW-BYTERTC]: initEngine get audio device
+23:49:55.930 - 333707 - I - [BYTEVIEW-BYTERTC]: VideoFrameSink new, this=0x7f92bc006840
+23:49:55.930 - 333707 - I - [BYTEVIEW-BYTERTC]: VideoFrameSink new, this=0x7f92bc0216a0
+23:49:55.930 - 333707 - I - [BYTEVIEW-BYTERTC]: SetSinkProperty, uid=, sid=,m_emVideoFrameType=0
+23:49:55.930 - 333707 - I - [BYTEVIEW-BYTERTC]: SetSinkProperty, uid=, sid=,m_emVideoFrameType=1
+23:49:55.931 - 333707 - I - [BYTEVIEW-BYTERTC]: SetEffectResourceFinder control this=0x7f930c041900
+23:49:55.931 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController.cpp:initEngine(165), , cost: 606 ms.
+23:49:55.931 - 333707 - I - [BYTEVIEW-BYTERTC]: exit initEngine, cost : 606
+23:49:55.931 - 333707 - I - [BYTEVIEW-BYTERTC]: [cid: ymbe1VU1sC] - RtcSDK init done, set rtc engine.
+23:49:55.931 - 333707 - I - [BYTEVIEW-BYTERTC]: [cid: ymbe1VU1sC] - entry initDeviceManagerAdapter
+23:49:55.931 - 333707 - I - [BYTEVIEW-BYTERTC]: [cid: ymbe1VU1sC] - DeviceManager::initDeviceManagerAdapter always useRtc
+23:49:55.931 - 333707 - I - [BYTEVIEW-BYTERTC]: [cid: ymbe1VU1sC] - entry ByteRtcAudioDeviceAdapter
+23:49:55.931 - 333707 - I - [BYTEVIEW-BYTERTC]: [cid: ymbe1VU1sC] - exit ByteRtcAudioDeviceAdapter, cost : 0
+23:49:55.931 - 333707 - I - [BYTEVIEW-BYTERTC]: [cid: ymbe1VU1sC] - entry Init
+23:49:55.931 - 333707 - I - [BYTEVIEW-BYTERTC]: [cid: ymbe1VU1sC] - exit Init, cost : 0
+23:49:55.931 - 333707 - I - [BYTEVIEW-BYTERTC]: [cid: ymbe1VU1sC] - exit initDeviceManagerAdapter, cost : 0
+23:49:55.931 - 333707 - I - [BYTEVIEW-BYTERTC]: [cid: ymbe1VU1sC] - entry GetCurrentRecordingDevice
+23:49:55.941 - 333707 - I - [BYTEVIEW-BYTERTC]: [cid: ymbe1VU1sC] - entry GetRecordingDevices
+23:49:55.941 - 333707 - I - [BYTEVIEW-BYTERTC]: [cid: ymbe1VU1sC] - [ByteRtcAudioDeviceAdapter] GetRecordingDevices, recording_devices:0, use_cache:true
+23:49:55.941 - 333707 - I - [BYTEVIEW-BYTERTC]: [cid: ymbe1VU1sC] - ByteRtcEngineController::getRecordingDevices
+23:49:55.944 - 333707 - I - [BYTEVIEW-BYTERTC]: [cid: ymbe1VU1sC] - getRecordingDevices,count:1
+23:49:55.944 - 333707 - I - [BYTEVIEW-BYTERTC]: [cid: ymbe1VU1sC] - [Device] rtc return 1 recording devices.
+23:49:55.944 - 333707 - I - [BYTEVIEW-BYTERTC]: [cid: ymbe1VU1sC] - [Device]  ByteRtcAudioDeviceAdapter device: alsa_input.pci-0000_00_1b.0.analog-stereo, name: Built-in Audio Analog Stereo, container:51, system_default true, vid 32902, pid 39968, volume_settable -1, transport_type 1
+23:49:55.944 - 333707 - I - [BYTEVIEW-BYTERTC]: [cid: ymbe1VU1sC] - entry ToByteViewAudioDevice
+23:49:55.944 - 333707 - I - [BYTEVIEW-BYTERTC]: [cid: ymbe1VU1sC] - exit ToByteViewAudioDevice, cost : 0
+23:49:55.944 - 333707 - E - [BYTEVIEW-BYTERTC]: [cid: ymbe1VU1sC] - [device] system default input device alsa_input.pci-0000_00_1b.0.analog-stereo not found
+23:49:55.944 - 333707 - I - [BYTEVIEW-BYTERTC]: [cid: ymbe1VU1sC] - entry ToByteViewAudioDevice
+23:49:55.944 - 333707 - I - [BYTEVIEW-BYTERTC]: [cid: ymbe1VU1sC] - exit ToByteViewAudioDevice, cost : 0
+23:49:55.944 - 333707 - I - [BYTEVIEW-BYTERTC]: [cid: ymbe1VU1sC] - exit GetRecordingDevices, cost : 3
+23:49:55.944 - 333707 - I - [BYTEVIEW-BYTERTC]: [cid: ymbe1VU1sC] - [device]current recording device: id:alsa_input.pci-0000_00_1b.0.analog-stereo, pid:39968, vid:32902, container id:51, volume settable -1
+23:49:55.944 - 333707 - I - [BYTEVIEW-BYTERTC]: [cid: ymbe1VU1sC] - exit GetCurrentRecordingDevice, cost : 13
+23:49:55.944 - 333707 - I - [BYTEVIEW-BYTERTC]: [cid: ymbe1VU1sC] - entry SetAudioMicrophoneVolumeObserver
+23:49:55.944 - 333707 - I - [BYTEVIEW-BYTERTC]: [cid: ymbe1VU1sC] - SetAudioMicrophoneVolumeObserver deviceid = alsa_input.pci-0000_00_1b.0.analog-stereo
+23:49:55.945 - 333707 - I - [BYTEVIEW-BYTERTC]: [cid: ymbe1VU1sC] - SetAudioMicrophoneVolumeObserver deviceid alsa_input.pci-0000_00_1b.0.analog-stereo, initial vol 255
+23:49:55.945 - 333707 - I - [BYTEVIEW-BYTERTC]: [cid: ymbe1VU1sC] - [device]AudioMicrophoneVolumeObserver device alsa_input.pci-0000_00_1b.0.analog-stereo,vol 255
+23:49:55.955 - 333707 - I - [BYTEVIEW-BYTERTC]: [cid: ymbe1VU1sC] - exit SetAudioMicrophoneVolumeObserver, cost : 11
+23:49:55.955 - 333707 - I - [BYTEVIEW-BYTERTC]: [cid: ymbe1VU1sC] - entry GetCurrentPlayoutDevice
+23:49:55.956 - 333707 - I - [BYTEVIEW-BYTERTC]: [cid: ymbe1VU1sC] - exit GetCurrentPlayoutDevice, cost : 1
+23:49:55.956 - 333707 - I - [BYTEVIEW-BYTERTC]: [cid: ymbe1VU1sC] - entry SetAudioSpeakerVolumeObserver
+23:49:55.956 - 333707 - I - [BYTEVIEW-BYTERTC]: [cid: ymbe1VU1sC] - SetAudioSpeakerVolumeObserver deviceid = alsa_output.pci-0000_00_1b.0.analog-stereo
+23:49:55.957 - 333707 - I - [BYTEVIEW-BYTERTC]: [cid: ymbe1VU1sC] - exit SetAudioSpeakerVolumeObserver, cost : 1
+23:49:55.957 - 333707 - I - [BYTEVIEW-BYTERTC]: entry enableByteviewDevice
+23:49:55.957 - 333707 - I - [BYTEVIEW-BYTERTC]: entry initByteviewDevice
+23:49:55.957 - 333707 - I - [BYTEVIEW-BYTERTC]: exit initByteviewDevice, cost : 0
+23:49:55.957 - 333707 - I - [BYTEVIEW-BYTERTC]: exit enableByteviewDevice, cost : 0
+23:49:55.957 - 333707 - I - [BYTEVIEW-BYTERTC]: entry setAudioDevice
+23:49:55.957 - 333707 - I - [BYTEVIEW-BYTERTC]: entry getSystemDefaultPlayoutDevice
+23:49:55.957 - 333707 - I - [BYTEVIEW-BYTERTC]: entry GetSystemDefaultPlayoutDevice
+23:49:55.957 - 333707 - I - [BYTEVIEW-BYTERTC]: entry GetPlayoutDevices
+23:49:55.957 - 333707 - I - [BYTEVIEW-BYTERTC]: [ByteRtcAudioDeviceAdapter] GetPlayoutDevices, playout_devices:0, use_cache:true
+23:49:55.957 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::getPlaybackDevices
+23:49:55.959 - 333707 - I - [BYTEVIEW-BYTERTC]: getPlaybackDevices,count:1
+23:49:55.959 - 333707 - I - [BYTEVIEW-BYTERTC]: [Device] rtc return 1 playout devices.
+23:49:55.959 - 333707 - I - [BYTEVIEW-BYTERTC]: [Device]  ByteRtcAudioDeviceAdapter device: alsa_output.pci-0000_00_1b.0.analog-stereo, name: Built-in Audio Analog Stereo, container:50, system_default true, vid 32902, pid 39968, volume_settable -1, transport_type 1
+23:49:55.959 - 333707 - I - [BYTEVIEW-BYTERTC]: entry ToByteViewAudioDevice
+23:49:55.959 - 333707 - I - [BYTEVIEW-BYTERTC]: exit ToByteViewAudioDevice, cost : 0
+23:49:55.959 - 333707 - E - [BYTEVIEW-BYTERTC]: [device] system default output device alsa_output.pci-0000_00_1b.0.analog-stereo not found
+23:49:55.959 - 333707 - I - [BYTEVIEW-BYTERTC]: entry ToByteViewAudioDevice
+23:49:55.959 - 333707 - I - [BYTEVIEW-BYTERTC]: exit ToByteViewAudioDevice, cost : 0
+23:49:55.959 - 333707 - I - [BYTEVIEW-BYTERTC]: exit GetPlayoutDevices, cost : 2
+23:49:55.959 - 333707 - I - [BYTEVIEW-BYTERTC]: exit GetSystemDefaultPlayoutDevice, cost : 2
+23:49:55.959 - 333707 - I - [BYTEVIEW-BYTERTC]: [DeviceManager::getSystemDefaultPlayoutDevice]after1 deviceId:alsa_output.pci-0000_00_1b.0.analog-stereo
+23:49:55.959 - 333707 - I - [BYTEVIEW-BYTERTC]: exit getSystemDefaultPlayoutDevice, cost : 2
+23:49:55.959 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::followSystemPlaybackDevice true, m_playoutDevice:, deviceid:alsa_output.pci-0000_00_1b.0.analog-stereo
+23:49:55.959 - 333707 - I - [BYTEVIEW-BYTERTC]: entry SetAudioSpeakerVolumeObserver
+23:49:55.959 - 333707 - I - [BYTEVIEW-BYTERTC]: SetAudioSpeakerVolumeObserver deviceid = alsa_output.pci-0000_00_1b.0.analog-stereo
+23:49:55.960 - 333782 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] received response data, task id:3.
+23:49:55.961 - 333707 - I - [BYTEVIEW-BYTERTC]: exit SetAudioSpeakerVolumeObserver, cost : 2
+23:49:55.961 - 333707 - I - [BYTEVIEW-BYTERTC]: entry getSystemDefaultRecordingDevice
+23:49:55.961 - 333707 - I - [BYTEVIEW-BYTERTC]: entry GetSystemDefaultRecordingDevice
+23:49:55.961 - 333707 - I - [BYTEVIEW-BYTERTC]: exit GetSystemDefaultRecordingDevice, cost : 0
+23:49:55.961 - 333707 - I - [BYTEVIEW-BYTERTC]: getSystemDefaultRecordingDevice, getSystemDefaultRecordingDevice = alsa_input.pci-0000_00_1b.0.analog-stereo
+23:49:55.961 - 333707 - I - [BYTEVIEW-BYTERTC]: exit getSystemDefaultRecordingDevice, cost : 0
+23:49:55.961 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::FollowSystemCaptureDevice true, m_recordingDevice:, deviceid:alsa_input.pci-0000_00_1b.0.analog-stereo
+23:49:55.961 - 333707 - I - [BYTEVIEW-BYTERTC]: entry SetAudioMicrophoneVolumeObserver
+23:49:55.961 - 333707 - I - [BYTEVIEW-BYTERTC]: SetAudioMicrophoneVolumeObserver deviceid = alsa_input.pci-0000_00_1b.0.analog-stereo
+23:49:55.962 - 333707 - I - [BYTEVIEW-BYTERTC]: SetAudioMicrophoneVolumeObserver deviceid alsa_input.pci-0000_00_1b.0.analog-stereo, initial vol 255
+23:49:55.962 - 333707 - I - [BYTEVIEW-BYTERTC]: [device]AudioMicrophoneVolumeObserver device alsa_input.pci-0000_00_1b.0.analog-stereo,vol 255
+23:49:55.962 - 333707 - I - [BYTEVIEW-BYTERTC]: exit SetAudioMicrophoneVolumeObserver, cost : 1
+23:49:55.962 - 333707 - I - [BYTEVIEW-BYTERTC]: exit setAudioDevice, cost : 5
+23:49:55.962 - 333707 - I - [BYTEVIEW-BYTERTC]: entry getVideoDevice
+23:49:55.962 - 333707 - I - [BYTEVIEW-BYTERTC]: entry CurrentVideoDevice
+23:49:55.962 - 333707 - I - [BYTEVIEW-BYTERTC]: exit CurrentVideoDevice, cost : 0
+23:49:55.962 - 333707 - I - [BYTEVIEW-BYTERTC]: exit getVideoDevice, cost : 0
+23:49:55.962 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::setVideoDevice deviceId: failed
+23:49:55.962 - 333707 - I - [BYTEVIEW-BYTERTC]: entry Init
+23:49:55.962 - 333707 - I - [BYTEVIEW-BYTERTC]: exit Init, cost : 0
+23:49:55.962 - 333707 - I - [BYTEVIEW-BYTERTC]: rtcSDKVersion:5.42.60902
+23:49:55.962 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineMediator.cpp:initEngine(156), , cost: 637 ms.
+23:49:55.962 - 333707 - I - [BYTEVIEW-BYTERTC]: exit initEngine, cost : 637
+23:49:55.962 - 333707 - I - [BYTEVIEW-BYTERTC]: MeetingLogic.cpp:InitRtcEngine(220), , cost: 637 ms.
+23:49:55.962 - 333707 - I - [BYTEVIEW-BYTERTC]: exit InitRtcEngine, cost : 637
+23:49:55.962 - 333707 - I - [BYTEVIEW-BYTERTC]: antenna_set_moji_res_path_and_env. resource_path length: 52, resource_env: 1, channel:,host:0
+23:49:55.962 - 333707 - I - [BYTEVIEW-BYTERTC]: entry EnableNV12
+23:49:55.962 - 333707 - I - [BYTEVIEW-BYTERTC]: exit EnableNV12, cost : 0
+23:49:55.962 - 333707 - I - [BYTEVIEW-BYTERTC]: entry EnableCVPixelBufferNV12
+23:49:55.962 - 333707 - I - [BYTEVIEW-BYTERTC]: exit EnableCVPixelBufferNV12, cost : 0
+23:49:55.962 - 333707 - I - [BYTEVIEW-BYTERTC]: entry SetEffectProductLine
+23:49:55.962 - 333707 - I - [BYTEVIEW-BYTERTC]: exit SetEffectProductLine, cost : 0
+23:49:55.963 - 333707 - I - [BYTEVIEW-BYTERTC]: setOpenGlLibraryPath. glesv2 length: 0, glv1 length: 0, enableD3d11:false
+23:49:55.963 - 333707 - I - [BYTEVIEW-BYTERTC]: entry SetOpenGLLibraryPath
+23:49:55.963 - 333707 - I - [BYTEVIEW-BYTERTC]: exit SetOpenGLLibraryPath, cost : 0
+23:49:55.963 - 333707 - I - [BYTEVIEW-BYTERTC]: entry EnableRNNoise
+23:49:55.963 - 333707 - I - [BYTEVIEW-BYTERTC]: exit EnableRNNoise, cost : 0
+23:49:55.963 - 333707 - I - [BYTEVIEW-BYTERTC]: entry SetVideoEnhanceEnable
+23:49:55.963 - 333707 - I - [BYTEVIEW-BYTERTC]: exit SetVideoEnhanceEnable, cost : 0
+23:49:55.963 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineMediator::enableCursorReceiver false
+23:49:55.963 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::setCursorReceiverFg false
+23:49:55.963 - 333707 - I - [BYTEVIEW-BYTERTC]: entry DoSetLocalVideoMirrorType
+23:49:55.963 - 333707 - I - [BYTEVIEW-BYTERTC]: entry setLocalVideoMirrorType
+23:49:55.963 - 333707 - I - [BYTEVIEW-BYTERTC]: exit setLocalVideoMirrorType, cost : 0
+23:49:55.963 - 333707 - I - [BYTEVIEW-BYTERTC]: exit DoSetLocalVideoMirrorType, cost : 0
+23:49:55.963 - 333707 - I - [BYTEVIEW-BYTERTC]: entry SetLogReportContext
+23:49:55.963 - 333707 - I - [BYTEVIEW-BYTERTC]: exit SetLogReportContext, cost : 0
+23:49:55.963 - 333707 - I - [BYTEVIEW-BYTERTC]: entry EnableAutoSubscribe
+23:49:55.963 - 333707 - I - [BYTEVIEW-BYTERTC]: exit EnableAutoSubscribe, cost : 0
+23:49:55.963 - 333707 - I - [BYTEVIEW-BYTERTC]: EnableLocalVideo:true, EnableLocalAudio:true
+23:49:55.963 - 333707 - I - [BYTEVIEW-BYTERTC]: [MeetingLogic]: EnableLocalAudio, enable: true
+23:49:55.963 - 333707 - I - [BYTEVIEW-BYTERTC]: [MeetingLogic]: MuteLocalAudioStream, is_mute: false
+23:49:55.963 - 333708 - I - [BYTEVIEW-BYTERTC]: entry muteLocalAudioStream
+23:49:55.963 - 333708 - I - [BYTEVIEW-BYTERTC]: muteLocalAudioStream - isMute: false
+23:49:55.963 - 333708 - I - [BYTEVIEW-BYTERTC]: exit muteLocalAudioStream, cost : 0
+23:49:55.965 - 333707 - I - [BYTEVIEW-BYTERTC]: entry SetAppVersion
+23:49:55.965 - 333707 - I - [BYTEVIEW-BYTERTC]: exit SetAppVersion, cost : 0
+23:49:55.965 - 333707 - I - [BYTEVIEW-BYTERTC]: entry ForceSetScreenProfile
+23:49:55.965 - 333707 - I - [BYTEVIEW-BYTERTC]: exit ForceSetScreenProfile, cost : 0
+23:49:55.965 - 333707 - I - [BYTEVIEW-BYTERTC]: EnableRtcAudioEvents false, unimplentent
+23:49:55.965 - 333707 - I - [BYTEVIEW-BYTERTC]: [SDKInitLogic]: delay init device after rtc init.
+23:49:55.965 - 333707 - I - [BYTEVIEW-BYTERTC]: entry InitDevice
+23:49:55.965 - 333707 - I - [BYTEVIEW-BYTERTC]: DeviceManager setServiceType type:1
+23:49:55.965 - 333707 - I - [BYTEVIEW-BYTERTC]: entry Init
+23:49:55.965 - 333707 - I - [BYTEVIEW-BYTERTC]: entry CreateReader
+23:49:55.965 - 333707 - D - [BYTEVIEW-BYTERTC]: context:140269538585712
+23:49:55.965 - 333707 - I - [BYTEVIEW-BYTERTC]: entry WavForamt
+23:49:55.965 - 333707 - I - [BYTEVIEW-BYTERTC]: exit WavForamt, cost : 0
+23:49:55.965 - 333707 - I - [BYTEVIEW-BYTERTC]: exit CreateReader, cost : 0
+23:49:55.965 - 333707 - I - [BYTEVIEW-BYTERTC]: entry CreateWriter
+23:49:55.965 - 333707 - D - [BYTEVIEW-BYTERTC]: context:140269538585712
+23:49:55.965 - 333707 - I - [BYTEVIEW-BYTERTC]: entry WavForamt
+23:49:55.965 - 333707 - I - [BYTEVIEW-BYTERTC]: exit WavForamt, cost : 0
+23:49:55.965 - 333707 - I - [BYTEVIEW-BYTERTC]: exit CreateWriter, cost : 0
+23:49:55.965 - 333707 - I - [BYTEVIEW-BYTERTC]: entry initByteviewDevice
+23:49:55.965 - 333707 - I - [BYTEVIEW-BYTERTC]: entry SetDeviceFilter
+23:49:55.965 - 333707 - I - [BYTEVIEW-BYTERTC]: exclude device type:0
+23:49:55.965 - 333707 - I - [BYTEVIEW-BYTERTC]: exit SetDeviceFilter, cost : 0
+23:49:55.965 - 333707 - I - [BYTEVIEW-BYTERTC]: exit initByteviewDevice, cost : 0
+23:49:55.965 - 333707 - I - [BYTEVIEW-BYTERTC]: entry initHIDDeviceManager
+23:49:55.965 - 333707 - I - [BYTEVIEW-BYTERTC]: exit initHIDDeviceManager, cost : 0
+23:49:55.965 - 333707 - I - [BYTEVIEW-BYTERTC]: exit Init, cost : 0
+23:49:55.965 - 333707 - I - [BYTEVIEW-BYTERTC]: exit InitDevice, cost : 0
+23:49:55.965 - 333707 - I - [BYTEVIEW-BYTERTC]: setVideoEncoderConfig num1:0,num2:0
+23:49:55.965 - 333707 - I - [BYTEVIEW-BYTERTC]: [SDKInitLogic]: Execute rtc init end.
+23:49:55.966 - 333707 - I - [BYTEVIEW-BYTERTC]: SDKInitLogic.cpp:DoInitRtc(301), , cost: 642 ms.
+23:49:55.966 - 333707 - I - [BYTEVIEW-BYTERTC]: exit DoInitRtc, cost : 642
+23:49:55.966 - 333655 - I - [BYTEVIEW-BYTERTC]: entry manager_device_init
+23:49:55.966 - 333655 - I - [BYTEVIEW-BYTERTC]: entry SetDeviceFilter
+23:49:55.966 - 333655 - I - [BYTEVIEW-BYTERTC]: exclude device type:0
+23:49:55.966 - 333655 - I - [BYTEVIEW-BYTERTC]: exit SetDeviceFilter, cost : 0
+23:49:55.966 - 333655 - I - [BYTEVIEW-BYTERTC]: [DeviceLogic][set_init_devices]enable_init_device:true,enable_same_as_system:true,enable_device_remember:true
+23:49:55.966 - 333655 - I - [BYTEVIEW-BYTERTC]: [DeviceLogic]init_device_when_enable_same_as_system 1. set device_type:0, memorable:
+23:49:55.966 - 333655 - I - [BYTEVIEW-BYTERTC]: [DeviceLogic]set_device_to_same_as_system, source 3
+23:49:55.966 - 333655 - I - [BYTEVIEW-BYTERTC]: [devicelogic]set_device_to_native 1 deviceid:SAME_AS_SYSTEM_DEVICE_ID, type:0, choose_same:true, enable_same:true,retrytimes:0
+23:49:55.966 - 333655 - I - [BYTEVIEW-BYTERTC]: followSystemDevice type:0, follow:true
+23:49:55.966 - 333655 - I - [BYTEVIEW-BYTERTC]: entry getSystemDefaultRecordingDevice
+23:49:55.966 - 333655 - I - [BYTEVIEW-BYTERTC]: entry GetSystemDefaultRecordingDevice
+23:49:55.966 - 333655 - I - [BYTEVIEW-BYTERTC]: exit GetSystemDefaultRecordingDevice, cost : 0
+23:49:55.966 - 333655 - I - [BYTEVIEW-BYTERTC]: getSystemDefaultRecordingDevice, getSystemDefaultRecordingDevice = alsa_input.pci-0000_00_1b.0.analog-stereo
+23:49:55.966 - 333655 - I - [BYTEVIEW-BYTERTC]: exit getSystemDefaultRecordingDevice, cost : 0
+23:49:55.966 - 333655 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::FollowSystemCaptureDevice true, m_recordingDevice:alsa_input.pci-0000_00_1b.0.analog-stereo, deviceid:alsa_input.pci-0000_00_1b.0.analog-stereo
+23:49:55.968 - 333655 - I - [BYTEVIEW-BYTERTC]: set_memorable_device_id device_type:0,device_id:SAME_AS_SYSTEM_DEVICE_ID, source:3,enable_same_as_system:true
+23:49:55.969 - 333655 - I - [BYTEVIEW-BYTERTC]: entry getRecordingDevices
+23:49:55.969 - 333655 - I - [BYTEVIEW-BYTERTC]: entry GetRecordingDevices
+23:49:55.969 - 333655 - I - [BYTEVIEW-BYTERTC]: [ByteRtcAudioDeviceAdapter] GetRecordingDevices, recording_devices:1, use_cache:true
+23:49:55.969 - 333655 - I - [BYTEVIEW-BYTERTC]: exit GetRecordingDevices, cost : 0
+23:49:55.969 - 333655 - I - [BYTEVIEW-BYTERTC]: exit getRecordingDevices, cost : 0
+23:49:55.969 - 333655 - I - [BYTEVIEW-BYTERTC]: entry getSystemDefaultRecordingDevice
+23:49:55.969 - 333655 - I - [BYTEVIEW-BYTERTC]: entry GetSystemDefaultRecordingDevice
+23:49:55.969 - 333655 - I - [BYTEVIEW-BYTERTC]: exit GetSystemDefaultRecordingDevice, cost : 0
+23:49:55.969 - 333655 - I - [BYTEVIEW-BYTERTC]: getSystemDefaultRecordingDevice, getSystemDefaultRecordingDevice = alsa_input.pci-0000_00_1b.0.analog-stereo
+23:49:55.969 - 333655 - I - [BYTEVIEW-BYTERTC]: exit getSystemDefaultRecordingDevice, cost : 0
+23:49:55.969 - 333655 - I - [BYTEVIEW-BYTERTC]: entry getSystemDefaultRecordingDevice
+23:49:55.969 - 333655 - I - [BYTEVIEW-BYTERTC]: entry GetSystemDefaultRecordingDevice
+23:49:55.969 - 333655 - I - [BYTEVIEW-BYTERTC]: exit GetSystemDefaultRecordingDevice, cost : 0
+23:49:55.969 - 333655 - I - [BYTEVIEW-BYTERTC]: getSystemDefaultRecordingDevice, getSystemDefaultRecordingDevice = alsa_input.pci-0000_00_1b.0.analog-stereo
+23:49:55.969 - 333655 - I - [BYTEVIEW-BYTERTC]: exit getSystemDefaultRecordingDevice, cost : 0
+23:49:55.970 - 333655 - I - [BYTEVIEW-BYTERTC]: [set_current_setting_deviceid]set_id:alsa_input.pci-0000_00_1b.0.analog-stereo, last_set_id:, type:0
+23:49:55.970 - 333655 - I - [BYTEVIEW-BYTERTC]: [devicelogic]set_device_to_native success, deviceid:alsa_input.pci-0000_00_1b.0.analog-stereo, type:0
+23:49:55.970 - 333655 - I - [BYTEVIEW-BYTERTC]: [DeviceLogic][init_device_when_enable_same_as_system]2.set same_as_system
+23:49:55.970 - 333655 - I - [BYTEVIEW-BYTERTC]: [DeviceLogic]init_device_when_enable_same_as_system 1. set device_type:1, memorable:
+23:49:55.970 - 333655 - I - [BYTEVIEW-BYTERTC]: [DeviceLogic]set_device_to_same_as_system, source 3
+23:49:55.970 - 333655 - I - [BYTEVIEW-BYTERTC]: [devicelogic]set_device_to_native 1 deviceid:SAME_AS_SYSTEM_DEVICE_ID, type:1, choose_same:true, enable_same:true,retrytimes:0
+23:49:55.970 - 333655 - I - [BYTEVIEW-BYTERTC]: followSystemDevice type:1, follow:true
+23:49:55.970 - 333655 - I - [BYTEVIEW-BYTERTC]: entry getSystemDefaultPlayoutDevice
+23:49:55.970 - 333655 - I - [BYTEVIEW-BYTERTC]: entry GetSystemDefaultPlayoutDevice
+23:49:55.970 - 333655 - I - [BYTEVIEW-BYTERTC]: exit GetSystemDefaultPlayoutDevice, cost : 0
+23:49:55.970 - 333655 - I - [BYTEVIEW-BYTERTC]: [DeviceManager::getSystemDefaultPlayoutDevice]after1 deviceId:alsa_output.pci-0000_00_1b.0.analog-stereo
+23:49:55.970 - 333655 - I - [BYTEVIEW-BYTERTC]: exit getSystemDefaultPlayoutDevice, cost : 0
+23:49:55.970 - 333655 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::followSystemPlaybackDevice true, m_playoutDevice:alsa_output.pci-0000_00_1b.0.analog-stereo, deviceid:alsa_output.pci-0000_00_1b.0.analog-stereo
+23:49:55.975 - 333655 - I - [BYTEVIEW-BYTERTC]: set_memorable_device_id device_type:1,device_id:SAME_AS_SYSTEM_DEVICE_ID, source:3,enable_same_as_system:true
+23:49:55.975 - 333707 - W - [BYTEVIEW_TASK]: ExecuteInitRtc@/ws/25999/bv-falcon/byteview-bytertc/src/logic/SDKInitLogic.cpp:61 running time: 643 ms.
+23:49:55.975 - 333707 - I - [BYTEVIEW-BYTERTC]: DeviceManager setServiceType type:1
+23:49:55.975 - 333707 - I - [BYTEVIEW-BYTERTC]: setVendorType - ByteRtcVendorType: 3, isMediaOversea: true, isDataOversea: true, serviceType: vc
+23:49:55.975 - 333707 - W - [BYTEVIEW_TASK]: SetVenderType@/ws/25999/bv-falcon/byteview-bytertc/src/logic/SDKInitLogic.cpp:362 waiting time: 651 ms.
+23:49:55.975 - 333707 - I - [BYTEVIEW-BYTERTC]: entry setHostName
+23:49:55.975 - 333707 - I - [BYTEVIEW-BYTERTC]: setHostName - host_json_config: {"kaChannel":"saas","rtc_decision":["lvc.larksuite.com","lvcos.larksuite.com"]}
+23:49:55.975 - 333707 - I - [BYTEVIEW-BYTERTC]: exit setHostName, cost : 0
+23:49:55.975 - 333707 - W - [BYTEVIEW_TASK]: SetHostName@/ws/25999/bv-falcon/byteview-bytertc/src/logic/SDKInitLogic.cpp:380 waiting time: 650 ms.
+23:49:55.975 - 333707 - I - [BYTEVIEW-BYTERTC]: EnableVideoSink enable:true
+23:49:55.975 - 333707 - I - [BYTEVIEW-BYTERTC]: EnableVideoSink enable:true, now disable EnableVideoSink, always use videoSink
+23:49:55.975 - 333707 - W - [BYTEVIEW_TASK]: EnableVideoSink@/ws/25999/bv-falcon/byteview-bytertc/src/logic/SDKInitLogic.cpp:385 waiting time: 650 ms.
+23:49:55.975 - 333707 - I - [BYTEVIEW-BYTERTC]: SetDefaultVideoOutputMode enableShareMemory:false, enableCallback:true
+23:49:55.975 - 333707 - I - [BYTEVIEW-BYTERTC]: SetDefaultVideoOutputMode enableShareMemory:false, enableCallback:true
+23:49:55.975 - 333707 - W - [BYTEVIEW_TASK]: SetDefaultVideoOutputMode@/ws/25999/bv-falcon/byteview-bytertc/src/logic/MeetingLogic.cpp:338 waiting time: 650 ms.
+23:49:55.975 - 333707 - I - [BYTEVIEW-BYTERTC]: EnableNV12 enable:false
+23:49:55.975 - 333707 - I - [BYTEVIEW-BYTERTC]: EnableNV12 enable:false
+23:49:55.975 - 333707 - I - [BYTEVIEW-BYTERTC]: EnableCvPixelBufferNV12 enable:false
+23:49:55.975 - 333707 - I - [BYTEVIEW-BYTERTC]: EnableCVPixelBufferNV12 enable:false
+23:49:55.975 - 333707 - I - [BYTEVIEW-BYTERTC]: entry SetEffectProductLine
+23:49:55.975 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::SetEffectProductLine, product: 0
+23:49:55.975 - 333707 - I - [BYTEVIEW-BYTERTC]: exit SetEffectProductLine, cost : 0
+23:49:55.975 - 333707 - I - [BYTEVIEW-BYTERTC]: entry setOpenGlLibraryPath
+23:49:55.975 - 333707 - I - [BYTEVIEW-BYTERTC]: setOpenGlLibraryPath - egl len: 0, glesv2 len: 0
+23:49:55.975 - 333707 - I - [BYTEVIEW-BYTERTC]: exit setOpenGlLibraryPath, cost : 0
+23:49:55.975 - 333707 - I - [BYTEVIEW-BYTERTC]: entry enableRNNoise
+23:49:55.975 - 333707 - I - [BYTEVIEW-BYTERTC]: enableRNNoise - bOK: true
+23:49:55.975 - 333707 - I - [BYTEVIEW-BYTERTC]: exit enableRNNoise, cost : 0
+23:49:55.975 - 333707 - I - [BYTEVIEW-BYTERTC]: entry setVideoEnhanceEnable
+23:49:55.976 - 333707 - I - [BYTEVIEW-BYTERTC]: setVideoEnhanceEnable - enable: false
+23:49:55.976 - 333707 - I - [BYTEVIEW-BYTERTC]: exit setVideoEnhanceEnable, cost : 1
+23:49:55.976 - 333707 - I - [BYTEVIEW-BYTERTC]: entry setLogReportContext
+23:49:55.976 - 333707 - I - [BYTEVIEW-BYTERTC]: exit setLogReportContext, cost : 0
+23:49:55.976 - 333707 - I - [BYTEVIEW-BYTERTC]: [enableAutoSubscribe]:false
+23:49:55.976 - 333707 - I - [BYTEVIEW-BYTERTC]: entry setAppVersion
+23:49:55.976 - 333707 - I - [BYTEVIEW-BYTERTC]: m_appVersion:6.9.16
+23:49:55.976 - 333655 - I - [BYTEVIEW-BYTERTC]: entry getPlayoutDevices
+23:49:55.976 - 333655 - I - [BYTEVIEW-BYTERTC]: entry GetPlayoutDevices
+23:49:55.976 - 333655 - I - [BYTEVIEW-BYTERTC]: [ByteRtcAudioDeviceAdapter] GetPlayoutDevices, playout_devices:1, use_cache:true
+23:49:55.976 - 333655 - I - [BYTEVIEW-BYTERTC]: exit GetPlayoutDevices, cost : 0
+23:49:55.976 - 333655 - I - [BYTEVIEW-BYTERTC]: exit getPlayoutDevices, cost : 0
+23:49:55.977 - 333655 - I - [BYTEVIEW-BYTERTC]: entry getSystemDefaultPlayoutDevice
+23:49:55.977 - 333655 - I - [BYTEVIEW-BYTERTC]: entry GetSystemDefaultPlayoutDevice
+23:49:55.977 - 333655 - I - [BYTEVIEW-BYTERTC]: exit GetSystemDefaultPlayoutDevice, cost : 0
+23:49:55.977 - 333655 - I - [BYTEVIEW-BYTERTC]: [DeviceManager::getSystemDefaultPlayoutDevice]after1 deviceId:alsa_output.pci-0000_00_1b.0.analog-stereo
+23:49:55.977 - 333655 - I - [BYTEVIEW-BYTERTC]: exit getSystemDefaultPlayoutDevice, cost : 0
+23:49:55.977 - 333655 - I - [BYTEVIEW-BYTERTC]: entry getSystemDefaultPlayoutDevice
+23:49:55.977 - 333655 - I - [BYTEVIEW-BYTERTC]: entry GetSystemDefaultPlayoutDevice
+23:49:55.977 - 333655 - I - [BYTEVIEW-BYTERTC]: exit GetSystemDefaultPlayoutDevice, cost : 0
+23:49:55.977 - 333655 - I - [BYTEVIEW-BYTERTC]: [DeviceManager::getSystemDefaultPlayoutDevice]after1 deviceId:alsa_output.pci-0000_00_1b.0.analog-stereo
+23:49:55.977 - 333655 - I - [BYTEVIEW-BYTERTC]: exit getSystemDefaultPlayoutDevice, cost : 0
+23:49:55.977 - 333655 - I - [BYTEVIEW-BYTERTC]: [set_current_setting_deviceid]set_id:alsa_output.pci-0000_00_1b.0.analog-stereo, last_set_id:, type:1
+23:49:55.977 - 333655 - I - [BYTEVIEW-BYTERTC]: [devicelogic]set_device_to_native success, deviceid:alsa_output.pci-0000_00_1b.0.analog-stereo, type:1
+23:49:55.977 - 333655 - I - [BYTEVIEW-BYTERTC]: [DeviceLogic][init_device_when_enable_same_as_system]2.set same_as_system
+23:49:55.977 - 333655 - I - [BYTEVIEW-BYTERTC]: [Devicelogic] try_set_memorable_device type:2
+23:49:55.977 - 333655 - I - [BYTEVIEW-BYTERTC]: entry getDefaultVideoDevice
+23:49:55.977 - 333655 - I - [BYTEVIEW-BYTERTC]: entry DefaultVideoDevice
+23:49:55.977 - 333655 - I - [BYTEVIEW-BYTERTC]: exit DefaultVideoDevice, cost : 0
+23:49:55.977 - 333655 - I - [BYTEVIEW-BYTERTC]: exit getDefaultVideoDevice, cost : 0
+23:49:55.977 - 333655 - I - [BYTEVIEW-BYTERTC]: [DeviceLogic]enter set_default_device device_type:2,default_device_id:
+23:49:55.977 - 333655 - I - [BYTEVIEW-BYTERTC]: [devicelogic]set_device_to_native 1 deviceid:, type:2, choose_same:false, enable_same:true,retrytimes:0
+23:49:55.977 - 333655 - I - [BYTEVIEW-BYTERTC]: [devicelogic]set_device_to_native 2
+23:49:55.977 - 333655 - I - [BYTEVIEW-BYTERTC]: followSystemDevice type:2, follow:false
+23:49:55.977 - 333655 - I - [BYTEVIEW-BYTERTC]: entry getVideoDevices
+23:49:55.977 - 333655 - I - [BYTEVIEW-BYTERTC]: entry VideoDevices
+23:49:55.977 - 333655 - I - [BYTEVIEW-BYTERTC]: [ByteRtcVideoDeviceAdapter] video_devices:0, use_cache:true
+23:49:55.977 - 333655 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::getVideoDevices
+23:49:55.977 - 333707 - I - [BYTEVIEW-BYTERTC]: exit setAppVersion, cost : 1
+23:49:55.977 - 333707 - I - [BYTEVIEW-BYTERTC]: [ByteRtcEngineController::forceSetScreenProfile] width:0, heigt:0, frameRate:0,maxKbps:0,scaleMode:0
+23:49:55.980 - 333655 - I - [BYTEVIEW-BYTERTC]: getVideoDevices,count:1
+23:49:55.980 - 333655 - I - [BYTEVIEW-BYTERTC]: [Device] rtc return 1 video devices.
+23:49:55.980 - 333655 - I - [BYTEVIEW-BYTERTC]: [Device] rtc video devices: Laptop_Integrated_Webcam_HD: In(usb-0000:00:14.0-4), name: Laptop_Integrated_Webcam_HD: In, vid 0, pid 0, transport type 0
+23:49:55.980 - 333655 - I - [BYTEVIEW-BYTERTC]: exit VideoDevices, cost : 3
+23:49:55.980 - 333655 - I - [BYTEVIEW-BYTERTC]: entry fillHidDeviceInfo
+23:49:55.980 - 333655 - I - [BYTEVIEW-BYTERTC]: exit fillHidDeviceInfo, cost : 0
+23:49:55.980 - 333655 - I - [BYTEVIEW-BYTERTC]: exit getVideoDevices, cost : 3
+23:49:55.980 - 333655 - I - [BYTEVIEW-BYTERTC]: entry getVideoDevices
+23:49:55.980 - 333655 - I - [BYTEVIEW-BYTERTC]: entry VideoDevices
+23:49:55.980 - 333655 - I - [BYTEVIEW-BYTERTC]: [ByteRtcVideoDeviceAdapter] video_devices:1, use_cache:true
+23:49:55.980 - 333655 - I - [BYTEVIEW-BYTERTC]: exit VideoDevices, cost : 0
+23:49:55.980 - 333655 - I - [BYTEVIEW-BYTERTC]: entry fillHidDeviceInfo
+23:49:55.980 - 333655 - I - [BYTEVIEW-BYTERTC]: exit fillHidDeviceInfo, cost : 0
+23:49:55.980 - 333655 - I - [BYTEVIEW-BYTERTC]: exit getVideoDevices, cost : 0
+23:49:55.980 - 333655 - I - [BYTEVIEW-BYTERTC]: should_be_filter_out hitblack:false, deviceid:Laptop_Integrated_Webcam_HD: In(usb-0000:00:14.0-4),isDisplayAudio:false,isUnknown:false,isVirtual:false
+23:49:55.980 - 333655 - I - [BYTEVIEW-BYTERTC]: [DeviceLogic]set_device_to_native_by_list device_type:2
+23:49:55.980 - 333655 - I - [BYTEVIEW-BYTERTC]: [devicelogic]set_device_to_native 1 deviceid:Laptop_Integrated_Webcam_HD: In(usb-0000:00:14.0-4), type:2, choose_same:false, enable_same:true,retrytimes:0
+23:49:55.980 - 333655 - I - [BYTEVIEW-BYTERTC]: [devicelogic]set_device_to_native 2
+23:49:55.980 - 333655 - I - [BYTEVIEW-BYTERTC]: followSystemDevice type:2, follow:false
+23:49:55.980 - 333655 - I - [BYTEVIEW-BYTERTC]: [devicelogic]set_device_to_native 4 reallyid:Laptop_Integrated_Webcam_HD: In(usb-0000:00:14.0-4)
+23:49:55.980 - 333655 - I - [BYTEVIEW-BYTERTC]: entry setVideoDevice
+23:49:55.980 - 333655 - I - [BYTEVIEW-BYTERTC]: entry SetVideoDevice
+23:49:55.980 - 333655 - I - [BYTEVIEW-BYTERTC]: setVideoDigitalZoomControl event: 6
+23:49:55.980 - 333655 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::setVideoDevice deviceId:Laptop_Integrated_Webcam_HD: In(usb-0000:00:14.0-4)
+23:49:55.981 - 333655 - I - [BYTEVIEW-BYTERTC]: SetCurrentVideoDevice Laptop_Integrated_Webcam_HD: In(usb-0000:00:14.0-4), result 0
+23:49:55.981 - 333655 - I - [BYTEVIEW-BYTERTC]: exit SetVideoDevice, cost : 1
+23:49:55.981 - 333655 - I - [BYTEVIEW-BYTERTC]: exit setVideoDevice, cost : 1
+23:49:55.981 - 333655 - I - [BYTEVIEW-BYTERTC]: entry getVideoDevice
+23:49:55.981 - 333655 - I - [BYTEVIEW-BYTERTC]: entry CurrentVideoDevice
+23:49:55.981 - 333655 - I - [BYTEVIEW-BYTERTC]: exit CurrentVideoDevice, cost : 0
+23:49:55.981 - 333655 - I - [BYTEVIEW-BYTERTC]: exit getVideoDevice, cost : 0
+23:49:55.981 - 333655 - I - [BYTEVIEW-BYTERTC]: entry getVideoDevices
+23:49:55.981 - 333655 - I - [BYTEVIEW-BYTERTC]: entry VideoDevices
+23:49:55.981 - 333655 - I - [BYTEVIEW-BYTERTC]: [ByteRtcVideoDeviceAdapter] video_devices:1, use_cache:true
+23:49:55.981 - 333655 - I - [BYTEVIEW-BYTERTC]: exit VideoDevices, cost : 0
+23:49:55.981 - 333655 - I - [BYTEVIEW-BYTERTC]: entry fillHidDeviceInfo
+23:49:55.981 - 333655 - I - [BYTEVIEW-BYTERTC]: exit fillHidDeviceInfo, cost : 0
+23:49:55.981 - 333655 - I - [BYTEVIEW-BYTERTC]: exit getVideoDevices, cost : 0
+23:49:55.981 - 333655 - I - [BYTEVIEW-BYTERTC]: [DeviceLogic]set_device_to_native 5 getcurrent deviceId:Laptop_Integrated_Webcam_HD: In(usb-0000:00:14.0-4), devicetype:2
+23:49:55.982 - 333655 - I - [BYTEVIEW-BYTERTC]: set_memorable_device_id device_type:2,device_id:Laptop_Integrated_Webcam_HD: In(usb-0000:00:14.0-4), source:0,enable_same_as_system:true
+23:49:55.983 - 333655 - I - [BYTEVIEW-BYTERTC]: [set_current_setting_deviceid]set_id:Laptop_Integrated_Webcam_HD: In(usb-0000:00:14.0-4), last_set_id:, type:2
+23:49:55.983 - 333655 - I - [BYTEVIEW-BYTERTC]: [DeviceLogic]set_fallback_device success_id:Laptop_Integrated_Webcam_HD: In(usb-0000:00:14.0-4)
+23:49:55.983 - 333655 - I - [BYTEVIEW-BYTERTC]: entry getRecordingDevices
+23:49:55.983 - 333655 - I - [BYTEVIEW-BYTERTC]: entry GetRecordingDevices
+23:49:55.983 - 333655 - I - [BYTEVIEW-BYTERTC]: [ByteRtcAudioDeviceAdapter] GetRecordingDevices, recording_devices:1, use_cache:true
+23:49:55.983 - 333655 - I - [BYTEVIEW-BYTERTC]: exit GetRecordingDevices, cost : 0
+23:49:55.983 - 333655 - I - [BYTEVIEW-BYTERTC]: exit getRecordingDevices, cost : 0
+23:49:55.983 - 333655 - I - [BYTEVIEW-BYTERTC]: entry getSystemDefaultRecordingDevice
+23:49:55.983 - 333655 - I - [BYTEVIEW-BYTERTC]: entry GetSystemDefaultRecordingDevice
+23:49:55.983 - 333655 - I - [BYTEVIEW-BYTERTC]: exit GetSystemDefaultRecordingDevice, cost : 0
+23:49:55.983 - 333655 - I - [BYTEVIEW-BYTERTC]: getSystemDefaultRecordingDevice, getSystemDefaultRecordingDevice = alsa_input.pci-0000_00_1b.0.analog-stereo
+23:49:55.983 - 333655 - I - [BYTEVIEW-BYTERTC]: exit getSystemDefaultRecordingDevice, cost : 0
+23:49:55.984 - 333655 - I - [BYTEVIEW-BYTERTC]: should_be_filter_out hitblack:false, deviceid:SAME_AS_SYSTEM_DEVICE_ID,isDisplayAudio:false,isUnknown:false,isVirtual:false
+23:49:55.984 - 333655 - I - [BYTEVIEW-BYTERTC]: should_be_filter_out hitblack:false, deviceid:alsa_input.pci-0000_00_1b.0.analog-stereo,isDisplayAudio:false,isUnknown:false,isVirtual:false
+23:49:55.984 - 333655 - I - [BYTEVIEW-BYTERTC]: entry getPlayoutDevices
+23:49:55.984 - 333655 - I - [BYTEVIEW-BYTERTC]: entry GetPlayoutDevices
+23:49:55.984 - 333655 - I - [BYTEVIEW-BYTERTC]: [ByteRtcAudioDeviceAdapter] GetPlayoutDevices, playout_devices:1, use_cache:true
+23:49:55.984 - 333655 - I - [BYTEVIEW-BYTERTC]: exit GetPlayoutDevices, cost : 0
+23:49:55.984 - 333655 - I - [BYTEVIEW-BYTERTC]: exit getPlayoutDevices, cost : 0
+23:49:55.984 - 333655 - I - [BYTEVIEW-BYTERTC]: entry getSystemDefaultPlayoutDevice
+23:49:55.984 - 333655 - I - [BYTEVIEW-BYTERTC]: entry GetSystemDefaultPlayoutDevice
+23:49:55.984 - 333655 - I - [BYTEVIEW-BYTERTC]: exit GetSystemDefaultPlayoutDevice, cost : 0
+23:49:55.984 - 333655 - I - [BYTEVIEW-BYTERTC]: [DeviceManager::getSystemDefaultPlayoutDevice]after1 deviceId:alsa_output.pci-0000_00_1b.0.analog-stereo
+23:49:55.984 - 333655 - I - [BYTEVIEW-BYTERTC]: exit getSystemDefaultPlayoutDevice, cost : 0
+23:49:55.985 - 333655 - I - [BYTEVIEW-BYTERTC]: should_be_filter_out hitblack:false, deviceid:SAME_AS_SYSTEM_DEVICE_ID,isDisplayAudio:false,isUnknown:false,isVirtual:false
+23:49:55.985 - 333655 - I - [BYTEVIEW-BYTERTC]: should_be_filter_out hitblack:false, deviceid:alsa_output.pci-0000_00_1b.0.analog-stereo,isDisplayAudio:false,isUnknown:false,isVirtual:false
+23:49:55.985 - 333655 - I - [BYTEVIEW-BYTERTC]: entry getVideoDevices
+23:49:55.985 - 333655 - I - [BYTEVIEW-BYTERTC]: entry VideoDevices
+23:49:55.985 - 333655 - I - [BYTEVIEW-BYTERTC]: [ByteRtcVideoDeviceAdapter] video_devices:1, use_cache:true
+23:49:55.985 - 333655 - I - [BYTEVIEW-BYTERTC]: exit VideoDevices, cost : 0
+23:49:55.985 - 333655 - I - [BYTEVIEW-BYTERTC]: entry fillHidDeviceInfo
+23:49:55.985 - 333655 - I - [BYTEVIEW-BYTERTC]: exit fillHidDeviceInfo, cost : 0
+23:49:55.985 - 333655 - I - [BYTEVIEW-BYTERTC]: exit getVideoDevices, cost : 0
+23:49:55.987 - 333655 - I - [BYTEVIEW-BYTERTC]: should_be_filter_out hitblack:false, deviceid:Laptop_Integrated_Webcam_HD: In(usb-0000:00:14.0-4),isDisplayAudio:false,isUnknown:false,isVirtual:false
+23:49:55.988 - 333655 - I - [BYTEVIEW-BYTERTC]: exit manager_device_init, cost : 22
+23:49:55.988 - 333655 - I - [BYTEVIEW-BYTERTC]: SDKInitLogic.cpp:ExecuteInitRtc(52), , cost: 670 ms.
+23:49:55.994 - 333655 - I - [BYTEVIEW-BYTERTC]: exit ExecuteInitRtc, cost : 672
+23:49:55.998 - 333655 - I - [BYTEVIEW-BYTERTC]: Falcon rtcsdk init end !!!
+23:49:55.998 - 333655 - I - [BYTEVIEW-BYTERTC]: entry GetDevices
+23:49:55.999 - 333707 - I - [BYTEVIEW-BYTERTC]: entry getRecordingDevices
+23:49:56.000 - 333707 - I - [BYTEVIEW-BYTERTC]: entry GetRecordingDevices
+23:49:56.000 - 333707 - I - [BYTEVIEW-BYTERTC]: [ByteRtcAudioDeviceAdapter] GetRecordingDevices, recording_devices:1, use_cache:true
+23:49:56.000 - 333707 - I - [BYTEVIEW-BYTERTC]: exit GetRecordingDevices, cost : 0
+23:49:56.000 - 333707 - I - [BYTEVIEW-BYTERTC]: exit getRecordingDevices, cost : 1
+23:49:56.000 - 333707 - I - [BYTEVIEW-BYTERTC]: entry getSystemDefaultRecordingDevice
+23:49:56.000 - 333707 - I - [BYTEVIEW-BYTERTC]: entry GetSystemDefaultRecordingDevice
+23:49:56.000 - 333707 - I - [BYTEVIEW-BYTERTC]: exit GetSystemDefaultRecordingDevice, cost : 0
+23:49:56.000 - 333707 - I - [BYTEVIEW-BYTERTC]: getSystemDefaultRecordingDevice, getSystemDefaultRecordingDevice = alsa_input.pci-0000_00_1b.0.analog-stereo
+23:49:56.000 - 333707 - I - [BYTEVIEW-BYTERTC]: exit getSystemDefaultRecordingDevice, cost : 0
+23:49:56.005 - 333655 - I - [BYTEVIEW-BYTERTC]: export GetDevices deviceType:0, getDevices 0, deviceId:SAME_AS_SYSTEM_DEVICE_ID, buildin:true, isBluetooth:false
+23:49:56.005 - 333655 - I - [BYTEVIEW-BYTERTC]: export GetDevices deviceType:0, getDevices 1, deviceId:alsa_input.pci-0000_00_1b.0.analog-stereo, buildin:true, isBluetooth:false
+23:49:56.005 - 333655 - I - [BYTEVIEW-BYTERTC]: exit GetDevices, cost : 7
+23:49:56.005 - 333655 - I - [BYTEVIEW-BYTERTC]: entry GetCurrentDeviceId
+23:49:56.010 - 333655 - I - [BYTEVIEW-BYTERTC]: GetCurrentDeviceId: devicetype:0, deviceid:SAME_AS_SYSTEM_DEVICE_ID
+23:49:56.010 - 333655 - I - [BYTEVIEW-BYTERTC]: exit GetCurrentDeviceId, cost : 5
+23:49:56.010 - 333655 - I - [BYTEVIEW-BYTERTC]: entry GetDefaultDeviceInfo
+23:49:56.011 - 333707 - I - [BYTEVIEW-BYTERTC]: entry getRecordingDevices
+23:49:56.011 - 333707 - I - [BYTEVIEW-BYTERTC]: entry GetRecordingDevices
+23:49:56.011 - 333707 - I - [BYTEVIEW-BYTERTC]: [ByteRtcAudioDeviceAdapter] GetRecordingDevices, recording_devices:1, use_cache:true
+23:49:56.011 - 333707 - I - [BYTEVIEW-BYTERTC]: exit GetRecordingDevices, cost : 0
+23:49:56.011 - 333707 - I - [BYTEVIEW-BYTERTC]: exit getRecordingDevices, cost : 0
+23:49:56.011 - 333707 - I - [BYTEVIEW-BYTERTC]: entry getSystemDefaultRecordingDevice
+23:49:56.011 - 333707 - I - [BYTEVIEW-BYTERTC]: entry GetSystemDefaultRecordingDevice
+23:49:56.011 - 333707 - I - [BYTEVIEW-BYTERTC]: exit GetSystemDefaultRecordingDevice, cost : 0
+23:49:56.011 - 333707 - I - [BYTEVIEW-BYTERTC]: getSystemDefaultRecordingDevice, getSystemDefaultRecordingDevice = alsa_input.pci-0000_00_1b.0.analog-stereo
+23:49:56.011 - 333707 - I - [BYTEVIEW-BYTERTC]: exit getSystemDefaultRecordingDevice, cost : 0
+23:49:56.011 - 333707 - I - [BYTEVIEW-BYTERTC]: entry getSystemDefaultRecordingDevice
+23:49:56.011 - 333707 - I - [BYTEVIEW-BYTERTC]: entry GetSystemDefaultRecordingDevice
+23:49:56.011 - 333707 - I - [BYTEVIEW-BYTERTC]: exit GetSystemDefaultRecordingDevice, cost : 0
+23:49:56.011 - 333707 - I - [BYTEVIEW-BYTERTC]: getSystemDefaultRecordingDevice, getSystemDefaultRecordingDevice = alsa_input.pci-0000_00_1b.0.analog-stereo
+23:49:56.011 - 333707 - I - [BYTEVIEW-BYTERTC]: exit getSystemDefaultRecordingDevice, cost : 0
+23:49:56.013 - 333655 - I - [BYTEVIEW-BYTERTC]: GetDefaultDeviceInfo deviceType:0, deviceId:alsa_input.pci-0000_00_1b.0.analog-stereo, deviceNameLen:28,buildIn:true
+23:49:56.013 - 333655 - I - [BYTEVIEW-BYTERTC]: exit GetDefaultDeviceInfo, cost : 3
+23:49:56.014 - 333655 - I - [BYTEVIEW-BYTERTC]: entry GetCurrentDeviceInfo
+23:49:56.014 - 333707 - I - [BYTEVIEW-BYTERTC]: entry getRecordingDevices
+23:49:56.014 - 333707 - I - [BYTEVIEW-BYTERTC]: entry GetRecordingDevices
+23:49:56.014 - 333707 - I - [BYTEVIEW-BYTERTC]: [ByteRtcAudioDeviceAdapter] GetRecordingDevices, recording_devices:1, use_cache:true
+23:49:56.014 - 333707 - I - [BYTEVIEW-BYTERTC]: exit GetRecordingDevices, cost : 0
+23:49:56.014 - 333707 - I - [BYTEVIEW-BYTERTC]: exit getRecordingDevices, cost : 0
+23:49:56.014 - 333707 - I - [BYTEVIEW-BYTERTC]: entry getSystemDefaultRecordingDevice
+23:49:56.014 - 333707 - I - [BYTEVIEW-BYTERTC]: entry GetSystemDefaultRecordingDevice
+23:49:56.014 - 333707 - I - [BYTEVIEW-BYTERTC]: exit GetSystemDefaultRecordingDevice, cost : 0
+23:49:56.014 - 333707 - I - [BYTEVIEW-BYTERTC]: getSystemDefaultRecordingDevice, getSystemDefaultRecordingDevice = alsa_input.pci-0000_00_1b.0.analog-stereo
+23:49:56.014 - 333707 - I - [BYTEVIEW-BYTERTC]: exit getSystemDefaultRecordingDevice, cost : 0
+23:49:56.014 - 333707 - I - [BYTEVIEW-BYTERTC]: [DeviceLogic][getDeviceInfoByDeviceId]device_id:SAME_AS_SYSTEM_DEVICE_ID, find:true
+23:49:56.014 - 333655 - I - [BYTEVIEW-BYTERTC]: GetCurrentDeviceInfo deviceType1:0, deviceType2:0, deviceId:SAME_AS_SYSTEM_DEVICE_ID, isBuiltin:true,isBluetooth:false, deviceVid:32902, devicePid:39968
+23:49:56.014 - 333655 - I - [BYTEVIEW-BYTERTC]: exit GetCurrentDeviceInfo, cost : 0
+23:49:56.015 - 333655 - I - [BYTEVIEW-BYTERTC]: entry GetDevices
+23:49:56.016 - 333707 - I - [BYTEVIEW-BYTERTC]: entry getPlayoutDevices
+23:49:56.016 - 333707 - I - [BYTEVIEW-BYTERTC]: entry GetPlayoutDevices
+23:49:56.016 - 333707 - I - [BYTEVIEW-BYTERTC]: [ByteRtcAudioDeviceAdapter] GetPlayoutDevices, playout_devices:1, use_cache:true
+23:49:56.016 - 333707 - I - [BYTEVIEW-BYTERTC]: exit GetPlayoutDevices, cost : 0
+23:49:56.016 - 333707 - I - [BYTEVIEW-BYTERTC]: exit getPlayoutDevices, cost : 0
+23:49:56.016 - 333707 - I - [BYTEVIEW-BYTERTC]: entry getSystemDefaultPlayoutDevice
+23:49:56.016 - 333707 - I - [BYTEVIEW-BYTERTC]: entry GetSystemDefaultPlayoutDevice
+23:49:56.016 - 333707 - I - [BYTEVIEW-BYTERTC]: exit GetSystemDefaultPlayoutDevice, cost : 0
+23:49:56.016 - 333707 - I - [BYTEVIEW-BYTERTC]: [DeviceManager::getSystemDefaultPlayoutDevice]after1 deviceId:alsa_output.pci-0000_00_1b.0.analog-stereo
+23:49:56.016 - 333707 - I - [BYTEVIEW-BYTERTC]: exit getSystemDefaultPlayoutDevice, cost : 0
+23:49:56.016 - 333655 - I - [BYTEVIEW-BYTERTC]: export GetDevices deviceType:1, getDevices 0, deviceId:SAME_AS_SYSTEM_DEVICE_ID, buildin:true, isBluetooth:false
+23:49:56.016 - 333655 - I - [BYTEVIEW-BYTERTC]: export GetDevices deviceType:1, getDevices 1, deviceId:alsa_output.pci-0000_00_1b.0.analog-stereo, buildin:true, isBluetooth:false
+23:49:56.016 - 333655 - I - [BYTEVIEW-BYTERTC]: exit GetDevices, cost : 1
+23:49:56.017 - 333655 - I - [BYTEVIEW-BYTERTC]: entry GetCurrentDeviceId
+23:49:56.017 - 333655 - I - [BYTEVIEW-BYTERTC]: GetCurrentDeviceId: devicetype:1, deviceid:SAME_AS_SYSTEM_DEVICE_ID
+23:49:56.017 - 333655 - I - [BYTEVIEW-BYTERTC]: exit GetCurrentDeviceId, cost : 0
+23:49:56.017 - 333655 - I - [BYTEVIEW-BYTERTC]: entry GetDefaultDeviceInfo
+23:49:56.017 - 333707 - I - [BYTEVIEW-BYTERTC]: entry getPlayoutDevices
+23:49:56.017 - 333707 - I - [BYTEVIEW-BYTERTC]: entry GetPlayoutDevices
+23:49:56.017 - 333707 - I - [BYTEVIEW-BYTERTC]: [ByteRtcAudioDeviceAdapter] GetPlayoutDevices, playout_devices:1, use_cache:true
+23:49:56.017 - 333707 - I - [BYTEVIEW-BYTERTC]: exit GetPlayoutDevices, cost : 0
+23:49:56.017 - 333707 - I - [BYTEVIEW-BYTERTC]: exit getPlayoutDevices, cost : 0
+23:49:56.017 - 333707 - I - [BYTEVIEW-BYTERTC]: entry getSystemDefaultPlayoutDevice
+23:49:56.017 - 333707 - I - [BYTEVIEW-BYTERTC]: entry GetSystemDefaultPlayoutDevice
+23:49:56.017 - 333707 - I - [BYTEVIEW-BYTERTC]: exit GetSystemDefaultPlayoutDevice, cost : 0
+23:49:56.017 - 333707 - I - [BYTEVIEW-BYTERTC]: [DeviceManager::getSystemDefaultPlayoutDevice]after1 deviceId:alsa_output.pci-0000_00_1b.0.analog-stereo
+23:49:56.018 - 333707 - I - [BYTEVIEW-BYTERTC]: exit getSystemDefaultPlayoutDevice, cost : 1
+23:49:56.018 - 333707 - I - [BYTEVIEW-BYTERTC]: entry getSystemDefaultPlayoutDevice
+23:49:56.018 - 333707 - I - [BYTEVIEW-BYTERTC]: entry GetSystemDefaultPlayoutDevice
+23:49:56.018 - 333707 - I - [BYTEVIEW-BYTERTC]: exit GetSystemDefaultPlayoutDevice, cost : 0
+23:49:56.018 - 333707 - I - [BYTEVIEW-BYTERTC]: [DeviceManager::getSystemDefaultPlayoutDevice]after1 deviceId:alsa_output.pci-0000_00_1b.0.analog-stereo
+23:49:56.018 - 333707 - I - [BYTEVIEW-BYTERTC]: exit getSystemDefaultPlayoutDevice, cost : 0
+23:49:56.018 - 333655 - I - [BYTEVIEW-BYTERTC]: GetDefaultDeviceInfo deviceType:1, deviceId:alsa_output.pci-0000_00_1b.0.analog-stereo, deviceNameLen:28,buildIn:true
+23:49:56.018 - 333655 - I - [BYTEVIEW-BYTERTC]: exit GetDefaultDeviceInfo, cost : 1
+23:49:56.019 - 333655 - I - [BYTEVIEW-BYTERTC]: entry GetCurrentDeviceInfo
+23:49:56.019 - 333707 - I - [BYTEVIEW-BYTERTC]: entry getPlayoutDevices
+23:49:56.019 - 333707 - I - [BYTEVIEW-BYTERTC]: entry GetPlayoutDevices
+23:49:56.019 - 333707 - I - [BYTEVIEW-BYTERTC]: [ByteRtcAudioDeviceAdapter] GetPlayoutDevices, playout_devices:1, use_cache:true
+23:49:56.019 - 333707 - I - [BYTEVIEW-BYTERTC]: exit GetPlayoutDevices, cost : 0
+23:49:56.019 - 333707 - I - [BYTEVIEW-BYTERTC]: exit getPlayoutDevices, cost : 0
+23:49:56.019 - 333707 - I - [BYTEVIEW-BYTERTC]: entry getSystemDefaultPlayoutDevice
+23:49:56.019 - 333707 - I - [BYTEVIEW-BYTERTC]: entry GetSystemDefaultPlayoutDevice
+23:49:56.019 - 333707 - I - [BYTEVIEW-BYTERTC]: exit GetSystemDefaultPlayoutDevice, cost : 0
+23:49:56.019 - 333707 - I - [BYTEVIEW-BYTERTC]: [DeviceManager::getSystemDefaultPlayoutDevice]after1 deviceId:alsa_output.pci-0000_00_1b.0.analog-stereo
+23:49:56.019 - 333707 - I - [BYTEVIEW-BYTERTC]: exit getSystemDefaultPlayoutDevice, cost : 0
+23:49:56.019 - 333707 - I - [BYTEVIEW-BYTERTC]: [DeviceLogic][getDeviceInfoByDeviceId]device_id:SAME_AS_SYSTEM_DEVICE_ID, find:true
+23:49:56.019 - 333655 - I - [BYTEVIEW-BYTERTC]: GetCurrentDeviceInfo deviceType1:1, deviceType2:1, deviceId:SAME_AS_SYSTEM_DEVICE_ID, isBuiltin:true,isBluetooth:false, deviceVid:32902, devicePid:39968
+23:49:56.019 - 333655 - I - [BYTEVIEW-BYTERTC]: exit GetCurrentDeviceInfo, cost : 1
+23:49:56.019 - 333655 - I - [BYTEVIEW-BYTERTC]: entry GetDevices
+23:49:56.019 - 333707 - I - [BYTEVIEW-BYTERTC]: entry getVideoDevices
+23:49:56.019 - 333707 - I - [BYTEVIEW-BYTERTC]: entry VideoDevices
+23:49:56.019 - 333707 - I - [BYTEVIEW-BYTERTC]: [ByteRtcVideoDeviceAdapter] video_devices:1, use_cache:true
+23:49:56.019 - 333707 - I - [BYTEVIEW-BYTERTC]: exit VideoDevices, cost : 0
+23:49:56.019 - 333707 - I - [BYTEVIEW-BYTERTC]: entry fillHidDeviceInfo
+23:49:56.019 - 333707 - I - [BYTEVIEW-BYTERTC]: exit fillHidDeviceInfo, cost : 0
+23:49:56.019 - 333707 - I - [BYTEVIEW-BYTERTC]: exit getVideoDevices, cost : 0
+23:49:56.019 - 333655 - I - [BYTEVIEW-BYTERTC]: export GetDevices deviceType:2, getDevices 0, deviceId:Laptop_Integrated_Webcam_HD: In(usb-0000:00:14.0-4), buildin:false, isBluetooth:false
+23:49:56.019 - 333655 - I - [BYTEVIEW-BYTERTC]: exit GetDevices, cost : 0
+23:49:56.019 - 333655 - I - [BYTEVIEW-BYTERTC]: entry GetCurrentDeviceId
+23:49:56.019 - 333707 - I - [BYTEVIEW-BYTERTC]: entry getVideoDevice
+23:49:56.019 - 333707 - I - [BYTEVIEW-BYTERTC]: entry CurrentVideoDevice
+23:49:56.019 - 333707 - I - [BYTEVIEW-BYTERTC]: exit CurrentVideoDevice, cost : 0
+23:49:56.019 - 333707 - I - [BYTEVIEW-BYTERTC]: exit getVideoDevice, cost : 0
+23:49:56.019 - 333655 - I - [BYTEVIEW-BYTERTC]: GetCurrentDeviceId: devicetype:2, deviceid:Laptop_Integrated_Webcam_HD: In(usb-0000:00:14.0-4)
+23:49:56.019 - 333655 - I - [BYTEVIEW-BYTERTC]: exit GetCurrentDeviceId, cost : 0
+23:49:56.019 - 333655 - I - [BYTEVIEW-BYTERTC]: entry GetDefaultDeviceInfo
+23:49:56.019 - 333707 - I - [BYTEVIEW-BYTERTC]: entry getVideoDevices
+23:49:56.019 - 333707 - I - [BYTEVIEW-BYTERTC]: entry VideoDevices
+23:49:56.019 - 333707 - I - [BYTEVIEW-BYTERTC]: [ByteRtcVideoDeviceAdapter] video_devices:1, use_cache:true
+23:49:56.019 - 333707 - I - [BYTEVIEW-BYTERTC]: exit VideoDevices, cost : 0
+23:49:56.019 - 333707 - I - [BYTEVIEW-BYTERTC]: entry fillHidDeviceInfo
+23:49:56.019 - 333707 - I - [BYTEVIEW-BYTERTC]: exit fillHidDeviceInfo, cost : 0
+23:49:56.019 - 333707 - I - [BYTEVIEW-BYTERTC]: exit getVideoDevices, cost : 0
+23:49:56.019 - 333707 - I - [BYTEVIEW-BYTERTC]: entry getDefaultVideoDevice
+23:49:56.019 - 333707 - I - [BYTEVIEW-BYTERTC]: entry DefaultVideoDevice
+23:49:56.019 - 333707 - I - [BYTEVIEW-BYTERTC]: exit DefaultVideoDevice, cost : 0
+23:49:56.019 - 333707 - I - [BYTEVIEW-BYTERTC]: exit getDefaultVideoDevice, cost : 0
+23:49:56.019 - 333655 - I - [BYTEVIEW-BYTERTC]: GetDefaultDeviceInfo deviceType:2, deviceId:, deviceNameLen:0,buildIn:true
+23:49:56.019 - 333655 - I - [BYTEVIEW-BYTERTC]: exit GetDefaultDeviceInfo, cost : 0
+23:49:56.019 - 333655 - I - [BYTEVIEW-BYTERTC]: entry GetCurrentDeviceInfo
+23:49:56.019 - 333707 - I - [BYTEVIEW-BYTERTC]: entry getVideoDevice
+23:49:56.019 - 333707 - I - [BYTEVIEW-BYTERTC]: entry CurrentVideoDevice
+23:49:56.019 - 333707 - I - [BYTEVIEW-BYTERTC]: exit CurrentVideoDevice, cost : 0
+23:49:56.019 - 333707 - I - [BYTEVIEW-BYTERTC]: exit getVideoDevice, cost : 0
+23:49:56.019 - 333707 - I - [BYTEVIEW-BYTERTC]: entry getVideoDevices
+23:49:56.019 - 333707 - I - [BYTEVIEW-BYTERTC]: entry VideoDevices
+23:49:56.019 - 333707 - I - [BYTEVIEW-BYTERTC]: [ByteRtcVideoDeviceAdapter] video_devices:1, use_cache:true
+23:49:56.019 - 333707 - I - [BYTEVIEW-BYTERTC]: exit VideoDevices, cost : 0
+23:49:56.019 - 333707 - I - [BYTEVIEW-BYTERTC]: entry fillHidDeviceInfo
+23:49:56.019 - 333707 - I - [BYTEVIEW-BYTERTC]: exit fillHidDeviceInfo, cost : 0
+23:49:56.019 - 333707 - I - [BYTEVIEW-BYTERTC]: exit getVideoDevices, cost : 0
+23:49:56.019 - 333707 - I - [BYTEVIEW-BYTERTC]: [DeviceLogic][getDeviceInfoByDeviceId]device_id:Laptop_Integrated_Webcam_HD: In(usb-0000:00:14.0-4), find:true
+23:49:56.020 - 333655 - I - [BYTEVIEW-BYTERTC]: GetCurrentDeviceInfo deviceType1:2, deviceType2:2, deviceId:Laptop_Integrated_Webcam_HD: In(usb-0000:00:14.0-4), isBuiltin:false,isBluetooth:false, deviceVid:0, devicePid:0
+23:49:56.020 - 333655 - I - [BYTEVIEW-BYTERTC]: exit GetCurrentDeviceInfo, cost : 1
+23:49:56.020 - 333655 - I - [BYTEVIEW-BYTERTC]: entry GetMicrophoneAuthorizationStatus
+23:49:56.020 - 333655 - I - [BYTEVIEW-BYTERTC]: exit GetMicrophoneAuthorizationStatus, cost : 0
+23:49:56.020 - 333655 - I - [BYTEVIEW-BYTERTC]: entry GetCameraAuthorizationStatus
+23:49:56.020 - 333655 - I - [BYTEVIEW-BYTERTC]: exit GetCameraAuthorizationStatus, cost : 0
+23:49:56.020 - 333655 - I - [BYTEVIEW-BYTERTC]: entry OnRecordingVolumeChange
+23:49:56.020 - 333655 - I - [BYTEVIEW-BYTERTC]: exit OnRecordingVolumeChange, cost : 0
+23:49:56.020 - 333655 - I - [BYTEVIEW-BYTERTC]: entry OnPlaybackVolumeChange
+23:49:56.020 - 333655 - I - [BYTEVIEW-BYTERTC]: exit OnPlaybackVolumeChange, cost : 0
+23:49:56.020 - 333655 - I - [BYTEVIEW-BYTERTC]: entry GetAccessibilityAuthorizationStatus
+23:49:56.020 - 333655 - I - [BYTEVIEW-BYTERTC]: entry GetAccessibilityAuthorizationStatus
+23:49:56.020 - 333655 - I - [BYTEVIEW-BYTERTC]: exit GetAccessibilityAuthorizationStatus, cost : 0
+23:49:56.020 - 333655 - I - [BYTEVIEW-BYTERTC]: exit GetAccessibilityAuthorizationStatus, cost : 0
+23:49:56.020 - 333655 - I - [BYTEVIEW-BYTERTC]: entry ServerOptionSetMonitorConfigInMeetingLogDuration
+23:49:56.020 - 333655 - I - [BYTEVIEW-BYTERTC]: ServerOptionSetMonitorConfigInMeetingLogDuration, duration:60000 ms
+23:49:56.020 - 333655 - I - [BYTEVIEW-BYTERTC]: exit ServerOptionSetMonitorConfigInMeetingLogDuration, cost : 0
+23:49:56.020 - 333655 - I - [BYTEVIEW-BYTERTC]: entry ServerOptionUpdateEffectDownloadConfig
+23:49:56.020 - 333655 - I - [BYTEVIEW-BYTERTC]: ServerOptionUpdateEffectDownloadConfig:05f43500d79911eab76b63d0864735f8,31,vc-native,MI 8,online,0
+23:49:56.020 - 333707 - I - [BYTEVIEW-BYTERTC]: entry SetAvatarResPathAndEnv
+23:49:56.020 - 333707 - I - [BYTEVIEW-BYTERTC]: exit SetAvatarResPathAndEnv, cost : 0
+23:49:56.020 - 333707 - I - [BYTEVIEW-BYTERTC]: entry SetAvatarResPathAndEnv
+23:49:56.020 - 333707 - I - [BYTEVIEW-BYTERTC]: entry SetAvatarResPathAndEnv
+23:49:56.020 - 333707 - I - [BYTEVIEW-BYTERTC]: SetAvatarResPathAndEnv, useGpuModel: false, env:1
+23:49:56.020 - 333707 - I - [BYTEVIEW-BYTERTC]: deviceId:0,appversion:6.9.16
+23:49:56.020 - 333707 - I - [BYTEVIEW-BYTERTC]: exit SetAvatarResPathAndEnv, cost : 0
+23:49:56.020 - 333707 - I - [BYTEVIEW-BYTERTC]: exit SetAvatarResPathAndEnv, cost : 0
+23:49:56.020 - 333655 - I - [BYTEVIEW-BYTERTC]: exit ServerOptionUpdateEffectDownloadConfig, cost : 0
+23:49:56.020 - 333707 - I - [BYTEVIEW-BYTERTC]: entry cancelEffect
+23:49:56.020 - 333707 - I - [BYTEVIEW-BYTERTC]: entry cancelEffect
+23:49:56.020 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::cancelEffect, panel: default
+23:49:56.020 - 333668 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] InvokeAsync command begin, task_id: 24, cmd: 10000
+23:49:56.020 - 333668 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] InvokeAsync command end, task_id: 24, cmd: 10000
+23:49:56.022 - 333668 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] InvokeAsync command begin, task_id: 25, cmd: 10000
+23:49:56.022 - 333668 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] InvokeAsync command end, task_id: 25, cmd: 10000
+23:49:56.024 - 333782 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] received response data, task id:24.
+23:49:56.024 - 333782 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] received response data, task id:25.
+23:49:56.024 - 333707 - I - [BYTEVIEW-BYTERTC]: exit cancelEffect, cost : 4
+23:49:56.024 - 333707 - I - [BYTEVIEW-BYTERTC]: exit cancelEffect, cost : 4
+23:49:56.026 - 333668 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] InvokeAsync command begin, task_id: 26, cmd: 10000
+23:49:56.026 - 333668 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] InvokeAsync command end, task_id: 26, cmd: 10000
+23:49:56.027 - 333668 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] InvokeAsync command begin, task_id: 27, cmd: 10000
+23:49:56.027 - 333668 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] InvokeAsync command end, task_id: 27, cmd: 10000
+23:49:56.027 - 333782 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] received response data, task id:26.
+23:49:56.040 - 333668 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] InvokeAsync command begin, task_id: 28, cmd: 10000
+23:49:56.040 - 333668 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] InvokeAsync command end, task_id: 28, cmd: 10000
+23:49:56.040 - 333668 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] InvokeAsync command begin, task_id: 29, cmd: 10000
+23:49:56.040 - 333668 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] InvokeAsync command end, task_id: 29, cmd: 10000
+23:49:56.040 - 333668 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] InvokeAsync command begin, task_id: 30, cmd: 10000
+23:49:56.040 - 333668 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] InvokeAsync command end, task_id: 30, cmd: 10000
+23:49:56.040 - 333668 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] InvokeAsync command begin, task_id: 31, cmd: 10000
+23:49:56.040 - 333668 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] InvokeAsync command end, task_id: 31, cmd: 10000
+23:49:56.040 - 333668 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] InvokeAsync command begin, task_id: 32, cmd: 10000
+23:49:56.040 - 333668 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] InvokeAsync command end, task_id: 32, cmd: 10000
+23:49:56.040 - 333668 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] InvokeAsync command begin, task_id: 33, cmd: 10000
+23:49:56.040 - 333668 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] InvokeAsync command end, task_id: 33, cmd: 10000
+23:49:56.040 - 333668 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] InvokeAsync command begin, task_id: 34, cmd: 10000
+23:49:56.040 - 333668 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] InvokeAsync command end, task_id: 34, cmd: 10000
+23:49:56.040 - 333668 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] InvokeAsync command begin, task_id: 35, cmd: 10000
+23:49:56.040 - 333668 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] InvokeAsync command end, task_id: 35, cmd: 10000
+23:49:56.041 - 333782 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] received response data, task id:28.
+23:49:56.041 - 333782 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] received response data, task id:30.
+23:49:56.041 - 333782 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] received response data, task id:34.
+23:49:56.041 - 333782 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] received response data, task id:33.
+23:49:56.042 - 333782 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] received response data, task id:35.
+23:49:56.042 - 333782 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] received response data, task id:32.
+23:49:56.042 - 333782 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] received response data, task id:29.
+23:49:56.042 - 333782 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] received response data, task id:31.
+23:49:56.044 - 333655 - I - [BYTEVIEW-BYTERTC]: CancelAvatarEffect
+23:49:56.044 - 333707 - I - [BYTEVIEW-BYTERTC]: entry CancelAvatarEffect
+23:49:56.044 - 333707 - I - [BYTEVIEW-BYTERTC]: entry CancelAvatarEffect
+23:49:56.044 - 333707 - I - [BYTEVIEW-BYTERTC]: exit CancelAvatarEffect, cost : 0
+23:49:56.044 - 333707 - I - [BYTEVIEW-BYTERTC]: exit CancelAvatarEffect, cost : 0
+23:49:56.044 - 333655 - I - [BYTEVIEW-BYTERTC]: entry GetMicrophoneAuthorizationStatus
+23:49:56.044 - 333655 - I - [BYTEVIEW-BYTERTC]: exit GetMicrophoneAuthorizationStatus, cost : 0
+23:49:56.044 - 333655 - I - [BYTEVIEW-BYTERTC]: entry GetCameraAuthorizationStatus
+23:49:56.044 - 333655 - I - [BYTEVIEW-BYTERTC]: exit GetCameraAuthorizationStatus, cost : 0
+23:49:56.044 - 333655 - I - [BYTEVIEW-BYTERTC]: entry GetMicrophoneAuthorizationStatus
+23:49:56.044 - 333655 - I - [BYTEVIEW-BYTERTC]: exit GetMicrophoneAuthorizationStatus, cost : 0
+23:49:56.044 - 333655 - I - [BYTEVIEW-BYTERTC]: entry GetCameraAuthorizationStatus
+23:49:56.044 - 333655 - I - [BYTEVIEW-BYTERTC]: exit GetCameraAuthorizationStatus, cost : 0
+23:49:56.045 - 333655 - I - [BYTEVIEW-BYTERTC]: {"engine_whitelist_config":{
+	"config_info":	"linux_feishu_01",
+	"pid_vid_config":	[{
+			"aec_enable":	false,
+			"ans_enable":	false,
+			"pidvids":	["826b1fc9", "3301291a", "a21305a7", "80ce05c6", "00411395", "008e1395", "92b2095d"]
+		}, {
+			"aec_enable":	false,
+			"ans_enable":	true,
+			"dfx_mute_enable":	true,
+			"pidvids":	["800118d1", "05052abf"]
+		}, {
+			"aec_enable":	false,
+			"ans_enable":	true,
+			"dfx_mute_enable":	false,
+			"pidvids":	["0160047f", "b0356993"]
+		}, {
+			"aec_enable":	false,
+			"agc_enable":	true,
+			"ans_enable":	false,
+			"pidvids":	["9217095d", "30120b0e", "9290095d", "08d2046d", "0898046d", "0af2046d", "b0796993"],
+			"rnn_enable":	false,
+			"rnn_type":	0
+		}, {
+			"aec_enable":	false,
+			"agc_enable":	true,
+			"ans_enable":	true,
+			"dfx_mute_enable":	false,
+			"pidvids":	["3305291a", "24b10b0e", "015c047f", "015e047f", "00931395", "1200047f", "0acc046d", "110114ed"]
+		}, {
+			"aec_enable":	false,
+			"agc_enable":	true,
+			"ans_enable":	false,
+			"apm_enable":	false,
+			"pidvids":	["04031ff7"],
+			"rnn_enable":	false,
+			"rnn_type":	0
+		}, {
+			"aec_enable":	false,
+			"agc_enable":	false,
+			"ans_enable":	false,
+			"pidvids":	["a6af0627"],
+			"rnn_enable":	false,
+			"rnn_type":	0
+		}, {
+			"aec_enable":	false,
+			"agc_enable":	true,
+			"ans_enable":	true,
+			"pidvids":	["24540b0e", "0885046d", "400128e6"]
+		}, {
+			"aec_enable":	false,
+			"agc_enable":	true,
+			"ans_enable":	false,
+			"pidvids":	["09ff2e7e", "015d047f", "0c102e7e", "a03e17ef"]
+		}, {
+			"aec_enable":	true,
+			"agc_enable":	true,
+			"ans_enable":	true,
+			"pidvids":	["000f1656"]
+		}, {
+			"aec_enable":	false,
+			"agc_enable":	true,
+			"ans_enable":	true,
+			"pidvids":	["11052f9d"],
+			"rnn_enable":	false,
+			"rnn_type":	0
+		}]
+}}
+23:49:56.045 - 333707 - I - [BYTEVIEW-BYTERTC]: entry updateRtcParamsStore
+23:49:56.045 - 333707 - I - [BYTEVIEW-BYTERTC]: updateRtcParamsStore old: {"bw_threshold":{"extreme_low":400.0,"low":800.0,"multistream_addtion":200.0},"rtc.aid":"666","rtc.linux_effect":1,"meeting_network_quality_strategy":{"downlink":{"bw_kbps":{"audio_bad":10,"screen_bad":200,"video_bad":200},"loss_percent":{"audio_bad":60,"audio_good":40,"screen_bad":50,"screen_good":30,"video_bad":60,"video_good":40},"rtt_ms":{"bad":5000,"good":2000,"screen_bad":5000,"screen_good":2000}},"soomth_config":{"down":2,"up":2},"uplink":{"bw_kbps":{"audio_bad":10,"screen_bad":200,"video_bad":160},"loss_percent":{"audio_bad":60,"audio_good":40,"screen_bad":50,"screen_good":30,"video_bad":60,"video_good":40},"pub_video_map":{"1080":{"bad":270,"good":630},"144":{"bad":40,"good":144},"180":{"bad":40,"good":180},"270":{"bad":40,"good":180},"360":{"bad":90,"good":270},"450":{"bad":144,"good":270},"540":{"bad":144,"good":360},"630":{"bad":180,"good":450},"720":{"bad":180,"good":450},"90":{"bad":40,"good":90}},"rtt_ms":{"bad":5000,"good":2000,"screen_bad":5000,"screen_good":2000}}}}, new: {
+	"bw_threshold":	{
+		"extreme_low":	400,
+		"low":	800,
+		"multistream_addtion":	200
+	},
+	"rtc.aid":	"666",
+	"rtc.linux_effect":	1,
+	"meeting_network_quality_strategy":	{
+		"downlink":	{
+			"bw_kbps":	{
+				"audio_bad":	10,
+				"screen_bad":	200,
+				"video_bad":	200
+			},
+			"loss_percent":	{
+				"audio_bad":	60,
+				"audio_good":	40,
+				"screen_bad":	50,
+				"screen_good":	30,
+				"video_bad":	60,
+				"video_good":	40
+			},
+			"rtt_ms":	{
+				"bad":	5000,
+				"good":	2000,
+				"screen_bad":	5000,
+				"screen_good":	2000
+			}
+		},
+		"soomth_config":	{
+			"down":	2,
+			"up":	2
+		},
+		"uplink":	{
+			"bw_kbps":	{
+				"audio_bad":	10,
+				"screen_bad":	200,
+				"video_bad":	160
+			},
+			"loss_percent":	{
+				"audio_bad":	60,
+				"audio_good":	40,
+				"screen_bad":	50,
+				"screen_good":	30,
+				"video_bad":	60,
+				"video_good":	40
+			},
+			"pub_video_map":	{
+				"1080":	{
+					"bad":	270,
+					"good":	630
+				},
+				"144":	{
+					"bad":	40,
+					"good":	144
+				},
+				"180":	{
+					"bad":	40,
+					"good":	180
+				},
+				"270":	{
+					"bad":	40,
+					"good":	180
+				},
+				"360":	{
+					"bad":	90,
+					"good":	270
+				},
+				"450":	{
+					"bad":	144,
+					"good":	270
+				},
+				"540":	{
+					"bad":	144,
+					"good":	360
+				},
+				"630":	{
+					"bad":	180,
+					"good":	450
+				},
+				"720":	{
+					"bad":	180,
+					"good":	450
+				},
+				"90":	{
+					"bad":	40,
+					"good":	90
+				}
+			},
+			"rtt_ms":	{
+				"bad":	5000,
+				"good":	2000,
+				"screen_bad":	5000,
+				"screen_good":	2000
+			}
+		}
+	},
+	"engine_whitelist_config":	{
+		"config_info":	"linux_feishu_01",
+		"pid_vid_config":	[{
+				"aec_enable":	false,
+				"ans_enable":	false,
+				"pidvids":	["826b1fc9", "3301291a", "a21305a7", "80ce05c6", "00411395", "008e1395", "92b2095d"]
+			}, {
+				"aec_enable":	false,
+				"ans_enable":	true,
+				"dfx_mute_enable":	true,
+				"pidvids":	["800118d1", "05052abf"]
+			}, {
+				"aec_enable":	false,
+				"ans_enable":	true,
+				"dfx_mute_enable":	false,
+				"pidvids":	["0160047f", "b0356993"]
+			}, {
+				"aec_enable":	false,
+				"agc_enable":	true,
+				"ans_enable":	false,
+				"pidvids":	["9217095d", "30120b0e", "9290095d", "08d2046d", "0898046d", "0af2046d", "b0796993"],
+				"rnn_enable":	false,
+				"rnn_type":	0
+			}, {
+				"aec_enable":	false,
+				"agc_enable":	true,
+				"ans_enable":	true,
+				"dfx_mute_enable":	false,
+				"pidvids":	["3305291a", "24b10b0e", "015c047f", "015e047f", "00931395", "1200047f", "0acc046d", "110114ed"]
+			}, {
+				"aec_enable":	false,
+				"agc_enable":	true,
+				"ans_enable":	false,
+				"apm_enable":	false,
+				"pidvids":	["04031ff7"],
+				"rnn_enable":	false,
+				"rnn_type":	0
+			}, {
+				"aec_enable":	false,
+				"agc_enable":	false,
+				"ans_enable":	false,
+				"pidvids":	["a6af0627"],
+				"rnn_enable":	false,
+				"rnn_type":	0
+			}, {
+				"aec_enable":	false,
+				"agc_enable":	true,
+				"ans_enable":	true,
+				"pidvids":	["24540b0e", "0885046d", "400128e6"]
+			}, {
+				"aec_enable":	false,
+				"agc_enable":	true,
+				"ans_enable":	false,
+				"pidvids":	["09ff2e7e", "015d047f", "0c102e7e", "a03e17ef"]
+			}, {
+				"aec_enable":	true,
+				"agc_enable":	true,
+				"ans_enable":	true,
+				"pidvids":	["000f1656"]
+			}, {
+				"aec_enable":	false,
+				"agc_enable":	true,
+				"ans_enable":	true,
+				"pidvids":	["11052f9d"],
+				"rnn_enable":	false,
+				"rnn_type":	0
+			}]
+	}
+}, updateParam:{"engine_whitelist_config":{
+	"config_info":	"linux_feishu_01",
+	"pid_vid_config":	[{
+			"aec_enable":	false,
+			"ans_enable":	false,
+			"pidvids":	["826b1fc9", "3301291a", "a21305a7", "80ce05c6", "00411395", "008e1395", "92b2095d"]
+		}, {
+			"aec_enable":	false,
+			"ans_enable":	true,
+			"dfx_mute_enable":	true,
+			"pidvids":	["800118d1", "05052abf"]
+		}, {
+			"aec_enable":	false,
+			"ans_enable":	true,
+			"dfx_mute_enable":	false,
+			"pidvids":	["0160047f", "b0356993"]
+		}, {
+			"aec_enable":	false,
+			"agc_enable":	true,
+			"ans_enable":	false,
+			"pidvids":	["9217095d", "30120b0e", "9290095d", "08d2046d", "0898046d", "0af2046d", "b0796993"],
+			"rnn_enable":	false,
+			"rnn_type":	0
+		}, {
+			"aec_enable":	false,
+			"agc_enable":	true,
+			"ans_enable":	true,
+			"dfx_mute_enable":	false,
+			"pidvids":	["3305291a", "24b10b0e", "015c047f", "015e047f", "00931395", "1200047f", "0acc046d", "110114ed"]
+		}, {
+			"aec_enable":	false,
+			"agc_enable":	true,
+			"ans_enable":	false,
+			"apm_enable":	false,
+			"pidvids":	["04031ff7"],
+			"rnn_enable":	false,
+			"rnn_type":	0
+		}, {
+			"aec_enable":	false,
+			"agc_enable":	false,
+			"ans_enable":	false,
+			"pidvids":	["a6af0627"],
+			"rnn_enable":	false,
+			"rnn_type":	0
+		}, {
+			"aec_enable":	false,
+			"agc_enable":	true,
+			"ans_enable":	true,
+			"pidvids":	["24540b0e", "0885046d", "400128e6"]
+		}, {
+			"aec_enable":	false,
+			"agc_enable":	true,
+			"ans_enable":	false,
+			"pidvids":	["09ff2e7e", "015d047f", "0c102e7e", "a03e17ef"]
+		}, {
+			"aec_enable":	true,
+			"agc_enable":	true,
+			"ans_enable":	true,
+			"pidvids":	["000f1656"]
+		}, {
+			"aec_enable":	false,
+			"agc_enable":	true,
+			"ans_enable":	true,
+			"pidvids":	["11052f9d"],
+			"rnn_enable":	false,
+			"rnn_type":	0
+		}]
+}}
+23:49:56.045 - 333707 - I - [BYTEVIEW-BYTERTC]: exit updateRtcParamsStore, cost : 0
+23:49:56.045 - 333707 - I - [BYTEVIEW-BYTERTC]: [device] ByteRtcEngineController::setRuntimeParameters {"engine_whitelist_config":{
+	"config_info":	"linux_feishu_01",
+	"pid_vid_config":	[{
+			"aec_enable":	false,
+			"ans_enable":	false,
+			"pidvids":	["826b1fc9", "3301291a", "a21305a7", "80ce05c6", "00411395", "008e1395", "92b2095d"]
+		}, {
+			"aec_enable":	false,
+			"ans_enable":	true,
+			"dfx_mute_enable":	true,
+			"pidvids":	["800118d1", "05052abf"]
+		}, {
+			"aec_enable":	false,
+			"ans_enable":	true,
+			"dfx_mute_enable":	false,
+			"pidvids":	["0160047f", "b0356993"]
+		}, {
+			"aec_enable":	false,
+			"agc_enable":	true,
+			"ans_enable":	false,
+			"pidvids":	["9217095d", "30120b0e", "9290095d", "08d2046d", "0898046d", "0af2046d", "b0796993"],
+			"rnn_enable":	false,
+			"rnn_type":	0
+		}, {
+			"aec_enable":	false,
+			"agc_enable":	true,
+			"ans_enable":	true,
+			"dfx_mute_enable":	false,
+			"pidvids":	["3305291a", "24b10b0e", "015c047f", "015e047f", "00931395", "1200047f", "0acc046d", "110114ed"]
+		}, {
+			"aec_enable":	false,
+			"agc_enable":	true,
+			"ans_enable":	false,
+			"apm_enable":	false,
+			"pidvids":	["04031ff7"],
+			"rnn_enable":	false,
+			"rnn_type":	0
+		}, {
+			"aec_enable":	false,
+			"agc_enable":	false,
+			"ans_enable":	false,
+			"pidvids":	["a6af0627"],
+			"rnn_enable":	false,
+			"rnn_type":	0
+		}, {
+			"aec_enable":	false,
+			"agc_enable":	true,
+			"ans_enable":	true,
+			"pidvids":	["24540b0e", "0885046d", "400128e6"]
+		}, {
+			"aec_enable":	false,
+			"agc_enable":	true,
+			"ans_enable":	false,
+			"pidvids":	["09ff2e7e", "015d047f", "0c102e7e", "a03e17ef"]
+		}, {
+			"aec_enable":	true,
+			"agc_enable":	true,
+			"ans_enable":	true,
+			"pidvids":	["000f1656"]
+		}, {
+			"aec_enable":	false,
+			"agc_enable":	true,
+			"ans_enable":	true,
+			"pidvids":	["11052f9d"],
+			"rnn_enable":	false,
+			"rnn_type":	0
+		}]
+}}
+23:49:56.046 - 333655 - I - [BYTEVIEW-BYTERTC]: entry EnableLocalVolumeIndicator
+23:49:56.046 - 333707 - I - [BYTEVIEW-BYTERTC]: entry enableLocalVolumeIndicator
+23:49:56.046 - 333707 - I - [BYTEVIEW-BYTERTC]: enablelocalvolumeindicator, interval : 400, level: -20
+23:49:56.046 - 333707 - I - [BYTEVIEW-BYTERTC]: exit enableLocalVolumeIndicator, cost : 0
+23:49:56.047 - 333655 - I - [BYTEVIEW-BYTERTC]: exit EnableLocalVolumeIndicator, cost : 1
+23:49:56.047 - 333655 - I - [BYTEVIEW-BYTERTC]: entry ServerOptionUpdateEffectDownloadConfig
+23:49:56.047 - 333655 - I - [BYTEVIEW-BYTERTC]: ServerOptionUpdateEffectDownloadConfig:05f43500d79911eab76b63d0864735f8,31,vc-native,MI 8,online,0
+23:49:56.047 - 333707 - I - [BYTEVIEW-BYTERTC]: entry SetAvatarResPathAndEnv
+23:49:56.047 - 333707 - I - [BYTEVIEW-BYTERTC]: exit SetAvatarResPathAndEnv, cost : 0
+23:49:56.047 - 333707 - I - [BYTEVIEW-BYTERTC]: entry SetAvatarResPathAndEnv
+23:49:56.047 - 333707 - I - [BYTEVIEW-BYTERTC]: entry SetAvatarResPathAndEnv
+23:49:56.047 - 333707 - I - [BYTEVIEW-BYTERTC]: SetAvatarResPathAndEnv, useGpuModel: false, env:1
+23:49:56.047 - 333707 - I - [BYTEVIEW-BYTERTC]: deviceId:0,appversion:6.9.16
+23:49:56.047 - 333707 - I - [BYTEVIEW-BYTERTC]: exit SetAvatarResPathAndEnv, cost : 0
+23:49:56.047 - 333707 - I - [BYTEVIEW-BYTERTC]: exit SetAvatarResPathAndEnv, cost : 0
+23:49:56.047 - 333655 - I - [BYTEVIEW-BYTERTC]: exit ServerOptionUpdateEffectDownloadConfig, cost : 0
+23:49:56.047 - 333655 - I - [BYTEVIEW-BYTERTC]: entry GetDevicePerformanceInfos
+23:49:56.049 - 333655 - I - [BYTEVIEW-BYTERTC]: exit GetDevicePerformanceInfos, cost : 2
+23:49:56.049 - 333655 - I - [BYTEVIEW-BYTERTC]: entry EnableSimulcastMode
+23:49:56.049 - 333707 - I - [BYTEVIEW-BYTERTC]: entry enableSimulcastMode
+23:49:56.049 - 333707 - I - [BYTEVIEW-BYTERTC]: enableSimulcastMode - enable: true
+23:49:56.050 - 333707 - I - [BYTEVIEW-BYTERTC]: exit enableSimulcastMode, cost : 1
+23:49:56.050 - 333655 - I - [BYTEVIEW-BYTERTC]: exit EnableSimulcastMode, cost : 1
+23:49:56.050 - 333655 - I - [BYTEVIEW-BYTERTC]: export SetVideoEncoderConfig num1:4, num2:4
+23:49:56.050 - 333707 - I - [BYTEVIEW-BYTERTC]: setVideoEncoderConfig num1:4,num2:4
+23:49:56.052 - 333655 - I - [BYTEVIEW-BYTERTC]: entry ServerOptionSetActiveSpeakerConfig
+23:49:56.052 - 333655 - I - [BYTEVIEW-BYTERTC]: ServerOptionSetActiveSpeakerConfig,active_speaker_config
+23:49:56.052 - 333655 - I - [BYTEVIEW-BYTERTC]: exit ServerOptionSetActiveSpeakerConfig, cost : 0
+23:49:56.052 - 333655 - I - [BYTEVIEW-BYTERTC]: entry SetVideoCaptureConfig
+23:49:56.052 - 333655 - I - [BYTEVIEW-BYTERTC]: exit SetVideoCaptureConfig, cost : 0
+23:49:56.052 - 333707 - I - [BYTEVIEW-BYTERTC]: entry enableVolumeIndicator
+23:49:56.052 - 333707 - I - [BYTEVIEW-BYTERTC]: exit enableVolumeIndicator, cost : 0
+23:49:56.052 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::setVideoCaptureConfig frameRate 30, width 1280, height 720
+23:49:56.053 - 333668 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] InvokeAsync command begin, task_id: 36, cmd: 10000
+23:49:56.053 - 333668 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] InvokeAsync command end, task_id: 36, cmd: 10000
+23:49:56.054 - 333655 - I - [BYTEVIEW-BYTERTC]: entry ServerOptionUpdateTTNetConfig
+23:49:56.054 - 333655 - I - [BYTEVIEW-BYTERTC]: ServerOptionUpdateTTNetConfig,config path size=62, lib path size=0
+23:49:56.054 - 333655 - I - [BYTEVIEW-BYTERTC]: exit ServerOptionUpdateTTNetConfig, cost : 0
+23:49:56.055 - 333655 - I - [BYTEVIEW-BYTERTC]: enableMicAAGC, enable: true
+23:49:56.055 - 333707 - I - [BYTEVIEW-BYTERTC]: entry enableMicAAGC
+23:49:56.055 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::enableMicAAGC - enable: true
+23:49:56.055 - 333655 - I - [BYTEVIEW-BYTERTC]: EnableRnNoise, enable: true
+23:49:56.055 - 333655 - I - [BYTEVIEW-BYTERTC]: SetVideoEnhanceEnable, enable: false
+23:49:56.055 - 333707 - I - [BYTEVIEW-BYTERTC]: exit enableMicAAGC, cost : 0
+23:49:56.055 - 333707 - I - [BYTEVIEW-BYTERTC]: entry enableRNNoise
+23:49:56.055 - 333707 - I - [BYTEVIEW-BYTERTC]: enableRNNoise - bOK: true
+23:49:56.055 - 333707 - I - [BYTEVIEW-BYTERTC]: exit enableRNNoise, cost : 0
+23:49:56.055 - 333707 - I - [BYTEVIEW-BYTERTC]: entry setVideoEnhanceEnable
+23:49:56.055 - 333707 - I - [BYTEVIEW-BYTERTC]: setVideoEnhanceEnable - enable: false
+23:49:56.055 - 333707 - I - [BYTEVIEW-BYTERTC]: exit setVideoEnhanceEnable, cost : 0
+23:49:56.057 - 333668 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] InvokeAsync command begin, task_id: 37, cmd: 10000
+23:49:56.057 - 333668 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] InvokeAsync command end, task_id: 37, cmd: 10000
+23:49:56.057 - 333655 - I - [BYTEVIEW-BYTERTC]: enableMicAAGC, enable: true
+23:49:56.057 - 333707 - I - [BYTEVIEW-BYTERTC]: entry enableMicAAGC
+23:49:56.057 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::enableMicAAGC - enable: true
+23:49:56.057 - 333707 - I - [BYTEVIEW-BYTERTC]: exit enableMicAAGC, cost : 0
+23:49:56.057 - 333655 - I - [BYTEVIEW-BYTERTC]: EnableRnNoise, enable: true
+23:49:56.057 - 333707 - I - [BYTEVIEW-BYTERTC]: entry enableRNNoise
+23:49:56.057 - 333707 - I - [BYTEVIEW-BYTERTC]: enableRNNoise - bOK: true
+23:49:56.057 - 333707 - I - [BYTEVIEW-BYTERTC]: exit enableRNNoise, cost : 0
+23:49:56.057 - 333655 - I - [BYTEVIEW-BYTERTC]: SetVideoEnhanceEnable, enable: false
+23:49:56.057 - 333707 - I - [BYTEVIEW-BYTERTC]: entry setVideoEnhanceEnable
+23:49:56.057 - 333707 - I - [BYTEVIEW-BYTERTC]: setVideoEnhanceEnable - enable: false
+23:49:56.057 - 333707 - I - [BYTEVIEW-BYTERTC]: exit setVideoEnhanceEnable, cost : 0
+23:49:56.059 - 333668 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] InvokeAsync command begin, task_id: 38, cmd: 10000
+23:49:56.059 - 333668 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] InvokeAsync command end, task_id: 38, cmd: 10000
+23:49:56.060 - 333668 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] InvokeAsync command begin, task_id: 39, cmd: 10000
+23:49:56.060 - 333668 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] InvokeAsync command end, task_id: 39, cmd: 10000
+23:49:56.061 - 333668 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] InvokeAsync command begin, task_id: 40, cmd: 10000
+23:49:56.061 - 333668 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] InvokeAsync command end, task_id: 40, cmd: 10000
+23:49:56.061 - 333668 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] InvokeAsync command begin, task_id: 41, cmd: 10000
+23:49:56.061 - 333668 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] InvokeAsync command end, task_id: 41, cmd: 10000
+23:49:56.074 - 333613 - I - [BYTEVIEW-BYTERTC]: entry setVideoCaptureRotation
+23:49:56.074 - 333707 - I - [BYTEVIEW-BYTERTC]: entry setVideoCaptureRotation
+23:49:56.074 - 333707 - I - [BYTEVIEW-BYTERTC]: exit setVideoCaptureRotation, cost : 0
+23:49:56.075 - 333613 - I - [BYTEVIEW-BYTERTC]: exit setVideoCaptureRotation, cost : 1
+23:49:56.075 - 333655 - I - [BYTEVIEW-BYTERTC]: entry GetDevices
+23:49:56.075 - 333707 - I - [BYTEVIEW-BYTERTC]: entry getVideoDevices
+23:49:56.075 - 333707 - I - [BYTEVIEW-BYTERTC]: entry VideoDevices
+23:49:56.075 - 333707 - I - [BYTEVIEW-BYTERTC]: [ByteRtcVideoDeviceAdapter] video_devices:1, use_cache:true
+23:49:56.075 - 333707 - I - [BYTEVIEW-BYTERTC]: exit VideoDevices, cost : 0
+23:49:56.075 - 333707 - I - [BYTEVIEW-BYTERTC]: entry fillHidDeviceInfo
+23:49:56.075 - 333707 - I - [BYTEVIEW-BYTERTC]: exit fillHidDeviceInfo, cost : 0
+23:49:56.075 - 333707 - I - [BYTEVIEW-BYTERTC]: exit getVideoDevices, cost : 0
+23:49:56.075 - 333655 - I - [BYTEVIEW-BYTERTC]: export GetDevices deviceType:2, getDevices 0, deviceId:Laptop_Integrated_Webcam_HD: In(usb-0000:00:14.0-4), buildin:false, isBluetooth:false
+23:49:56.075 - 333655 - I - [BYTEVIEW-BYTERTC]: exit GetDevices, cost : 0
+23:49:56.075 - 333655 - I - [BYTEVIEW-BYTERTC]: [Devicelogic]export SetDevice deviceType:2, deviceId:Laptop_Integrated_Webcam_HD: In(usb-0000:00:14.0-4), toSystem:false
+23:49:56.075 - 333707 - I - [BYTEVIEW-BYTERTC]: [devicelogic]set_device_to_native 1 deviceid:Laptop_Integrated_Webcam_HD: In(usb-0000:00:14.0-4), type:2, choose_same:false, enable_same:true,retrytimes:0
+23:49:56.075 - 333707 - I - [BYTEVIEW-BYTERTC]: [devicelogic]set_device_to_native 2
+23:49:56.075 - 333707 - I - [BYTEVIEW-BYTERTC]: followSystemDevice type:2, follow:false
+23:49:56.075 - 333707 - I - [BYTEVIEW-BYTERTC]: [devicelogic]set_device_to_native 4 reallyid:Laptop_Integrated_Webcam_HD: In(usb-0000:00:14.0-4)
+23:49:56.075 - 333707 - I - [BYTEVIEW-BYTERTC]: entry setVideoDevice
+23:49:56.075 - 333707 - I - [BYTEVIEW-BYTERTC]: entry SetVideoDevice
+23:49:56.075 - 333707 - I - [BYTEVIEW-BYTERTC]: setVideoDigitalZoomControl event: 6
+23:49:56.075 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::setVideoDevice deviceId:Laptop_Integrated_Webcam_HD: In(usb-0000:00:14.0-4)
+23:49:56.075 - 333707 - I - [BYTEVIEW-BYTERTC]: SetCurrentVideoDevice Laptop_Integrated_Webcam_HD: In(usb-0000:00:14.0-4), result 0
+23:49:56.075 - 333707 - I - [BYTEVIEW-BYTERTC]: exit SetVideoDevice, cost : 0
+23:49:56.075 - 333707 - I - [BYTEVIEW-BYTERTC]: exit setVideoDevice, cost : 0
+23:49:56.075 - 333707 - I - [BYTEVIEW-BYTERTC]: entry getVideoDevice
+23:49:56.075 - 333707 - I - [BYTEVIEW-BYTERTC]: entry CurrentVideoDevice
+23:49:56.075 - 333707 - I - [BYTEVIEW-BYTERTC]: exit CurrentVideoDevice, cost : 0
+23:49:56.075 - 333707 - I - [BYTEVIEW-BYTERTC]: exit getVideoDevice, cost : 0
+23:49:56.075 - 333707 - I - [BYTEVIEW-BYTERTC]: entry getVideoDevices
+23:49:56.075 - 333707 - I - [BYTEVIEW-BYTERTC]: entry VideoDevices
+23:49:56.075 - 333707 - I - [BYTEVIEW-BYTERTC]: [ByteRtcVideoDeviceAdapter] video_devices:1, use_cache:true
+23:49:56.075 - 333707 - I - [BYTEVIEW-BYTERTC]: exit VideoDevices, cost : 0
+23:49:56.075 - 333707 - I - [BYTEVIEW-BYTERTC]: entry fillHidDeviceInfo
+23:49:56.075 - 333707 - I - [BYTEVIEW-BYTERTC]: exit fillHidDeviceInfo, cost : 0
+23:49:56.075 - 333707 - I - [BYTEVIEW-BYTERTC]: exit getVideoDevices, cost : 0
+23:49:56.075 - 333707 - I - [BYTEVIEW-BYTERTC]: [DeviceLogic]set_device_to_native 5 getcurrent deviceId:Laptop_Integrated_Webcam_HD: In(usb-0000:00:14.0-4), devicetype:2
+23:49:56.076 - 333707 - I - [BYTEVIEW-BYTERTC]: set_memorable_device_id device_type:2,device_id:Laptop_Integrated_Webcam_HD: In(usb-0000:00:14.0-4), source:1,enable_same_as_system:true
+23:49:56.076 - 333707 - I - [BYTEVIEW-BYTERTC]: [set_current_setting_deviceid]set_id:Laptop_Integrated_Webcam_HD: In(usb-0000:00:14.0-4), last_set_id:Laptop_Integrated_Webcam_HD: In(usb-0000:00:14.0-4), type:2
+23:49:56.076 - 333668 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] InvokeAsync command begin, task_id: 42, cmd: 10000
+23:49:56.076 - 333668 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] InvokeAsync command end, task_id: 42, cmd: 10000
+23:49:56.076 - 333668 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] InvokeAsync command begin, task_id: 43, cmd: 10000
+23:49:56.076 - 333668 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] InvokeAsync command end, task_id: 43, cmd: 10000
+23:49:56.102 - 333782 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] received push data, command id:2376, length:166
+23:49:56.102 - 333782 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] received response data, task id:42.
+23:49:56.113 - 333668 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] InvokeAsync command begin, task_id: 44, cmd: 10000
+23:49:56.113 - 333668 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] InvokeAsync command end, task_id: 44, cmd: 10000
+23:49:56.114 - 333655 - I - [BYTEVIEW-BYTERTC]: entry EnableSimulcastMode
+23:49:56.114 - 333655 - I - [BYTEVIEW-BYTERTC]: exit EnableSimulcastMode, cost : 0
+23:49:56.114 - 333655 - I - [BYTEVIEW-BYTERTC]: export SetVideoEncoderConfig num1:4, num2:4
+23:49:56.114 - 333707 - I - [BYTEVIEW-BYTERTC]: entry enableSimulcastMode
+23:49:56.114 - 333707 - I - [BYTEVIEW-BYTERTC]: enableSimulcastMode - enable: true
+23:49:56.114 - 333707 - I - [BYTEVIEW-BYTERTC]: exit enableSimulcastMode, cost : 0
+23:49:56.114 - 333707 - I - [BYTEVIEW-BYTERTC]: setVideoEncoderConfig num1:4,num2:4
+23:49:56.115 - 333782 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] received response data, task id:43.
+23:49:56.115 - 333655 - I - [BYTEVIEW-BYTERTC]: enableMicAAGC, enable: true
+23:49:56.115 - 333707 - I - [BYTEVIEW-BYTERTC]: entry enableMicAAGC
+23:49:56.115 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::enableMicAAGC - enable: true
+23:49:56.116 - 333707 - I - [BYTEVIEW-BYTERTC]: exit enableMicAAGC, cost : 1
+23:49:56.116 - 333655 - I - [BYTEVIEW-BYTERTC]: EnableRnNoise, enable: true
+23:49:56.116 - 333655 - I - [BYTEVIEW-BYTERTC]: SetVideoEnhanceEnable, enable: false
+23:49:56.116 - 333707 - I - [BYTEVIEW-BYTERTC]: entry enableRNNoise
+23:49:56.116 - 333707 - I - [BYTEVIEW-BYTERTC]: enableRNNoise - bOK: true
+23:49:56.116 - 333707 - I - [BYTEVIEW-BYTERTC]: exit enableRNNoise, cost : 0
+23:49:56.116 - 333707 - I - [BYTEVIEW-BYTERTC]: entry setVideoEnhanceEnable
+23:49:56.116 - 333707 - I - [BYTEVIEW-BYTERTC]: setVideoEnhanceEnable - enable: false
+23:49:56.116 - 333707 - I - [BYTEVIEW-BYTERTC]: exit setVideoEnhanceEnable, cost : 0
+23:49:56.116 - 333668 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] InvokeAsync command begin, task_id: 45, cmd: 10000
+23:49:56.116 - 333668 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] InvokeAsync command end, task_id: 45, cmd: 10000
+23:49:56.124 - 333782 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] received response data, task id:45.
+23:49:56.126 - 333782 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] received push data, command id:2376, length:168
+23:49:56.129 - 333655 - I - [BYTEVIEW-BYTERTC]: enableMicAAGC, enable: true
+23:49:56.129 - 333707 - I - [BYTEVIEW-BYTERTC]: entry enableMicAAGC
+23:49:56.129 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::enableMicAAGC - enable: true
+23:49:56.129 - 333707 - I - [BYTEVIEW-BYTERTC]: exit enableMicAAGC, cost : 0
+23:49:56.129 - 333655 - I - [BYTEVIEW-BYTERTC]: EnableRnNoise, enable: true
+23:49:56.129 - 333707 - I - [BYTEVIEW-BYTERTC]: entry enableRNNoise
+23:49:56.129 - 333707 - I - [BYTEVIEW-BYTERTC]: enableRNNoise - bOK: true
+23:49:56.129 - 333707 - I - [BYTEVIEW-BYTERTC]: exit enableRNNoise, cost : 0
+23:49:56.130 - 333655 - I - [BYTEVIEW-BYTERTC]: SetVideoEnhanceEnable, enable: false
+23:49:56.130 - 333707 - I - [BYTEVIEW-BYTERTC]: entry setVideoEnhanceEnable
+23:49:56.130 - 333707 - I - [BYTEVIEW-BYTERTC]: setVideoEnhanceEnable - enable: false
+23:49:56.130 - 333707 - I - [BYTEVIEW-BYTERTC]: exit setVideoEnhanceEnable, cost : 0
+23:49:56.143 - 333782 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] received response data, task id:27.
+23:49:56.158 - 333782 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] received response data, task id:38.
+23:49:56.165 - 333782 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] received response data, task id:41.
+23:49:56.169 - 333782 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] received response data, task id:40.
+23:49:56.169 - 333782 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] received response data, task id:39.
+23:49:56.196 - 333782 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] received response data, task id:44.
+23:49:56.197 - 333668 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] InvokeAsync command begin, task_id: 46, cmd: 10000
+23:49:56.197 - 333668 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] InvokeAsync command end, task_id: 46, cmd: 10000
+23:49:56.198 - 333655 - I - [BYTEVIEW-BYTERTC]: entry EnableSimulcastMode
+23:49:56.198 - 333655 - I - [BYTEVIEW-BYTERTC]: exit EnableSimulcastMode, cost : 0
+23:49:56.198 - 333655 - I - [BYTEVIEW-BYTERTC]: export SetVideoEncoderConfig num1:4, num2:4
+23:49:56.198 - 333707 - I - [BYTEVIEW-BYTERTC]: entry enableSimulcastMode
+23:49:56.198 - 333707 - I - [BYTEVIEW-BYTERTC]: enableSimulcastMode - enable: true
+23:49:56.198 - 333707 - I - [BYTEVIEW-BYTERTC]: exit enableSimulcastMode, cost : 0
+23:49:56.198 - 333707 - I - [BYTEVIEW-BYTERTC]: setVideoEncoderConfig num1:4,num2:4
+23:49:56.201 - 333782 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] received response data, task id:46.
+23:49:56.226 - 333782 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] received response data, task id:36.
+23:49:56.308 - 333655 - I - [BYTEVIEW-BYTERTC]: entry SetVideoCaptureConfig
+23:49:56.308 - 333655 - I - [BYTEVIEW-BYTERTC]: exit SetVideoCaptureConfig, cost : 0
+23:49:56.308 - 333655 - I - [BYTEVIEW-BYTERTC]: entry StartVideoCapture
+23:49:56.308 - 333655 - I - [BYTEVIEW-BYTERTC]: entry ExecuteInitRtc
+23:49:56.308 - 333655 - I - [BYTEVIEW-BYTERTC]: [SDKInitLogic]: has init, no need init again.
+23:49:56.308 - 333655 - I - [BYTEVIEW-BYTERTC]: exit ExecuteInitRtc, cost : 0
+23:49:56.308 - 333655 - I - [BYTEVIEW-BYTERTC]: exit StartVideoCapture, cost : 0
+23:49:56.308 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::setVideoCaptureConfig frameRate 30, width 1280, height 720
+23:49:56.308 - 333655 - I - [BYTEVIEW-BYTERTC]: entry SetVideoCaptureConfig
+23:49:56.308 - 333655 - I - [BYTEVIEW-BYTERTC]: exit SetVideoCaptureConfig, cost : 0
+23:49:56.308 - 333707 - I - [BYTEVIEW-BYTERTC]: entry StartVideoCapture
+23:49:56.308 - 333707 - I - [BYTEVIEW-BYTERTC]: [MeetingLogic]: StartVideoCapture.
+23:49:56.308 - 333707 - I - [BYTEVIEW-BYTERTC]: entry EnableRTCLocalVideo
+23:49:56.308 - 333707 - I - [BYTEVIEW-BYTERTC]: exit EnableRTCLocalVideo, cost : 0
+23:49:56.308 - 333707 - I - [BYTEVIEW-BYTERTC]: [STREAM_OPERATION] StartVideoCapture
+23:49:56.308 - 333707 - I - [BYTEVIEW-BYTERTC]: entry startVideoCapture
+23:49:56.308 - 333707 - I - [BYTEVIEW-BYTERTC]: [STREAM] StreamDataManager AddPreviewStream - sid:__preview_stream__0
+23:49:56.308 - 333707 - I - [BYTEVIEW-BYTERTC]: [STREAM] StreamDataManager UpdateStream success - sid:__preview_stream__0 uid: uid_key: hasVideo:true hasAudio:true isScreen:false isMerge:false resolutions.size:0
+23:49:56.308 - 333707 - I - [BYTEVIEW-BYTERTC]: [STREAM] StreamDataManager AddSelfSid - m_SelfSid_:__preview_stream__0
+23:49:56.308 - 333707 - I - [BYTEVIEW-BYTERTC]: entry SetSelfStreamHasVideo
+23:49:56.308 - 333707 - I - [BYTEVIEW-BYTERTC]: [STREAM] StreamDataManager SetSelfStreamHasVideo - m_SelfUid_: m_SelfSid_:__preview_stream__0 hasVideo:true
+23:49:56.308 - 333707 - I - [BYTEVIEW-BYTERTC]: exit SetSelfStreamHasVideo, cost : 0
+23:49:56.308 - 333707 - I - [BYTEVIEW-BYTERTC]: [ByteRtcEngineController::UpdateLocalSink] uid:, sid:__preview_stream__0
+23:49:56.308 - 333707 - I - [BYTEVIEW-BYTERTC]: SetSinkProperty, uid=, sid=__preview_stream__0,m_emVideoFrameType=0
+23:49:56.308 - 333707 - I - [BYTEVIEW-BYTERTC]: exit startVideoCapture, cost : 0
+23:49:56.308 - 333707 - I - [BYTEVIEW-BYTERTC]: exit StartVideoCapture, cost : 0
+23:49:56.308 - 333707 - I - [BYTEVIEW-BYTERTC]: ByteRtcEngineController::setVideoCaptureConfig frameRate 30, width 1280, height 720
+23:49:56.308 - 333707 - I - [BYTEVIEW-BYTERTC]: [MeetingLogic]: EnableRTCLocalVideo, enable: true
+23:49:56.308 - 333707 - I - [BYTEVIEW-BYTERTC]: entry enableLocalVideo
+23:49:56.308 - 333707 - I - [BYTEVIEW-BYTERTC]: enableLocalVideo - enable: true
+23:49:56.308 - 333707 - I - [BYTEVIEW-BYTERTC]: exit enableLocalVideo, cost : 0
+23:49:56.372 - 333782 - I - [BYTEVIEW-BYTERTC]: [RustSdkWrapper] received response data, task id:37.
+23:49:56.542 - 333747 - I - [BYTEVIEW-BYTERTC]: [device] OnMediaDeviceStateChanged - deviceid Laptop_Integrated_Webcam_HD: In(usb-0000:00:14.0-4), device_type kMediaDeviceTypeVideoCaptureDevice, state kMediaDeviceStateStarted, error: 0. 
+23:49:56.542 - 333747 - I - [BYTEVIEW-BYTERTC]: onMediaDeviceError - deviceType 3, deviceId Laptop_Integrated_Webcam_HD: In(usb-0000:00:14.0-4), errorCode: 0
+23:49:56.637 - 333833 - I - [BYTEVIEW-BYTERTC]: [sink STREAM_FRAME] first framelog:[{uid:,framecount:1, needNativeRender:true, needWriteShareMemory:false, frameTypeFromRtc:kVideoFrameTypeRawMemory, frameFmtFromRtc:kVideoPixelFormatI420, 1280x720},]
+23:49:56.637 - 333747 - I - [BYTEVIEW-BYTERTC]: [STREAM_FRAME_EVENT] onFirstLocalVideoFrameCaptured width:1280 height:720, index:0
+23:49:56.637 - 333747 - I - [BYTEVIEW-BYTERTC]: [STREAM_FRAME_EVENT] onLocalVideoSizeChanged index:0 width:1280 height:720 rotation:0
+23:50:01.665 - 333833 - I - [BYTEVIEW-BYTERTC]: [sink STREAM_FRAME] framelog:[{uid:,framecount:152, needNativeRender:true, needWriteShareMemory:false, frameTypeFromRtc:kVideoFrameTypeRawMemory, frameFmtFromRtc:kVideoPixelFormatI420, 1280x720},]
+23:50:03.869 - 333655 - I - [BYTEVIEW-BYTERTC]: entry EnableLocalVideo
+23:50:03.869 - 333655 - I - [BYTEVIEW-BYTERTC]: exit EnableLocalVideo, cost : 0
+23:50:03.869 - 333707 - I - [BYTEVIEW-BYTERTC]: [MeetingLogic]: EnableLocalVideo, enable: false
+23:50:03.869 - 333707 - I - [BYTEVIEW-BYTERTC]: [MeetingLogic]: EnableLocalVideoHelp, enable: false
+23:50:03.869 - 333707 - I - [BYTEVIEW-BYTERTC]: [MeetingLogic]: MuteLocalVideoStream, is_mute: true
+23:50:03.869 - 333707 - I - [BYTEVIEW-BYTERTC]: [STREAM_OPERATION] MuteLocalVideoStream isMute:true
+23:50:03.869 - 333707 - I - [BYTEVIEW-BYTERTC]: entry muteLocalVideoStream
+23:50:03.869 - 333707 - I - [BYTEVIEW-BYTERTC]: muteLocalVideoStream - isMute: true
+23:50:03.869 - 333707 - I - [BYTEVIEW-BYTERTC]: entry SetSelfStreamHasVideo
+23:50:03.869 - 333707 - I - [BYTEVIEW-BYTERTC]: [STREAM] StreamDataManager SetSelfStreamHasVideo - m_SelfUid_: m_SelfSid_:__preview_stream__0 hasVideo:true
+23:50:03.869 - 333707 - I - [BYTEVIEW-BYTERTC]: exit SetSelfStreamHasVideo, cost : 0
+23:50:03.869 - 333707 - I - [BYTEVIEW-BYTERTC]: exit muteLocalVideoStream, cost : 0
+23:50:03.869 - 333655 - I - [BYTEVIEW-BYTERTC]: entry StopVideoCapture
+23:50:03.869 - 333655 - I - [BYTEVIEW-BYTERTC]: exit StopVideoCapture, cost : 0
+23:50:03.869 - 333707 - I - [BYTEVIEW-BYTERTC]: entry StopVideoCapture
+23:50:03.869 - 333707 - I - [BYTEVIEW-BYTERTC]: [MeetingLogic]: StartVideoCapture.
+23:50:03.869 - 333707 - I - [BYTEVIEW-BYTERTC]: [STREAM_OPERATION] StopVideoCapture
+23:50:03.869 - 333707 - I - [BYTEVIEW-BYTERTC]: entry stopVideoCapture
+23:50:03.869 - 333707 - I - [BYTEVIEW-BYTERTC]: [STREAM] StreamDataManager RemovePreviewStream - sid:__preview_stream__0
+23:50:03.869 - 333707 - I - [BYTEVIEW-BYTERTC]: [STREAM] StreamDataManager RemoveStream success - sid:__preview_stream__0 uid:
+23:50:03.869 - 333707 - I - [BYTEVIEW-BYTERTC]: entry SetSelfStreamHasVideo
+23:50:03.869 - 333707 - I - [BYTEVIEW-BYTERTC]: [STREAM] StreamDataManager SetSelfStreamHasVideo - m_SelfUid_: m_SelfSid_:__preview_stream__0 hasVideo:false
+23:50:03.869 - 333707 - I - [BYTEVIEW-BYTERTC]: exit SetSelfStreamHasVideo, cost : 0
+23:50:03.869 - 333707 - I - [BYTEVIEW-BYTERTC]: exit stopVideoCapture, cost : 0
+23:50:03.869 - 333707 - I - [BYTEVIEW-BYTERTC]: entry EnableRTCLocalVideo
+23:50:03.869 - 333707 - I - [BYTEVIEW-BYTERTC]: exit EnableRTCLocalVideo, cost : 0
+23:50:03.869 - 333707 - I - [BYTEVIEW-BYTERTC]: exit StopVideoCapture, cost : 0
+23:50:03.869 - 333707 - I - [BYTEVIEW-BYTERTC]: [MeetingLogic]: EnableRTCLocalVideo, enable: false
+23:50:03.869 - 333707 - I - [BYTEVIEW-BYTERTC]: entry enableLocalVideo
+23:50:03.869 - 333707 - I - [BYTEVIEW-BYTERTC]: enableLocalVideo - enable: false
+23:50:03.869 - 333707 - I - [BYTEVIEW-BYTERTC]: exit enableLocalVideo, cost : 0
+23:50:03.972 - 333747 - I - [BYTEVIEW-BYTERTC]: [device] OnMediaDeviceStateChanged - deviceid Laptop_Integrated_Webcam_HD: In(usb-0000:00:14.0-4), device_type kMediaDeviceTypeVideoCaptureDevice, state kMediaDeviceStateStopped, error: 0. 

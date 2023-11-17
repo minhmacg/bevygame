@@ -1,0 +1,5 @@
+2023/11/03-19:37:18.457 f6b41 Reusing MANIFEST /home/minhmacg/.config/Caprine/Local Storage/leveldb/MANIFEST-000001
+2023/11/03-19:37:18.458 f6b41 Recovering log #3
+2023/11/03-19:37:18.458 f6b41 Level-0 table #3: started
+2023/11/03-19:37:18.463 f6b41 Level-0 table #3: 15173 bytes OK
+2023/11/03-19:37:18.469 f6b41 Delete type=0 #3

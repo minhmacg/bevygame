@@ -1,0 +1,41 @@
+{
+	"id":	"85150BF9-7C51-7B45-AEBF-D52F36D0AE9B",
+	"type":	"custom",
+	"config":	{
+		"aid":	"666",
+		"device_id":	"7296905328707256325",
+		"user_id":	"",
+		"app_version":	"6.9.16",
+		"channel":	"",
+		"data_report_url":	"https://pc-mon-va.byteoversea.com/monitor_pc/collect/api/pc_log",
+		"crash_report_url":	"https://pc-mon-va.byteoversea.com/monitor_pc/collect/api/pc_crash",
+		"block_report_url":	"https://pc-mon-va.byteoversea.com/monitor_pc/collect/api/pc_jank",
+		"session_id":	""
+	},
+	"procotol":	{
+		"data":	[{
+				"timestamp":	1698944584396,
+				"process_type":	"gpu-process",
+				"log_type":	"launch"
+			}],
+		"header":	{
+			"device_id":	"7296905328707256325",
+			"user_id":	"",
+			"aid":	"666",
+			"app_version":	"6.9.16",
+			"channel":	"",
+			"session_id":	"",
+			"os":	"linux",
+			"os_version":	"6.5.9-arch2-1(Linux)",
+			"context":	{
+				"desktop_env":	"i3",
+				"desktop_session":	"i3",
+				"os_distro_name":	"EndeavourOS",
+				"os_distro_version":	"0.0",
+				"window_system":	"x11",
+				"last_login_user_id":	"7296903676440887327",
+				"last_login_device_id":	"7296905328707256325"
+			}
+		}
+	}
+}

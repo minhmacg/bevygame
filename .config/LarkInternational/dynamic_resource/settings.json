@@ -1,0 +1,21 @@
+{
+    "channels" : 
+    {
+        "ka_7296896347470020639" : 
+        {
+            "ac" : "79fd205608de5a5b5a7472710524c071",
+            "data_dir" : "",
+            "is_oversea" : true,
+            "tenant_id" : "7296896347470020639"
+        },
+        "ka_7296898373142560799" : 
+        {
+            "ac" : "79fd205608de5a5b5a7472710524c071",
+            "data_dir" : "",
+            "is_oversea" : true,
+            "tenant_id" : "7296898373142560799"
+        }
+    },
+    "current_channel" : "ka_7296896347470020639",
+    "dynamic_resource" : false
+}

@@ -1,0 +1,19 @@
+[333665:333665:1102/234954.584159:INFO:iron_frame.cc(330)] [Cost] ############################## OnPreSandboxStartup,Iron start with PID: 333665 type:gpu-process cmd_line:/proc/self/exe --type=gpu-process --no-sandbox --aha-disable-gpu-process-handle-gpu-switch --aha-disable-gpu-process-handle-gpu-switch --gpu-preferences=WAAAAAAAAAAgAAAIAAAAAAAAAAAAAAAAAABgAAAAAAA4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAIAAAAAAAAAABAAAAAgAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAA== --category=iron --shared-files --smc-metadata=2752511,13514141937223471468,17418034306396274536,4194304 --field-trial-handle=0,i,16610981555484316825,7497980201362240075,131072 --disable-disk-cache-opt --no-zygote-sandbox --disable-setuid-sandbox --no-zygote --hide-vc-tab --multi-process-lite --disable-network-service-out-of-process --disable-tracing-service-out-of-process --disable-site-isolation-trials --enable-category-process-mode
+[333665:333665:1102/234954.584324:ERROR:lark_monitor.cc(901)] CrashpadClientInit no server name specified forgpu-process
+[333665:333665:1102/234954.624653:INFO:lark_feature_gating.cc(356)] [fg_ng]: renderer seq: 2,current: 0
+[333665:333665:1102/234954.628681:INFO:lark_feature_gating.cc(295)] [fg] read fg: lark.pc.enable_scrolling_metrics_reporting, value: 0
+[333665:333665:1102/234954.628741:INFO:gpu_histogram_report_provider.cc(33)] feature disabled: kEnableScrollingMetricsReporting
+[333665:333665:1102/234954.628763:INFO:lark_feature_gating.cc(356)] [fg_ng]: renderer seq: 2,current: 2
+[333665:333665:1102/234954.628777:INFO:lark_feature_gating.cc(295)] [fg] read fg: core.pc.report_uma, value: 0
+[333665:333665:1102/234954.628792:INFO:histogram_signal_handler.cc(29)]  report uma feature disable
+[333665:333665:1102/234954.636646:INFO:lark_feature_gating.cc(356)] [fg_ng]: renderer seq: 2,current: 2
+[333665:333665:1102/234954.636680:INFO:lark_feature_gating.cc(295)] [fg] read fg: lark.pc.gpu_block_detect.enable, value: 0
+[333665:333665:1102/234954.636695:INFO:gpu_watchdog_thread.cc(189)] [GpuWatchdogThread] fg >> 0
+[333665:333665:1102/234954.636721:INFO:gpu_watchdog_thread.cc(108)] [GpuWatchdogThread] watchdog timeout: 15 s, terminate process threshold delta: 15 s
+[333665:333665:1102/234955.303764:INFO:gpu_init.cc(529)] GLImplementationParts is (gl=egl-angle,angle=opengl)
+[333665:333665:1102/234955.308154:WARNING:sandbox_linux.cc(385)] InitializeSandbox() called with multiple threads in process gpu-process.
+[333665:333665:1102/234955.309492:INFO:skia_utils.cc(118)] SharpenMipmappedTextures enable 0
+[333665:333665:1102/234955.319910:INFO:lark_feature_gating.cc(356)] [fg_ng]: renderer seq: 2,current: 2
+[333665:333665:1102/234955.319984:INFO:lark_feature_gating.cc(295)] [fg] read fg: lark.pc.gpu_channel_optimization, value: 1
+[333665:333665:1102/234955.320012:INFO:gpu_channel_manager.cc(481)] EstablishChannel gpu_channel_optimization 1
+[333665:333665:1102/234955.322005:INFO:skia_utils.cc(118)] SharpenMipmappedTextures enable 0

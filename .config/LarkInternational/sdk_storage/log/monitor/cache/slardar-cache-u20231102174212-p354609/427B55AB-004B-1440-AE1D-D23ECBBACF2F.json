@@ -1,0 +1,221 @@
+{
+	"id":	"427B55AB-004B-1440-AE1D-D23ECBBACF2F",
+	"type":	"custom",
+	"config":	{
+		"aid":	"666",
+		"device_id":	"7296905328707256325",
+		"user_id":	"",
+		"app_version":	"6.9.16",
+		"channel":	"",
+		"data_report_url":	"https://pc-mon-va.byteoversea.com/monitor_pc/collect/api/pc_log",
+		"crash_report_url":	"https://pc-mon-va.byteoversea.com/monitor_pc/collect/api/pc_crash",
+		"block_report_url":	"https://pc-mon-va.byteoversea.com/monitor_pc/collect/api/pc_jank",
+		"session_id":	""
+	},
+	"procotol":	{
+		"header":	{
+			"device_id":	"7296905328707256325",
+			"user_id":	"",
+			"aid":	"666",
+			"app_version":	"6.9.16",
+			"channel":	"",
+			"session_id":	"",
+			"os":	"linux",
+			"os_version":	"6.5.9-arch2-1(Linux)",
+			"context":	{
+				"desktop_env":	"i3",
+				"desktop_session":	"i3",
+				"os_distro_name":	"EndeavourOS",
+				"os_distro_version":	"0.0",
+				"window_system":	"x11",
+				"tenant_id":	"",
+				"internal_report_channel":	"slardar_sdk",
+				"last_login_user_id":	"7296903676440887327",
+				"last_login_device_id":	"7296905328707256325"
+			}
+		},
+		"data":	[{
+				"log_type":	"flexible",
+				"timestamp":	1698944573598,
+				"process_type":	"backend",
+				"event_name":	"passport_manager_login_data",
+				"category":	{
+					"backend_start_time":	"1698944573598",
+					"password_free_login_failure_msg":	"Active user not found, maybe read auth_info failed, such as switching between packages with different bundle ids."
+				},
+				"extra":	{
+					"gen_process_id":	"354134",
+					"internal_report_channel":	"slardar_sdk"
+				}
+			}, {
+				"log_type":	"flexible",
+				"timestamp":	1698944574024,
+				"process_type":	"frame",
+				"event_name":	"js_worker_startup",
+				"metrics":	{
+					"inited":	203,
+					"main_js":	520,
+					"main_js_loaded":	520,
+					"main_js_readed":	275,
+					"persistent_js_created":	292,
+					"persistent_js_readed":	377,
+					"shell_api_js":	215
+				},
+				"extra":	{
+					"gen_process_id":	"354093",
+					"internal_report_channel":	"slardar_sdk"
+				}
+			}, {
+				"log_type":	"flexible",
+				"timestamp":	1698944574625,
+				"process_type":	"frame",
+				"event_name":	"startup_metrics",
+				"category":	{
+					"business":	"passport"
+				},
+				"metrics":	{
+					"create_main_window":	155,
+					"init_passport_logout":	290,
+					"main_startup":	1357,
+					"sdk_startup":	324
+				},
+				"extra":	{
+					"gen_process_id":	"354093",
+					"internal_report_channel":	"slardar_sdk"
+				}
+			}, {
+				"log_type":	"flexible",
+				"timestamp":	1698944574625,
+				"process_type":	"frame",
+				"event_name":	"page_load_metrics",
+				"category":	{
+					"business":	"passport"
+				},
+				"metrics":	{
+					"DCL":	840,
+					"FCP":	370,
+					"FP":	336,
+					"LCP":	370,
+					"foreground":	0,
+					"is_render_process_ready":	0,
+					"parse_start":	184,
+					"parse_stop":	840,
+					"reload_type":	0,
+					"render_view_ready":	167,
+					"response_start":	13,
+					"type":	0
+				},
+				"extra":	{
+					"gen_process_id":	"354093",
+					"internal_report_channel":	"slardar_sdk"
+				}
+			}, {
+				"log_type":	"flexible",
+				"process_type":	"monitor",
+				"event_name":	"webview_load_metrics",
+				"category":	{
+					"foregoundType":	"0",
+					"isAsar":	"0",
+					"reloadType":	"0",
+					"renderProcessReadyType":	"0",
+					"webviewName":	"passport",
+					"windowType":	"TAB"
+				},
+				"metrics":	{
+					"createWebviewCost":	0,
+					"cssLoadCost":	27,
+					"dcl":	840,
+					"fcp":	369.5,
+					"htmlResourceLoadedCost":	126,
+					"initializeCost":	0,
+					"jsLoadCost":	567,
+					"kernelCreateWebviewCost":	0,
+					"l":	879,
+					"larkletCreateWebviewCost":	-1698944573625,
+					"lcp":	333.9,
+					"navigationStart2Init":	0,
+					"onCreateCost":	0,
+					"onStartCost":	0,
+					"shellApiCreateWebviewCost":	1698944573625
+				},
+				"extra":	{
+					"createTime":	"1698944573625",
+					"createWebviewEndTime":	"1698944573625",
+					"createWebviewStartTime":	"1698944573625",
+					"domContentLoadedEventEnd":	"1698944574472",
+					"initializeEndTime":	"0",
+					"initializeStartTime":	"0",
+					"largestContentfulPaintEventEnd":	"1698944573965",
+					"larkletOnStartStartTime":	"0",
+					"loadEventEnd":	"1698944574511",
+					"navigationStart":	"1698944573632",
+					"renderViewReadyTime":	"1698944573799",
+					"responseEnd":	"1698944573758",
+					"webviewId":	"2",
+					"internal_report_channel":	"slardar_sdk"
+				},
+				"timestamp":	1698944574951
+			}, {
+				"log_type":	"flexible",
+				"process_type":	"monitor",
+				"event_name":	"[passport]:n_switch_change_step_enter_login",
+				"category":	{
+					"action":	"switch",
+					"event_type":	"func",
+					"log_class":	"tech",
+					"log_type":	"info",
+					"params_preStep":	"",
+					"params_step":	"login",
+					"sub_scope":	"change_step"
+				},
+				"metrics":	{
+					"values":	1
+				},
+				"extra":	{
+					"internal_report_channel":	"slardar_sdk"
+				},
+				"timestamp":	1698944575318
+			}, {
+				"log_type":	"flexible",
+				"process_type":	"monitor",
+				"event_name":	"[passport]:n_mount_com_login_login",
+				"category":	{
+					"action":	"mount_com",
+					"event_type":	"page",
+					"log_class":	"tech",
+					"log_type":	"info",
+					"params_step":	"login",
+					"params_stepStart":	"login",
+					"sub_scope":	"login"
+				},
+				"metrics":	{
+					"values":	1
+				},
+				"extra":	{
+					"internal_report_channel":	"slardar_sdk"
+				},
+				"timestamp":	1698944575318
+			}, {
+				"log_type":	"flexible",
+				"process_type":	"monitor",
+				"event_name":	"[passport]:n_switch_change_step_enter_suc_login",
+				"category":	{
+					"action":	"switch",
+					"event_type":	"func",
+					"log_class":	"tech",
+					"log_type":	"info",
+					"params_mode":	"0",
+					"params_preStep":	"",
+					"params_step":	"login",
+					"sub_scope":	"change_step"
+				},
+				"metrics":	{
+					"values":	1
+				},
+				"extra":	{
+					"internal_report_channel":	"slardar_sdk"
+				},
+				"timestamp":	1698944575318
+			}]
+	}
+}

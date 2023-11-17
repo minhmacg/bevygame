@@ -1,0 +1,85 @@
+{
+	"id":	"61D1768B-F8D7-464F-9354-B71E77D20B2F",
+	"type":	"custom",
+	"config":	{
+		"aid":	"666",
+		"device_id":	"7296905328707256325",
+		"user_id":	"7296910485247492128",
+		"app_version":	"6.9.16",
+		"channel":	"",
+		"data_report_url":	"https://slardar-bd-sg.larksuite.com/monitor_pc/collect/api/pc_log",
+		"crash_report_url":	"https://slardar-bd-sg.larksuite.com/monitor_pc/collect/api/pc_crash",
+		"block_report_url":	"https://slardar-bd-sg.larksuite.com/monitor_pc/collect/api/pc_jank",
+		"session_id":	""
+	},
+	"procotol":	{
+		"header":	{
+			"device_id":	"7296905328707256325",
+			"user_id":	"7296910485247492128",
+			"aid":	"666",
+			"app_version":	"6.9.16",
+			"channel":	"",
+			"session_id":	"",
+			"os":	"linux",
+			"os_version":	"6.5.9-arch2-1(Linux)",
+			"context":	{
+				"desktop_env":	"i3",
+				"desktop_session":	"i3",
+				"os_distro_name":	"EndeavourOS",
+				"os_distro_version":	"0.0",
+				"window_system":	"x11",
+				"tenant_id":	"7296896347470020639",
+				"internal_report_channel":	"slardar_sdk",
+				"last_login_user_id":	"7296910485247492128",
+				"last_login_device_id":	"7296905328707256325"
+			}
+		},
+		"data":	[{
+				"log_type":	"flexible",
+				"process_type":	"monitor",
+				"event_name":	"op_workplace_event",
+				"category":	{
+					"monitor_domain":	"client.open_platform.app_center.event",
+					"monitor_id":	"1-client.open_platform.app_center.event-10219",
+					"monitor_message":	"workplace_get_sub_tag_request_success",
+					"monitor_tags":	"",
+					"tenant_id":	"faf1b3398eb1c04a7c3906718f764caf0e82460c",
+					"trace_id":	"1-8a0eykb8-dawfwrds",
+					"user_id":	"b080d2e6b85f2aa6097dc891ef3138976cf559e3"
+				},
+				"metrics":	{
+					"duration":	190,
+					"monitor_code":	10219,
+					"monitor_level":	2,
+					"time":	1698944912857
+				},
+				"extra":	{
+					"internal_report_channel":	"slardar_sdk"
+				},
+				"timestamp":	1698944912860
+			}, {
+				"log_type":	"flexible",
+				"process_type":	"monitor",
+				"event_name":	"op_workplace_event",
+				"category":	{
+					"monitor_domain":	"client.open_platform.app_center.event",
+					"monitor_id":	"1-client.open_platform.app_center.event-10219",
+					"monitor_message":	"workplace_get_sub_tag_request_success",
+					"monitor_tags":	"",
+					"tenant_id":	"faf1b3398eb1c04a7c3906718f764caf0e82460c",
+					"trace_id":	"1-8a0eykb8-dawfwrds",
+					"user_id":	"b080d2e6b85f2aa6097dc891ef3138976cf559e3"
+				},
+				"metrics":	{
+					"duration":	316,
+					"monitor_code":	10219,
+					"monitor_level":	2,
+					"time":	1698944917821
+				},
+				"extra":	{
+					"internal_report_channel":	"slardar_sdk"
+				},
+				"timestamp":	1698944917822
+			}]
+	}
+}

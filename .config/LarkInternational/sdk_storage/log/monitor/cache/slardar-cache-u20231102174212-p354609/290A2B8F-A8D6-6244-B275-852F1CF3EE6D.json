@@ -1,0 +1,65 @@
+{
+	"id":	"2B3AC621-4DA3-4545-8227-25884F094A35",
+	"type":	"custom",
+	"config":	{
+		"aid":	"666",
+		"device_id":	"7296905328707256325",
+		"user_id":	"",
+		"app_version":	"6.9.16",
+		"channel":	"",
+		"data_report_url":	"https://pc-mon-va.byteoversea.com/monitor_pc/collect/api/pc_log",
+		"crash_report_url":	"https://pc-mon-va.byteoversea.com/monitor_pc/collect/api/pc_crash",
+		"block_report_url":	"https://pc-mon-va.byteoversea.com/monitor_pc/collect/api/pc_jank",
+		"session_id":	""
+	},
+	"procotol":	{
+		"header":	{
+			"device_id":	"7296905328707256325",
+			"user_id":	"",
+			"aid":	"666",
+			"app_version":	"6.9.16",
+			"channel":	"",
+			"session_id":	"",
+			"os":	"linux",
+			"os_version":	"6.5.9-arch2-1(Linux)",
+			"context":	{
+				"desktop_env":	"i3",
+				"desktop_session":	"i3",
+				"os_distro_name":	"EndeavourOS",
+				"os_distro_version":	"0.0",
+				"window_system":	"x11",
+				"last_login_user_id":	"7296903676440887327",
+				"last_login_device_id":	"7296905328707256325"
+			}
+		},
+		"data":	[{
+				"timestamp":	1698944573528,
+				"process_type":	"gpu-process",
+				"log_type":	"launch"
+			}, {
+				"timestamp":	1698944573610,
+				"process_type":	"frame",
+				"log_type":	"launch"
+			}, {
+				"timestamp":	1698944573608,
+				"process_type":	"backend",
+				"log_type":	"launch"
+			}, {
+				"timestamp":	1698944573727,
+				"process_type":	"renderer",
+				"log_type":	"launch"
+			}, {
+				"timestamp":	1698944573731,
+				"process_type":	"renderer",
+				"log_type":	"launch"
+			}, {
+				"timestamp":	1698944584566,
+				"process_type":	"renderer",
+				"log_type":	"launch"
+			}, {
+				"timestamp":	1698944584568,
+				"process_type":	"renderer",
+				"log_type":	"launch"
+			}]
+	}
+}

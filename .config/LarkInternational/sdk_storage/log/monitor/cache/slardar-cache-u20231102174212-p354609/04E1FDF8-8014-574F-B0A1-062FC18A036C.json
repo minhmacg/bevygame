@@ -1,0 +1,52 @@
+{
+	"id":	"04E1FDF8-8014-574F-B0A1-062FC18A036C",
+	"type":	"custom",
+	"config":	{
+		"aid":	"666",
+		"device_id":	"7296905328707256325",
+		"user_id":	"",
+		"app_version":	"6.9.16",
+		"channel":	"",
+		"data_report_url":	"https://pc-mon-va.byteoversea.com/monitor_pc/collect/api/pc_log",
+		"crash_report_url":	"https://pc-mon-va.byteoversea.com/monitor_pc/collect/api/pc_crash",
+		"block_report_url":	"https://pc-mon-va.byteoversea.com/monitor_pc/collect/api/pc_jank",
+		"session_id":	""
+	},
+	"procotol":	{
+		"data":	[{
+				"log_type":	"flexible",
+				"timestamp":	1698944584449,
+				"process_type":	"backend",
+				"event_name":	"passport_manager_login_data",
+				"category":	{
+					"backend_start_time":	"1698944584449",
+					"password_free_login_failure_msg":	"Active user not found, maybe read auth_info failed, such as switching between packages with different bundle ids."
+				},
+				"extra":	{
+					"gen_process_id":	"354607",
+					"internal_report_channel":	"slardar_sdk"
+				}
+			}],
+		"header":	{
+			"device_id":	"7296905328707256325",
+			"user_id":	"",
+			"aid":	"666",
+			"app_version":	"6.9.16",
+			"channel":	"",
+			"session_id":	"",
+			"os":	"linux",
+			"os_version":	"6.5.9-arch2-1(Linux)",
+			"context":	{
+				"desktop_env":	"i3",
+				"desktop_session":	"i3",
+				"os_distro_name":	"EndeavourOS",
+				"os_distro_version":	"0.0",
+				"window_system":	"x11",
+				"tenant_id":	"",
+				"internal_report_channel":	"slardar_sdk",
+				"last_login_user_id":	"7296903676440887327",
+				"last_login_device_id":	"7296905328707256325"
+			}
+		}
+	}
+}

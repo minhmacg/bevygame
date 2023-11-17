@@ -1,0 +1,5 @@
+2023/11/03-00:03:04.369 5691c Reusing MANIFEST /home/minhmacg/.config/LarkInternational/Local Storage/leveldb/MANIFEST-000001
+2023/11/03-00:03:04.369 5691c Recovering log #8
+2023/11/03-00:03:04.369 5691c Level-0 table #11: started
+2023/11/03-00:03:04.375 5691c Level-0 table #11: 19228 bytes OK
+2023/11/03-00:03:04.381 5691c Delete type=0 #8
