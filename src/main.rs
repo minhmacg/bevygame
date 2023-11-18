@@ -1,9 +1,9 @@
 pub mod data_input;
 pub mod data_output;
-use data_input::{Messages, MessItems};
 use std::error::Error;
-use std::io::{prelude,BufReader,Result, Read};
-use std::fs::{File,read_to_string};
+use data_input::{Messages, MessItems};
+use std::io::{prelude,BufReader, Read};
+use std::fs::{File,read_to_string, self};
 use std::path::Path;
 use csv::Writer;
 use serde_json::{Value, Number};
@@ -25,40 +25,31 @@ fn remove_duplicate(messvec: &mut Messages,
     }
     messvec.messages = rs
 }
-fn read_line_to_vec() -> Vec<String>{
-    read_to_string("src/kkn.txt")
-        .unwrap().lines().map(String::from).collect() 
+fn read_line_to_vec(path: &Path) -> Vec<String>{
+    read_to_string(path)
+        .unwrap().replace(","," ").lines().map(String::from).collect() 
 }
-fn writecsv(input: &Messages, path: &Path) -> Result<()> {
-    let mut wrt = Writer::from_path(path)?;
-    for i in input.messages.iter() {
-        let a = wrt.serialize(i);
-        match a {
-            Ok(ok) => ok,
-            Err(err) => {
-                panic!("{:#?}, {:#?}",i,err)
-            }
-        }
-    } 
-    Ok(())
 
-} 
-fn main() -> Result<()>{
-    let file = File::open("output_beatnow.json")?;
-    let mut test: Messages = serde_json::from_reader(file)?;
-    println!("{:#?}", test.messages.len());
-    test.remove_none_reaction();
-    println!("{:?}", test.messages[82].checkkdv());
-    println!("{:#}", test.messages[2].time());
-    println!("{:#?}", test.messages.len());
-    let vec_dup = test.find_duplicate();
-    remove_duplicate(&mut test,&vec_dup);
-    println!("{}", vec_dup.len());
-    println!("{:#?}", test.messages.len());
-    test.converttime();
-    test.remove_newline_total();
-    println!("{:#?}", test);
-    println!("{:#?}", test.messages.len());
-    writecsv(&test, "test.csv".as_ref()); 
+fn read_json_to_struct(path: &str) -> Result<Messages, Box<dyn Error>> {
+    let file = File::open(path)?;
+    let rs: Messages = serde_json::from_reader(file)?;
+    Ok(rs)
+}
+
+fn main() -> Result<(), Box<dyn Error>>{
+    
+    for dir in fs::read_dir("./jsonbeat/output").unwrap() {
+        println!("{:#?}", dir.unwrap().path())
+    }
+    let linkjson = "./jsonbeat/p2.json";
+    let json = read_json_to_struct(&linkjson).unwrap();
+    let linktxt = Path::new("./links/p2.txt");
+    let txt = read_line_to_vec(&linktxt);
+    println!("{:#?}", read_line_to_vec(&linktxt));
+    println!("{:#?}", json);
+    for i in 0..=100 {
+        println!("{:#?}",json.messages[i].get_link_images(&txt))
+
+    };
     Ok(())
 }

@@ -14,7 +14,7 @@ def convertjson(files):
         with open(f"jsonbeat/{fs}", 'r', encoding="raw-unicode-escape") as fp:
             data = json.load(fp, strict=False)
         convert_hex_to_normal_letters(data)
-        with open(f"jsonbeat/output_{fs}", 'w', encoding="raw-unicode-escape") as fp:
+        with open(f"jsonbeat/output/output_{fs}", 'w', encoding="raw-unicode-escape") as fp:
             json.dump(data, fp, ensure_ascii=False, indent=4)
 
 def decode_hex(s):

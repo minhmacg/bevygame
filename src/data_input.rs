@@ -1,8 +1,8 @@
 use serde::{Serialize,Deserialize};
 use serde_json::{Value, Number};
 use chrono::{TimeZone, Local};
-
-
+use regex::Regex;
+use std::error::Error;
 #[derive(Serialize,Deserialize,Debug)]
 #[derive(PartialEq, Clone, Copy)]
 pub enum Kdv {
@@ -16,7 +16,7 @@ pub enum Kdv {
 pub struct Messages{pub messages: Vec<MessItems>}
 
 impl Messages {
-    pub fn remove_newline_total(&mut self) {
+    pub fn remove_contentnewline_total(&mut self) {
         for i in self.messages.iter_mut() {
             i.content = Some(i.remove_newline())
         }
@@ -87,6 +87,43 @@ pub struct MessItems {
     share: Option<Link>,
 }
 impl MessItems {
+    pub fn get_link_images(&self, link: &Vec<String>) -> Result<Vec<String>,
+                                                    Box<dyn Error>> {
+        let mut test = Vec::new();
+        let re = Regex::new(r"\/(\w+)_n_(\w+).(png|jpg)$")?;
+        if let Some(vecphoto) = &self.photos {
+            for photos in vecphoto.iter() {
+                if let Some(captured) = re.captures(&photos.uri) {
+                    println!("{:#?}", &captured[1]);
+                    for links in link.iter(){
+                        if links.contains(&captured[1]) {
+                            test.push(links.clone())
+                        }
+                    }
+                }
+            }
+        }
+        Ok(test)
+    }
+
+    pub fn get_link_videos(&self, link: Vec<String>) -> Result<Vec<String>,
+                                                    Box<dyn Error>> {
+        let mut test = Vec::new();
+        let re = Regex::new(r"/(\w+)_n_(\w+)\.png$")?;
+        if let Some(rs) = &self.videos {
+            for i in rs.iter() {
+                if let Some(captured) = re.captures(&i.uri) {
+                    for a in link.iter(){
+                        if a.contains(&captured[1]) {
+                            test.push(a.clone())
+                        }
+                    }
+                }
+            }
+        }
+        Ok(test)
+    }
+
     pub fn remove_newline(&self) -> String {
        if self.content.is_some() {
            self.content.as_ref().unwrap().replace("\n"," ")
@@ -124,6 +161,31 @@ impl MessItems {
         };
         Kdv::Empty
     }
+    pub fn getphotos(&self) -> String{
+        let mut vec_str = Vec::new();
+        if let Some(vec_t) = &self.photos {
+           for i in vec_t.iter(){
+               vec_str.push(i.uri.clone());
+           }
+        vec_str.join(" \n ")
+        } else {" ".to_string()}
+    }
+
+    pub fn getvideos(&self) -> String{
+        let mut vec_str = Vec::new();
+        if let Some(vec_t) = &self.videos{
+           for i in vec_t.iter(){
+               vec_str.push(i.uri.clone());
+           }
+        vec_str.join(" \n ")
+        } else {" ".to_string()}
+    }
+
+    pub fn convert_to_vec(&self) -> Vec<String>{
+        vec![
+            self.time(),
+        ]
+    }
 }
 #[derive(Serialize,Deserialize,Debug)]
 enum Oke {
@@ -151,7 +213,6 @@ struct Photos{
 struct Link{
     link: String,
 }
-
 #[derive(Serialize,Deserialize,Debug)]
 #[derive(Clone)]
 struct Reactions{
