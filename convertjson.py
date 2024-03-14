@@ -7,14 +7,14 @@ def get_json_files(directory):
     return [pos_json for pos_json in os.listdir(directory) 
             if pos_json.endswith('.json')]
 
-json_files = get_json_files('jsonbeat')
+json_files = get_json_files('json')
 print(json_files)
 def convertjson(files):
     for fs in files:
-        with open(f"jsonbeat/{fs}", 'r', encoding="raw-unicode-escape") as fp:
+        with open(f"json/{fs}", 'r', encoding="raw-unicode-escape") as fp:
             data = json.load(fp, strict=False)
         convert_hex_to_normal_letters(data)
-        with open(f"jsonbeat/output/output_{fs}", 'w', encoding="raw-unicode-escape") as fp:
+        with open(f"json/output/output_{fs}", 'w', encoding="raw-unicode-escape") as fp:
             json.dump(data, fp, ensure_ascii=False, indent=4)
 
 def decode_hex(s):
