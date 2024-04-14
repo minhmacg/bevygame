@@ -12,7 +12,8 @@ use std::fs::{self, read_to_string, File};
 use std::io;
 use std::path::Path;
 
-fn remove_duplicate(messvec: &mut Messages, vec_dup: Vec<(usize, usize, Number, String)>) {
+fn remove_duplicate(messvec: &mut Messages
+                    ,vec_dup: Vec<(usize, usize, Number, String)>) {
     let mut index: Vec<usize> = Vec::new();
     for i in vec_dup.iter() {
         index.push(i.1)
@@ -43,7 +44,8 @@ fn remove_dup_txt(vec: &mut Vec<String>) {
         let captured = re.captures(&vec[i]);
         if let Some(capture_rs) = captured {
             print!("\r{:#?}", &capture_rs[1]);
-            let pos_option = vec[i + 1..].iter().any(|x| x.contains(&capture_rs[1]));
+            let pos_option = vec[i + 1..].iter()
+                .any(|x| x.contains(&capture_rs[1]));
             if pos_option {
                 rs_list.push(true)
             } else {
@@ -117,7 +119,7 @@ fn main() -> Result<(), Box<dyn Error>> {
 
         if captured[1].eq("tiktok") {
             json.tiktokpage();
-            let (done, notyet) = json.retain_only_likes();
+            let (done,_notyet) = json.retain_only_likes();
             let mut wrt = Writer::from_path(&outputfmt_done)?;
             let mut pre_kdv: String = "Đạt".to_string();
             for (i, v) in done.messages.iter().enumerate() {
@@ -129,17 +131,20 @@ fn main() -> Result<(), Box<dyn Error>> {
                     page: v.tiktok_page(),
                     sender_name: v.sender_name.clone(),
                     content: v.remove_newline(),
-                    photos: vec_link_to_string(v.get_link_images(&txt).unwrap()),
-                    videos: vec_link_to_string(v.get_link_videos(&txt).unwrap()),
+                    photos: vec_link_to_string(
+                        v.get_link_images(&txt).unwrap()),
+                    videos: vec_link_to_string(
+                        v.get_link_videos(&txt).unwrap()),
                     link: v.get_link_share(),
-                    thumbnail: MessItems::get_thumbnail_vid(v.get_link_share()),
+                    thumbnail: MessItems::get_thumbnail_vid(
+                        v.get_link_share()),
                     kdv: v.checkkdv(&mut pre_kdv),
                 };
                 let _ = wrt.serialize(output);
             }
         } else {
-            let (done, notyet) = json.retain_only_likes();
 
+            let (done,_notyet) = json.retain_only_likes();
             println!("");
             let mut pre_kdv: String = "Đạt".to_string();
             //write csv
@@ -154,10 +159,13 @@ fn main() -> Result<(), Box<dyn Error>> {
                     page: v.page_from_name(),
                     sender_name: v.sender_name.clone(),
                     content: v.remove_newline(),
-                    photos: vec_link_to_string(v.get_link_images(&txt).unwrap()),
-                    videos: vec_link_to_string(v.get_link_videos(&txt).unwrap()),
+                    photos: vec_link_to_string(
+                        v.get_link_images(&txt).unwrap()),
+                    videos: vec_link_to_string(
+                        v.get_link_videos(&txt).unwrap()),
                     link: v.get_link_share(),
-                    thumbnail: MessItems::get_thumbnail_vid(v.get_link_share()),
+                    thumbnail: MessItems::get_thumbnail_vid(
+                        v.get_link_share()),
                     kdv: v.checkkdv(&mut pre_kdv),
                 };
                 let _ = wrt.serialize(output);

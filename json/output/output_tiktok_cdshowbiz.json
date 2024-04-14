@@ -1,0 +1,42 @@
+{
+    "participants": [
+        {
+            "name": "Đức Bách"
+        },
+        {
+            "name": "Tuấn Dũng"
+        },
+        {
+            "name": "Tuấn Dũng"
+        },
+        {
+            "name": "Minh"
+        },
+        {
+            "name": "Thu Thảo Lê"
+        },
+        {
+            "name": "Thành Đạt"
+        }
+    ],
+    "messages": [
+        {
+            "sender_name": "Gia Huy Lưu",
+            "timestamp_ms": 1712369621413,
+            "content": "Gia Huy Lưu đã rời khỏi nhóm.",
+            "is_geoblocked_for_viewer": false
+        }
+    ],
+    "title": "Kiểm duyệt TikTok Chuyển động showbiz",
+    "is_still_participant": true,
+    "thread_path": "inbox/kiemduyettiktokchuyendongshowbiz_6953441071358308",
+    "magic_words": [],
+    "image": {
+        "uri": "your_activity_across_facebook/messages/photos/421554768_736988951715707_880967893969084301_n_925848945593093.jpg",
+        "creation_timestamp": 1707279407
+    },
+    "joinable_mode": {
+        "mode": 1,
+        "link": ""
+    }
+}

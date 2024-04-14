@@ -1,0 +1,10 @@
+account: minhbeat124@gmail.com
+
+https://accounts.google.com/o/oauth2/auth?client_id=1097940749901-1uu5fh0q2s4l0o1qi899n90u9u3qo9l3.apps.googleusercontent.com&redirect_uri=http://localhost&response_type=code&scope=https://www.googleapis.com/auth/drive&access_type=offline
+
+code = 4/0AfJohXlwyjDbBjD91NusQYdF3796WBiAKGYv_jPAUihAlKlBagrxG2VxUJQKdIuukYyYcA
+
+curl --request POST --data "code=4/0AfJohXlwyjDbBjD91NusQYdF3796WBiAKGYv_jPAUihAlKlBagrxG2VxUJQKdIuukYyYcA&client_id=1097940749901-1uu5fh0q2s4l0o1qi899n90u9u3qo9l3.apps.googleusercontent.com&client_secret=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&redirect_uri=http://localhost&grant_type=authorization_code" https://oauth2.googleapis.com/token
+
+refresh_token = 1//0el_-B54cbbMcCgYIARAAGA4SNwF-L9IrHfWDPejFu1fgffKzT2x4n3O3Lye8xWLqfnZNxmo_hjWFCEkHpA4S4mPRQg1uLqVDfjo
+access_token = ya29.a0AfB_byDwllnBjm7LoKVxY3WXpnqwEjpJAiQ4-P_WzVoeuFehE2SfKkLML8m31gWGyBWQL7_ZuEO4qT0qrrkT7lMwKV5VA1oArFrbGEUi6I4xiUwi5kKSJNCO_Pjb2Ap2oAscumq3B6J0qTQlA-ZzdPgTbpRzdTo8eXMzaCgYKAZoSARESFQHGX2MiQyPphPqg3QtCUEEsaKv1XQ0171

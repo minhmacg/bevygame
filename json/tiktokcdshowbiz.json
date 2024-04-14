@@ -1,0 +1,44 @@
+{
+  "participants": [
+    {
+      "name": "\u00c4\u0090\u00e1\u00bb\u00a9c B\u00c3\u00a1ch"
+    },
+    {
+      "name": "Tu\u00e1\u00ba\u00a5n D\u00c5\u00a9ng"
+    },
+    {
+      "name": "Tu\u00e1\u00ba\u00a5n D\u00c5\u00a9ng"
+    },
+    {
+      "name": "Minh"
+    },
+    {
+      "name": "Thu Th\u00e1\u00ba\u00a3o L\u00c3\u00aa"
+    },
+    {
+      "name": "Th\u00c3\u00a0nh \u00c4\u0090\u00e1\u00ba\u00a1t"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Gia Huy L\u00c6\u00b0u",
+      "timestamp_ms": 1712369621413,
+      "content": "Gia Huy L\u00c6\u00b0u \u00c4\u0091\u00c3\u00a3 r\u00e1\u00bb\u009di kh\u00e1\u00bb\u008fi nh\u00c3\u00b3m.",
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "Ki\u00e1\u00bb\u0083m duy\u00e1\u00bb\u0087t TikTok Chuy\u00e1\u00bb\u0083n \u00c4\u0091\u00e1\u00bb\u0099ng showbiz",
+  "is_still_participant": true,
+  "thread_path": "inbox/kiemduyettiktokchuyendongshowbiz_6953441071358308",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_activity_across_facebook/messages/photos/421554768_736988951715707_880967893969084301_n_925848945593093.jpg",
+    "creation_timestamp": 1707279407
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

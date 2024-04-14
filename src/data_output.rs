@@ -1,6 +1,6 @@
-use crate::data_input::{Kdv,Messages,MessItems};
-use serde::{Serialize,Deserialize};
-use serde_json::{Value, Number};
+use crate::data_input::{Kdv, MessItems, Messages};
+use serde::{Deserialize, Serialize};
+use serde_json::{Number, Value};
 
 #[derive(Serialize, Deserialize, Debug)]
 pub struct MessagesOutput {
@@ -12,5 +12,3 @@ pub struct MessagesOutput {
     share: String,
     kdv: Kdv,
 }
-
-

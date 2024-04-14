@@ -95,9 +95,9 @@ impl Messages {
             let messitem_2: &MessItems = &messvec[i + 1];
             let duration: u32 = (messitem_1.timestamp_ms.as_i64().unwrap()
                 - messitem_2.timestamp_ms.as_i64().unwrap())
-            .abs()
-            .try_into()
-            .unwrap();
+                                                .abs()
+                                                .try_into()
+                                                .unwrap();
             if (duration <= 300000)
                 & (messitem_1.sender_name == messitem_2.sender_name)
                 & (messitem_1.content.is_some() ^ messitem_2.content.is_some())

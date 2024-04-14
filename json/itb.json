@@ -1,0 +1,1009 @@
+{
+  "participants": [
+    {
+      "name": "\u00c4\u0090\u00e1\u00bb\u00a9c B\u00c3\u00a1ch"
+    },
+    {
+      "name": "Nguy\u00e1\u00bb\u0085n \u00c4\u0090\u00e1\u00bb\u00a9c Tr\u00e1\u00bb\u008dng"
+    },
+    {
+      "name": "Tu\u00e1\u00ba\u00a5n D\u00c5\u00a9ng"
+    },
+    {
+      "name": "Ho\u00c3\u00a0ng T\u00c3\u00b9ng"
+    },
+    {
+      "name": "Tran Anh"
+    },
+    {
+      "name": "Tu\u00e1\u00ba\u00a5n D\u00c5\u00a9ng"
+    },
+    {
+      "name": "Minh"
+    },
+    {
+      "name": "Linh Diep"
+    },
+    {
+      "name": "Giang Uy\u00c3\u00aan"
+    },
+    {
+      "name": "Thao Thu Giap"
+    },
+    {
+      "name": "Th\u00c3\u00a0nh \u00c4\u0090\u00e1\u00ba\u00a1t"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Giang Uy\u00c3\u00aan",
+      "timestamp_ms": 1712407119908,
+      "content": "Check gi\u00c3\u00bap em v\u00e1\u00bb\u009bi \u00e1\u00ba\u00a1",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Giang Uy\u00c3\u00aan",
+      "timestamp_ms": 1712407114814,
+      "content": "Anh em \u00c6\u00a1i sau khi \u00e2\u0080\u009cb\u00e1\u00bb\u0091 t\u00c3\u00b4i x\u00c4\u0083m h\u00c3\u00acnh con Qu\u00e1\u00bb\u00b3nh Aka l\u00c3\u00aan b\u00e1\u00bb\u00a5ng v\u00c3\u00ac m\u00e1\u00ba\u00b9 th\u00c3\u00adch\u00e2\u0080\u009d th\u00c3\u00ac b\u00e1\u00bb\u0091 \u00c4\u0091\u00c3\u00a3 quy\u00e1\u00ba\u00bft \u00c4\u0091\u00e1\u00bb\u008bnh x\u00c4\u0083m th\u00c3\u00aam h\u00c3\u00acnh n\u00e1\u00bb\u00afa l\u00c3\u00aan ch\u00c3\u00a2n v\u00e1\u00bb\u009bi quan \u00c4\u0091i\u00e1\u00bb\u0083m: Tr\u00c3\u00b4ng gi\u00e1\u00bb\u0091ng h\u00e1\u00bb\u0087t m\u00e1\u00ba\u00b9 con. B\u00e1\u00bb\u0091 \u00c4\u0091\u00e1\u00ba\u00b7t t\u00c3\u00aan l\u00c3\u00a0 H** Aka (t\u00c3\u00aan m\u00e1\u00ba\u00b9 t\u00c3\u00b4i). \n\n\u00c4\u0090\u00e1\u00ba\u00a5y, th\u00e1\u00ba\u00bf l\u00c3\u00a0 nh\u00e1\u00bb\u00afng h\u00c3\u00acnh x\u00c4\u0083m c\u00e1\u00bb\u00a7a b\u00e1\u00bb\u0091 t\u00c3\u00b4i c\u00c3\u00b3 \u00c4\u0091\u00e1\u00ba\u00b7c \u00c4\u0091i\u00e1\u00bb\u0083m chung l\u00c3\u00a0: m\u00e1\u00ba\u00b9 t\u00c3\u00b4i v\u00c3\u00a0 nh\u00e1\u00bb\u00afng d\u00e1\u00ba\u00a5u \u00e1\u00ba\u00a5n.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Th\u00c3\u00a0nh \u00c4\u0090\u00e1\u00ba\u00a1t"
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Giang Uy\u00c3\u00aan",
+      "timestamp_ms": 1712407112790,
+      "photos": [
+        {
+          "uri": "your_activity_across_facebook/messages/inbox/kiemduyetinsidethebox_6891072950981936/photos/434923606_1072688127352509_3202228154448705980_n_1072688124019176.jpg",
+          "creation_timestamp": 1712407111
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Th\u00c3\u00a0nh \u00c4\u0090\u00e1\u00ba\u00a1t"
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nguy\u00e1\u00bb\u0085n \u00c4\u0090\u00e1\u00bb\u00a9c Tr\u00e1\u00bb\u008dng",
+      "timestamp_ms": 1712251904755,
+      "content": "\u00c3\u00a0 quy\u00c3\u00aan ph\u00e1\u00ba\u00a3i \u00c4\u0091\u00c4\u0083ng trong group tr\u00c6\u00b0\u00e1\u00bb\u009bc",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Tran Anh"
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nguy\u00e1\u00bb\u0085n \u00c4\u0090\u00e1\u00bb\u00a9c Tr\u00e1\u00bb\u008dng",
+      "timestamp_ms": 1712251899249,
+      "content": "yub z anh \u00c4\u0091\u00c3\u00b3ng",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Tran Anh",
+      "timestamp_ms": 1712251838914,
+      "content": "\u00c4\u0090\u00c3\u00b3ng i anhhh",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Nguy\u00e1\u00bb\u0085n \u00c4\u0090\u00e1\u00bb\u00a9c Tr\u00e1\u00bb\u008dng"
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nguy\u00e1\u00bb\u0085n \u00c4\u0090\u00e1\u00bb\u00a9c Tr\u00e1\u00bb\u008dng",
+      "timestamp_ms": 1712251827116,
+      "content": "@Tran Anh",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nguy\u00e1\u00bb\u0085n \u00c4\u0090\u00e1\u00bb\u00a9c Tr\u00e1\u00bb\u008dng",
+      "timestamp_ms": 1712251806416,
+      "content": "c\u00c3\u00b3 n\u00c3\u00aan \u00c4\u0091\u00c3\u00b3ng logo v\u00c3\u00a0o \u00e1\u00ba\u00a3nh k",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nguy\u00e1\u00bb\u0085n \u00c4\u0090\u00e1\u00bb\u00a9c Tr\u00e1\u00bb\u008dng",
+      "timestamp_ms": 1712251674428,
+      "content": "H\u00c3\u00b4m nay m\u00c3\u00acnh ngh\u00e1\u00bb\u0089 ch\u00c6\u00a1i v\u00e1\u00bb\u009bi m\u00e1\u00bb\u0099t ng\u00c6\u00b0\u00e1\u00bb\u009di b\u00e1\u00ba\u00a1n. Nh\u00c6\u00b0ng m\u00c3\u00acnh l\u00e1\u00ba\u00a1i c\u00e1\u00ba\u00a3m th\u00e1\u00ba\u00a5y r\u00e1\u00ba\u00a5t thanh th\u00e1\u00ba\u00a3n v\u00c3\u00ac \u00c4\u0091i\u00e1\u00bb\u0081u \u00e1\u00ba\u00a5y.\n\nM\u00c3\u00acnh \u00c4\u0091\u00e1\u00ba\u00afn \u00c4\u0091o l\u00e1\u00ba\u00afm nh\u00c6\u00b0ng r\u00e1\u00bb\u0093i c\u00c5\u00a9ng quy\u00e1\u00ba\u00bft \u00c4\u0091\u00e1\u00bb\u008bnh kh\u00c3\u00b4ng h\u00e1\u00bb\u0093i \u00c4\u0091\u00c3\u00a1p l\u00e1\u00ba\u00a1i b\u00e1\u00ba\u00a1n n\u00e1\u00bb\u00afa. Ch\u00e1\u00ba\u00b3ng c\u00c3\u00b3 l\u00c3\u00ad do g\u00c3\u00ac to t\u00c3\u00a1t c\u00e1\u00ba\u00a3. Ch\u00e1\u00bb\u0089 l\u00c3\u00a0 m\u00c3\u00acnh lu\u00c3\u00b4n c\u00e1\u00ba\u00a3m th\u00e1\u00ba\u00a5y b\u00e1\u00ba\u00a1n ch\u00e1\u00bb\u0089 t\u00c3\u00acm \u00c4\u0091\u00e1\u00ba\u00bfn m\u00c3\u00acnh khi c\u00e1\u00ba\u00a7n, nh\u00c6\u00b0ng l\u00c3\u00bac m\u00c3\u00acnh c\u00e1\u00ba\u00a7n t\u00e1\u00bb\u009bi th\u00c3\u00ac ch\u00e1\u00ba\u00b3ng th\u00e1\u00ba\u00a5y b\u00e1\u00ba\u00a1n \u00c4\u0091\u00c3\u00a2u.\n\nM\u00c3\u00acnh \u00c4\u0091\u00e1\u00bb\u0083 \u00c3\u00bd c\u00c5\u00a9ng ch\u00e1\u00ba\u00b3ng bao gi\u00e1\u00bb\u009d nh\u00e1\u00ba\u00adn \u00c4\u0091\u00c6\u00b0\u00e1\u00bb\u00a3c l\u00e1\u00bb\u009di c\u00e1\u00ba\u00a3m \u00c6\u00a1n n\u00c3\u00a0o t\u00e1\u00bb\u00ab b\u00e1\u00ba\u00a1n c\u00e1\u00ba\u00a3, m\u00e1\u00bb\u008di th\u00e1\u00bb\u00a9 m\u00c3\u00acnh l\u00c3\u00a0m cho hai \u00c4\u0091\u00e1\u00bb\u00a9a \u00c4\u0091\u00e1\u00bb\u0081u l\u00c3\u00a0 \u00c4\u0091\u00c6\u00b0\u00c6\u00a1ng nhi\u00c3\u00aan. Tr\u00c3\u00a1ch m\u00c3\u00b3c th\u00c3\u00ac \u00c4\u0091\u00e1\u00ba\u00a7y, m\u00e1\u00bb\u0097i khi m\u00c3\u00acnh kh\u00c3\u00b4ng gi\u00c3\u00bap g\u00c3\u00ac \u00c4\u0091\u00c6\u00b0\u00e1\u00bb\u00a3c b\u00e1\u00ba\u00a1n.\n\n\u00c4\u0090\u00c3\u00a3 c\u00c3\u00b3 l\u00c3\u00bac m\u00c3\u00acnh th\u00e1\u00ba\u00a5y s\u00e1\u00bb\u00a3 kh\u00c3\u00b4ng d\u00c3\u00a1m \u00c4\u0091\u00e1\u00bb\u008dc tin nh\u00e1\u00ba\u00afn t\u00e1\u00bb\u00ab b\u00e1\u00ba\u00a1n, v\u00c3\u00ac bi\u00e1\u00ba\u00bft l\u00e1\u00ba\u00a1i c\u00c3\u00b3 chuy\u00e1\u00bb\u0087n g\u00c3\u00ac r\u00e1\u00bb\u0093i.\n\nNh\u00c6\u00b0ng h\u00c3\u00b4m nay, m\u00c3\u00acnh quy\u00e1\u00ba\u00bft \u00c4\u0091\u00e1\u00bb\u008bnh r\u00e1\u00bb\u0093i. C\u00c3\u00b3 l\u00e1\u00ba\u00bd b\u00e1\u00ba\u00a1n \u00e1\u00ba\u00a5y s\u00e1\u00ba\u00bd l\u00e1\u00ba\u00a1i tr\u00c3\u00a1ch, nh\u00c6\u00b0ng m\u00c3\u00acnh ngh\u00c4\u00a9 th\u00c3\u00b4ng r\u00e1\u00bb\u0093i. \n\n\u00c4\u0090\u00c3\u00b4i khi trong m\u00e1\u00bb\u0099t m\u00e1\u00bb\u0091i quan h\u00e1\u00bb\u0087, ch\u00c3\u00bang ta ph\u00e1\u00ba\u00a3i bi\u00e1\u00ba\u00bft ngh\u00c4\u00a9 cho m\u00c3\u00acnh, b\u00e1\u00ba\u00a5t k\u00e1\u00bb\u0083 t\u00c3\u00acnh y\u00c3\u00aau hay t\u00c3\u00acnh b\u00e1\u00ba\u00a1n.\n\nM\u00c3\u00acnh vui, h\u00c3\u00b3a ra \u00c4\u0091\u00c3\u00b4i khi k\u00e1\u00ba\u00bft th\u00c3\u00bac m\u00e1\u00bb\u0099t m\u00e1\u00bb\u0091i quan h\u00e1\u00bb\u0087 c\u00c5\u00a9ng c\u00c3\u00b3 th\u00e1\u00bb\u0083 thanh th\u00e1\u00ba\u00a3n \u00c4\u0091\u00e1\u00ba\u00bfn v\u00e1\u00ba\u00ady\u00e2\u0080\u00a6\n\n| aT\n\u00e1\u00ba\u00a2nh st",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "\u00c4\u0090\u00e1\u00bb\u00a9c B\u00c3\u00a1ch"
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nguy\u00e1\u00bb\u0085n \u00c4\u0090\u00e1\u00bb\u00a9c Tr\u00e1\u00bb\u008dng",
+      "timestamp_ms": 1712251662560,
+      "content": "bu\u00e1\u00bb\u0093n qu\u00c3\u00a1 @\u00c4\u0090\u00e1\u00bb\u00a9c B\u00c3\u00a1ch@Tu\u00e1\u00ba\u00a5n D\u00c5\u00a9ng@Tu\u00e1\u00ba\u00a5n D\u00c5\u00a9ng@Th\u00c3\u00a0nh \u00c4\u0090\u00e1\u00ba\u00a1t",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nguy\u00e1\u00bb\u0085n \u00c4\u0090\u00e1\u00bb\u00a9c Tr\u00e1\u00bb\u008dng",
+      "timestamp_ms": 1712251649230,
+      "content": "ko \u00c4\u0091\u00c4\u0083ng \u00c4\u0091\u00c6\u00b0\u00e1\u00bb\u00a3c b\u00c3\u00a0i",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Tran Anh"
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nguy\u00e1\u00bb\u0085n \u00c4\u0090\u00e1\u00bb\u00a9c Tr\u00e1\u00bb\u008dng",
+      "timestamp_ms": 1712251646601,
+      "content": "BKD ng\u00e1\u00bb\u00a7 r\u00e1\u00bb\u0093i",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nguy\u00e1\u00bb\u0085n \u00c4\u0090\u00e1\u00bb\u00a9c Tr\u00e1\u00bb\u008dng",
+      "timestamp_ms": 1712251571840,
+      "content": "BKD oii",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nguy\u00e1\u00bb\u0085n \u00c4\u0090\u00e1\u00bb\u00a9c Tr\u00e1\u00bb\u008dng",
+      "timestamp_ms": 1712251567387,
+      "content": "Ng\u00c3\u00a0y m\u00e1\u00bb\u009bi \u00c4\u0091\u00e1\u00ba\u00bfn r\u00e1\u00bb\u0093i d\u00e1\u00ba\u00ady ch\u00c3\u00a0o \u00c3\u00b4ng m\u00e1\u00ba\u00b7t tr\u00e1\u00bb\u009di",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nguy\u00e1\u00bb\u0085n \u00c4\u0090\u00e1\u00bb\u00a9c Tr\u00e1\u00bb\u008dng",
+      "timestamp_ms": 1712251546255,
+      "content": "BKD oi t\u00e1\u00bb\u00ab t\u00e1\u00bb\u00ab h\u00e1\u00ba\u00b5ng ng\u00e1\u00bb\u00a7",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nguy\u00e1\u00bb\u0085n \u00c4\u0090\u00e1\u00bb\u00a9c Tr\u00e1\u00bb\u008dng",
+      "timestamp_ms": 1712251541729,
+      "photos": [
+        {
+          "uri": "your_activity_across_facebook/messages/inbox/kiemduyetinsidethebox_6891072950981936/photos/433962901_384285531080617_4414828376193547931_n_384285527747284.jpg",
+          "creation_timestamp": 1712251467
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "\u00c4\u0090\u00e1\u00bb\u00a9c B\u00c3\u00a1ch"
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nguy\u00e1\u00bb\u0085n \u00c4\u0090\u00e1\u00bb\u00a9c Tr\u00e1\u00bb\u008dng",
+      "timestamp_ms": 1712251541585,
+      "content": "H\u00c3\u00b4m nay m\u00c3\u00acnh ngh\u00e1\u00bb\u0089 ch\u00c6\u00a1i v\u00e1\u00bb\u009bi m\u00e1\u00bb\u0099t ng\u00c6\u00b0\u00e1\u00bb\u009di b\u00e1\u00ba\u00a1n. Nh\u00c6\u00b0ng m\u00c3\u00acnh l\u00e1\u00ba\u00a1i c\u00e1\u00ba\u00a3m th\u00e1\u00ba\u00a5y r\u00e1\u00ba\u00a5t thanh th\u00e1\u00ba\u00a3n v\u00c3\u00ac \u00c4\u0091i\u00e1\u00bb\u0081u \u00e1\u00ba\u00a5y.\n\nM\u00c3\u00acnh \u00c4\u0091\u00e1\u00ba\u00afn \u00c4\u0091o l\u00e1\u00ba\u00afm nh\u00c6\u00b0ng r\u00e1\u00bb\u0093i c\u00c5\u00a9ng quy\u00e1\u00ba\u00bft \u00c4\u0091\u00e1\u00bb\u008bnh kh\u00c3\u00b4ng h\u00e1\u00bb\u0093i \u00c4\u0091\u00c3\u00a1p l\u00e1\u00ba\u00a1i b\u00e1\u00ba\u00a1n n\u00e1\u00bb\u00afa. Ch\u00e1\u00ba\u00b3ng c\u00c3\u00b3 l\u00c3\u00ad do g\u00c3\u00ac to t\u00c3\u00a1t c\u00e1\u00ba\u00a3. Ch\u00e1\u00bb\u0089 l\u00c3\u00a0 m\u00c3\u00acnh lu\u00c3\u00b4n c\u00e1\u00ba\u00a3m th\u00e1\u00ba\u00a5y b\u00e1\u00ba\u00a1n \u00e1\u00ba\u00a5y ch\u00e1\u00bb\u0089 t\u00c3\u00acm \u00c4\u0091\u00e1\u00ba\u00bfn m\u00c3\u00acnh khi c\u00e1\u00ba\u00a7n, nh\u00c6\u00b0ng l\u00c3\u00bac m\u00c3\u00acnh c\u00e1\u00ba\u00a7n t\u00e1\u00bb\u009bi th\u00c3\u00ac ch\u00e1\u00ba\u00b3ng th\u00e1\u00ba\u00a5y b\u00e1\u00ba\u00a1n \u00c4\u0091\u00c3\u00a2u.\nM\u00c3\u00acnh \u00c4\u0091\u00e1\u00bb\u0083 \u00c3\u00bd c\u00c5\u00a9ng ch\u00e1\u00ba\u00b3ng bao gi\u00e1\u00bb\u009d nh\u00e1\u00ba\u00adn \u00c4\u0091\u00c6\u00b0\u00e1\u00bb\u00a3c l\u00e1\u00bb\u009di c\u00e1\u00ba\u00a3m \u00c6\u00a1n n\u00c3\u00a0o t\u00e1\u00bb\u00ab b\u00e1\u00ba\u00a1n c\u00e1\u00ba\u00a3. Tr\u00c3\u00a1ch m\u00c3\u00b3c th\u00c3\u00ac \u00c4\u0091\u00e1\u00ba\u00a7y, m\u00e1\u00bb\u0097i khi m\u00c3\u00acnh kh\u00c3\u00b4ng gi\u00c3\u00bap g\u00c3\u00ac \u00c4\u0091\u00c6\u00b0\u00e1\u00bb\u00a3c b\u00e1\u00ba\u00a1n.\n\n\u00c4\u0090\u00c3\u00a3 c\u00c3\u00b3 l\u00c3\u00bac m\u00c3\u00acnh th\u00e1\u00ba\u00a5y s\u00e1\u00bb\u00a3 kh\u00c3\u00b4ng d\u00c3\u00a1m \u00c4\u0091\u00e1\u00bb\u008dc tin nh\u00e1\u00ba\u00afn t\u00e1\u00bb\u00ab b\u00e1\u00ba\u00a1n, v\u00c3\u00ac bi\u00e1\u00ba\u00bft l\u00e1\u00ba\u00a1i c\u00c3\u00b3 chuy\u00e1\u00bb\u0087n g\u00c3\u00ac r\u00e1\u00bb\u0093i.\n\nNh\u00c6\u00b0ng h\u00c3\u00b4m nay, m\u00c3\u00acnh quy\u00e1\u00ba\u00bft \u00c4\u0091\u00e1\u00bb\u008bnh r\u00e1\u00bb\u0093i. C\u00c3\u00b3 l\u00e1\u00ba\u00bd b\u00e1\u00ba\u00a1n \u00e1\u00ba\u00a5y s\u00e1\u00ba\u00bd l\u00e1\u00ba\u00a1i tr\u00c3\u00a1ch, nh\u00c6\u00b0ng m\u00c3\u00acnh ngh\u00c4\u00a9 th\u00c3\u00b4ng r\u00e1\u00bb\u0093i. \n\u00c4\u0090\u00c3\u00b4i khi trong m\u00e1\u00bb\u0099t m\u00e1\u00bb\u0091i quan h\u00e1\u00bb\u0087, ch\u00c3\u00bang ta ph\u00e1\u00ba\u00a3i bi\u00e1\u00ba\u00bft ngh\u00c4\u00a9 cho m\u00c3\u00acnh, b\u00e1\u00ba\u00a5t k\u00e1\u00bb\u0083 t\u00c3\u00acnh y\u00c3\u00aau hay t\u00c3\u00acnh b\u00e1\u00ba\u00a1n.\n\nM\u00c3\u00acnh vui, h\u00c3\u00b3a ra \u00c4\u0091\u00c3\u00b4i khi k\u00e1\u00ba\u00bft th\u00c3\u00bac m\u00e1\u00bb\u0099t m\u00e1\u00bb\u0091i quan h\u00e1\u00bb\u0087 c\u00c5\u00a9ng c\u00c3\u00b3 th\u00e1\u00bb\u0083 thanh th\u00e1\u00ba\u00a3n \u00c4\u0091\u00e1\u00ba\u00bfn v\u00e1\u00ba\u00ady\u00e2\u0080\u00a6\n\n| aT\n\u00e1\u00ba\u00a2nh st",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "\u00c4\u0090\u00e1\u00bb\u00a9c B\u00c3\u00a1ch"
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Giang Uy\u00c3\u00aan",
+      "timestamp_ms": 1712234984499,
+      "content": "\u00e1\u00ba\u00a2nh n\u00c3\u00a0y c\u00c3\u00b3 oki kh anh",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Giang Uy\u00c3\u00aan",
+      "timestamp_ms": 1712234978356,
+      "photos": [
+        {
+          "uri": "your_activity_across_facebook/messages/inbox/kiemduyetinsidethebox_6891072950981936/photos/433958436_361917773496487_1353933793445593025_n_361917770163154.jpg",
+          "creation_timestamp": 1712234977
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Th\u00c3\u00a0nh \u00c4\u0090\u00e1\u00ba\u00a1t"
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "\u00c4\u0090\u00e1\u00bb\u00a9c B\u00c3\u00a1ch",
+      "timestamp_ms": 1712234811299,
+      "content": "A v\u00e1\u00bb\u00aba \u00c4\u0091\u00e1\u00bb\u008dc xong \u00f0\u009f\u0098\u00ad\u00f0\u009f\u0098\u00ad\u00f0\u009f\u0098\u00ad",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Giang Uy\u00c3\u00aan"
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Giang Uy\u00c3\u00aan",
+      "timestamp_ms": 1712234773156,
+      "content": "@\u00c4\u0090\u00e1\u00bb\u00a9c B\u00c3\u00a1ch s\u00e1\u00ba\u00bfp n\u00c3\u00b3i g\u00c3\u00ac \u00c4\u0091i \u00e1\u00ba\u00a1",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Giang Uy\u00c3\u00aan",
+      "timestamp_ms": 1712234689466,
+      "content": "D\u00e1\u00ba\u00a1 \u00c3\u00b4k",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Tran Anh",
+      "timestamp_ms": 1712234684899,
+      "content": "M\u00e1\u00bb\u0087t qu\u00c3\u00a1 ba",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Tran Anh",
+      "timestamp_ms": 1712234682520,
+      "content": "T\u00e1\u00bb\u00b1 d\u00c6\u00b0ng t\u00c3\u00a1ch coffee",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Giang Uy\u00c3\u00aan"
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Tran Anh",
+      "timestamp_ms": 1712234678160,
+      "content": "T\u00c3\u00a1ch c\u00c3\u00a0 ph\u00c3\u00aa \u00c4\u0091i",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Giang Uy\u00c3\u00aan",
+      "timestamp_ms": 1712234676048,
+      "content": "Check gi\u00c3\u00bap em v\u00e1\u00bb\u009bi \u00e1\u00ba\u00a1",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Giang Uy\u00c3\u00aan",
+      "timestamp_ms": 1712234673415,
+      "photos": [
+        {
+          "uri": "your_activity_across_facebook/messages/inbox/kiemduyetinsidethebox_6891072950981936/photos/434016836_1401233007221938_5792897929318132404_n_1401233003888605.jpg",
+          "creation_timestamp": 1712234672
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "\u00c4\u0090\u00e1\u00bb\u00a9c B\u00c3\u00a1ch"
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Giang Uy\u00c3\u00aan",
+      "timestamp_ms": 1712234663540,
+      "content": "\u00e1\u00bb\u009e H\u00c3\u00a0 N\u00e1\u00bb\u0099i, m\u00e1\u00bb\u0099t b\u00c3\u00a1t ph\u00e1\u00bb\u009f, m\u00e1\u00bb\u0099t t\u00c3\u00a1ch coffee c\u00c5\u00a9ng kho\u00e1\u00ba\u00a3ng hai l\u00c4\u0083m, ba ch\u00e1\u00bb\u00a5c ng\u00c3\u00a0n. Ti\u00e1\u00bb\u0081n ph\u00c3\u00b2ng m\u00e1\u00bb\u0097i th\u00c3\u00a1ng tr\u00c3\u00aan d\u00c6\u00b0\u00e1\u00bb\u009bi hai tri\u00e1\u00bb\u0087u. H\u00e1\u00bb\u008dc ph\u00c3\u00ad m\u00e1\u00bb\u0097i k\u00c3\u00ac, m\u00c6\u00b0\u00e1\u00bb\u009di tri\u00e1\u00bb\u0087u l\u00c3\u00a0 th\u00e1\u00ba\u00a5p. T\u00c3\u00adnh ra m\u00e1\u00bb\u0097i th\u00c3\u00a1ng, chi ti\u00c3\u00aau t\u00e1\u00ba\u00b1n ti\u00e1\u00bb\u0087n l\u00e1\u00ba\u00afm c\u00c5\u00a9ng t\u00e1\u00bb\u0091n b\u00e1\u00bb\u0091n, n\u00c4\u0083m tri\u00e1\u00bb\u0087u ph\u00c3\u00ad sinh ho\u00e1\u00ba\u00a1t v\u00c3\u00a0 h\u00e1\u00bb\u008dc t\u00e1\u00ba\u00adp.\n\n\u00e1\u00ba\u00a4y v\u00e1\u00ba\u00ady m\u00c3\u00a0 v\u00e1\u00bb\u0081 qu\u00c3\u00aa, m\u00e1\u00ba\u00b9 l\u00c3\u00a0m c\u00e1\u00ba\u00a3 v\u00e1\u00bb\u00a5 m\u00c3\u00b9a, g\u00e1\u00ba\u00b7p th\u00e1\u00bb\u009di \u00c4\u0091i\u00e1\u00bb\u0083m rau r\u00e1\u00bb\u009bt gi\u00c3\u00a1, b\u00c3\u00a1n c\u00e1\u00ba\u00a3 bu\u00e1\u00bb\u0095i c\u00c5\u00a9ng ch\u00c6\u00b0a \u00c4\u0091\u00c6\u00b0\u00e1\u00bb\u00a3c hai tr\u00c4\u0083m ngh\u00c3\u00acn. B\u00e1\u00bb\u0091 d\u00e1\u00ba\u00a7m m\u00c6\u00b0a d\u00c3\u00a3i n\u00e1\u00ba\u00afng t\u00e1\u00bb\u00ab s\u00c3\u00a1ng t\u00e1\u00bb\u009bi t\u00e1\u00bb\u0091i ngo\u00c3\u00a0i tr\u00e1\u00bb\u009di ch\u00e1\u00ba\u00afc c\u00c5\u00a9ng ch\u00e1\u00ba\u00b3ng ki\u00e1\u00ba\u00bfm n\u00e1\u00bb\u0095i ba tr\u00c4\u0083m.\n\n\u00e1\u00ba\u00a4y th\u00e1\u00ba\u00bf m\u00c3\u00a0 v\u00e1\u00bb\u009bi ng\u00e1\u00ba\u00a7n \u00e1\u00ba\u00a5y ti\u00e1\u00bb\u0081n, b\u00e1\u00bb\u0091 m\u00e1\u00ba\u00b9 v\u00e1\u00bb\u00aba ph\u00e1\u00ba\u00a3i ch\u00c4\u0083m lo nh\u00c3\u00a0 c\u00e1\u00bb\u00ada, ti\u00e1\u00ba\u00bft ki\u00e1\u00bb\u0087m, nu\u00c3\u00b4i ch\u00c3\u00adnh m\u00c3\u00acnh v\u00c3\u00a0 g\u00e1\u00bb\u00adi cho con \u00e1\u00bb\u009f H\u00c3\u00a0 N\u00e1\u00bb\u0099i. Ng\u00e1\u00ba\u00abm k\u00c4\u00a9 ch\u00e1\u00bb\u00a3t th\u00e1\u00ba\u00a5y x\u00c3\u00b3t xa...\n\n| H\u00c3\u00a0 N\u00e1\u00bb\u0099i Ph\u00e1\u00bb\u0091.",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "\u00c4\u0090\u00e1\u00bb\u00a9c B\u00c3\u00a1ch"
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nguy\u00e1\u00bb\u0085n \u00c4\u0090\u00e1\u00bb\u00a9c Tr\u00e1\u00bb\u008dng",
+      "timestamp_ms": 1712225870766,
+      "photos": [
+        {
+          "uri": "your_activity_across_facebook/messages/inbox/kiemduyetinsidethebox_6891072950981936/photos/432696580_1584602142332628_8617521524833128082_n_1584602138999295.jpg",
+          "creation_timestamp": 1712225867
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nguy\u00e1\u00bb\u0085n \u00c4\u0090\u00e1\u00bb\u00a9c Tr\u00e1\u00bb\u008dng",
+      "timestamp_ms": 1712225870578,
+      "content": "\u00c3\u00b4ng H Quang n\u00c3\u00a0y ph\u00e1\u00bb\u00a5c ch\u00e1\u00ba\u00bf l\u00e1\u00ba\u00a1i m\u00c3\u00a0 \u00c4\u0091\u00e1\u00bb\u0083 c\u00c3\u00a1i logo to qu\u00c3\u00a1 :v",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nguy\u00e1\u00bb\u0085n \u00c4\u0090\u00e1\u00bb\u00a9c Tr\u00e1\u00bb\u008dng",
+      "timestamp_ms": 1712225833936,
+      "photos": [
+        {
+          "uri": "your_activity_across_facebook/messages/inbox/kiemduyetinsidethebox_6891072950981936/photos/432823382_422231857069068_709117026074424017_n_422231853735735.jpg",
+          "creation_timestamp": 1712225833
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nguy\u00e1\u00bb\u0085n \u00c4\u0090\u00e1\u00bb\u00a9c Tr\u00e1\u00bb\u008dng",
+      "timestamp_ms": 1712225818775,
+      "content": "BKD oiii",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nguy\u00e1\u00bb\u0085n \u00c4\u0090\u00e1\u00bb\u00a9c Tr\u00e1\u00bb\u008dng",
+      "timestamp_ms": 1712225816187,
+      "photos": [
+        {
+          "uri": "your_activity_across_facebook/messages/inbox/kiemduyetinsidethebox_6891072950981936/photos/433008496_1480346599493639_5590547030843614282_n_821511422722392.jpg",
+          "creation_timestamp": 1712225463
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "\u00c4\u0090\u00e1\u00bb\u00a9c B\u00c3\u00a1ch"
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nguy\u00e1\u00bb\u0085n \u00c4\u0090\u00e1\u00bb\u00a9c Tr\u00e1\u00bb\u008dng",
+      "timestamp_ms": 1712225815954,
+      "content": "T\u00e1\u00ba\u00a5m h\u00c3\u00acnh h\u00e1\u00bb\u0099i t\u00e1\u00bb\u00a5 nh\u00e1\u00bb\u00afng tinh hoa m\u00e1\u00bb\u0099t th\u00e1\u00bb\u009di \u00c4\u0091\u00e1\u00ba\u00a1i c\u00e1\u00bb\u00a7a d\u00c3\u00a2n t\u00e1\u00bb\u0099c \u00f0\u009f\u0087\u00bb\u00f0\u009f\u0087\u00b3\u00f0\u009f\u00ab\u00a1\n\n\u00c4\u0090\u00c3\u00a2y l\u00c3\u00a0 m\u00e1\u00bb\u0099t ph\u00e1\u00ba\u00a7n c\u00e1\u00bb\u00a7a b\u00e1\u00bb\u00a9c \u00e1\u00ba\u00a3nh ch\u00e1\u00bb\u00a5p L\u00e1\u00bb\u0085 trao qu\u00c3\u00a2n h\u00c3\u00a0m cho c\u00c3\u00a1n b\u00e1\u00bb\u0099 c\u00e1\u00ba\u00a5p cao to\u00c3\u00a0n qu\u00c3\u00a2n t\u00e1\u00ba\u00a1i Ph\u00e1\u00bb\u00a7 Ch\u00e1\u00bb\u00a7 t\u00e1\u00bb\u008bch, ng\u00c3\u00a0y 22-12-1958.\n\nB\u00c3\u00aanh c\u00e1\u00ba\u00a1nh B\u00c3\u00a1c H\u00e1\u00bb\u0093, c\u00c3\u00a1c t\u00c6\u00b0\u00e1\u00bb\u009bng l\u00c4\u00a9nh v\u00c3\u00a0 ch\u00c3\u00adnh tr\u00e1\u00bb\u008b gia c\u00c3\u00b2n c\u00c3\u00b3 c\u00c3\u00a1c \"b\u00e1\u00bb\u0099 n\u00c3\u00a3o khoa h\u00e1\u00bb\u008dc\" l\u00e1\u00bb\u009bn nh\u00c6\u00b0 L\u00c6\u00b0\u00c6\u00a1ng \u00c4\u0090\u00e1\u00bb\u008bnh C\u00e1\u00bb\u00a7a, T\u00e1\u00ba\u00a1 Quang B\u00e1\u00bb\u00adu...\n\nB\u00e1\u00ba\u00a1n c\u00c3\u00b3 th\u00e1\u00bb\u0083 nh\u00e1\u00ba\u00adn ra nh\u00e1\u00bb\u00afng ai trong b\u00e1\u00bb\u00a9c h\u00c3\u00acnh n\u00c3\u00a0y?\n\n| \u00e1\u00ba\u00a2nh chia s\u00e1\u00ba\u00bb b\u00e1\u00bb\u009fi Pipiti2101",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "\u00c4\u0090\u00e1\u00bb\u00a9c B\u00c3\u00a1ch"
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nguy\u00e1\u00bb\u0085n \u00c4\u0090\u00e1\u00bb\u00a9c Tr\u00e1\u00bb\u008dng",
+      "timestamp_ms": 1712161721479,
+      "content": "BKD oii",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nguy\u00e1\u00bb\u0085n \u00c4\u0090\u00e1\u00bb\u00a9c Tr\u00e1\u00bb\u008dng",
+      "timestamp_ms": 1712161706121,
+      "content": "M\u00c3\u00acnh \u00c4\u0091\u00e1\u00bb\u008bnh g\u00c3\u00a2y b\u00e1\u00ba\u00a5t ng\u00e1\u00bb\u009d n\u00c3\u00aan t\u00e1\u00bb\u00ab H\u00c3\u00a0 N\u00e1\u00bb\u0099i v\u00e1\u00bb\u0081 nh\u00c3\u00a0 m\u00c3\u00a0 kh\u00c3\u00b4ng b\u00c3\u00a1o tr\u00c6\u00b0\u00e1\u00bb\u009bc. L\u00c3\u00bac \u00e1\u00ba\u00a5y l\u00c3\u00a0 gi\u00e1\u00bb\u00afa tr\u00c6\u00b0a, nh\u00c3\u00acn th\u00e1\u00ba\u00a5y b\u00e1\u00bb\u0091 \u00c4\u0091ang \u00c4\u0083n b\u00e1\u00bb\u00afa c\u00c6\u00a1m ch\u00e1\u00bb\u0089 c\u00c3\u00b3 \u00c4\u0091\u00c3\u00bang tr\u00e1\u00bb\u00a9ng d\u00e1\u00ba\u00a7m n\u00c6\u00b0\u00e1\u00bb\u009bc m\u00e1\u00ba\u00afm m\u00c3\u00a0 m\u00c3\u00acnh mu\u00e1\u00bb\u0091n kh\u00c3\u00b3c.\n\nB\u00e1\u00bb\u0091 m\u00c3\u00acnh c\u00c3\u00b2n \u00c4\u0091\u00e1\u00bb\u008bnh b\u00c6\u00b0ng m\u00c3\u00a2m c\u00c6\u00a1m \u00c4\u0091i gi\u00e1\u00ba\u00a5u, nh\u00c6\u00b0ng r\u00e1\u00bb\u0093i ch\u00e1\u00bb\u0089 h\u00e1\u00bb\u008fi \u00e2\u0080\u009cV\u00e1\u00bb\u0081 sao kh\u00c3\u00b4ng b\u00e1\u00ba\u00a3o b\u00e1\u00bb\u0091, th\u00e1\u00ba\u00bf \u00c4\u0083n g\u00c3\u00ac gi\u00e1\u00bb\u009d b\u00e1\u00bb\u0091 \u00c4\u0091i n\u00e1\u00ba\u00a5u cho\u00e2\u0080\u009d.\n\nTh\u00e1\u00ba\u00adt ra nh\u00c3\u00a0 m\u00c3\u00acnh kh\u00c3\u00b4ng ph\u00e1\u00ba\u00a3i kh\u00c3\u00b3 kh\u00c4\u0083n t\u00e1\u00bb\u009bi m\u00e1\u00bb\u00a9c kh\u00c3\u00b4ng c\u00c3\u00b3 \u00c4\u0091\u00e1\u00bb\u0093 \u00c4\u0083n. B\u00e1\u00bb\u0091 b\u00e1\u00ba\u00a3o v\u00c3\u00ac tr\u00c6\u00b0a m\u00e1\u00ba\u00b9 \u00c4\u0091i d\u00e1\u00ba\u00a1y h\u00e1\u00bb\u008dc, ch\u00e1\u00bb\u0089 c\u00c3\u00b3 b\u00e1\u00bb\u0091 \u00e1\u00bb\u009f nh\u00c3\u00a0 n\u00c3\u00aan \u00c4\u0083n th\u00e1\u00ba\u00bf cho nhanh c\u00c3\u00b2n ng\u00e1\u00bb\u00a7 k\u00e1\u00bb\u008bp chi\u00e1\u00bb\u0081u \u00c4\u0091i l\u00c3\u00a0m.\n\nM\u00c3\u00acnh ngh\u00c4\u00a9 l\u00e1\u00ba\u00a1i, kh\u00c3\u00b4ng bi\u00e1\u00ba\u00bft nh\u00e1\u00bb\u00afng ng\u00c3\u00a0y v\u00e1\u00ba\u00afng b\u00e1\u00bb\u008dn m\u00c3\u00acnh, b\u00e1\u00bb\u0091 \u00c4\u0091\u00c3\u00a3 \u00c4\u0083n bao nhi\u00c3\u00aau b\u00e1\u00bb\u00afa c\u00c6\u00a1m th\u00e1\u00ba\u00bf n\u00c3\u00a0y r\u00e1\u00bb\u0093i\u00e2\u0080\u00a6 Cho d\u00c3\u00b9 nh\u00c3\u00a0 c\u00c3\u00b3 ti\u00e1\u00bb\u0081n, th\u00c3\u00ac b\u00e1\u00bb\u0091 v\u00e1\u00ba\u00abn c\u00e1\u00bb\u00a9 \u00c4\u0083n u\u00e1\u00bb\u0091ng \u00c4\u0091\u00e1\u00ba\u00a1m b\u00e1\u00ba\u00a1c, ch\u00e1\u00bb\u0089 \u00c4\u0091\u00c3\u00bang \u00c4\u0091\u00e1\u00bb\u0083 no b\u00e1\u00bb\u00a5ng nh\u00c6\u00b0 v\u00e1\u00ba\u00ady th\u00c3\u00b4i.\nTh\u00e1\u00ba\u00bf m\u00c3\u00a0 l\u00c3\u00bac b\u00e1\u00bb\u008dn m\u00c3\u00acnh v\u00e1\u00bb\u0081 nh\u00c3\u00a0, b\u00e1\u00bb\u0091 m\u00e1\u00ba\u00b9 l\u00c3\u00bac n\u00c3\u00a0o c\u00c5\u00a9ng l\u00c3\u00a0m nhi\u00e1\u00bb\u0081u m\u00c3\u00b3n ngon, b\u00e1\u00ba\u00a3o r\u00e1\u00ba\u00b1ng \u00e1\u00bb\u009f nh\u00c3\u00a0 \u00c4\u0091\u00c3\u00a3 \u00c4\u0083n su\u00e1\u00bb\u0091t \u00c4\u0091\u00e1\u00ba\u00bfn ch\u00c3\u00a1n r\u00e1\u00bb\u0093i\u00e2\u0080\u00a6\n\nV\u00e1\u00ba\u00ady \u00c4\u0091\u00c3\u00b3, ch\u00c3\u00bang ta th\u00c6\u00b0\u00e1\u00bb\u009dng hay nghe c\u00c3\u00a2u \u00e2\u0080\u009ckhi m\u00e1\u00ba\u00b9 v\u00e1\u00ba\u00afng nh\u00c3\u00a0\u00e2\u0080\u009d, ch\u00e1\u00bb\u00a9 c\u00c3\u00b3 bao gi\u00e1\u00bb\u009d nghe \u00e2\u0080\u009ckhi con v\u00e1\u00ba\u00afng nh\u00c3\u00a0, b\u00e1\u00bb\u0091 m\u00e1\u00ba\u00b9 s\u00e1\u00bb\u0091ng sao\u00e2\u0080\u009d \u00c4\u0091\u00c3\u00a2u!\n\n\n| aT",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "\u00c4\u0090\u00e1\u00bb\u00a9c B\u00c3\u00a1ch"
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nguy\u00e1\u00bb\u0085n \u00c4\u0090\u00e1\u00bb\u00a9c Tr\u00e1\u00bb\u008dng",
+      "timestamp_ms": 1712161697736,
+      "photos": [
+        {
+          "uri": "your_activity_across_facebook/messages/inbox/kiemduyetinsidethebox_6891072950981936/photos/433960848_7387926197999688_5033852317761633133_n_7387926191333022.jpg",
+          "creation_timestamp": 1712161697
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "\u00c4\u0090\u00e1\u00bb\u00a9c B\u00c3\u00a1ch"
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Giang Uy\u00c3\u00aan",
+      "timestamp_ms": 1712142042306,
+      "photos": [
+        {
+          "uri": "your_activity_across_facebook/messages/inbox/kiemduyetinsidethebox_6891072950981936/photos/434923605_1410091572982669_815131595553945903_n_1410091569649336.png",
+          "creation_timestamp": 1712142038
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Th\u00c3\u00a0nh \u00c4\u0090\u00e1\u00ba\u00a1t"
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Giang Uy\u00c3\u00aan",
+      "timestamp_ms": 1712142041980,
+      "content": "em duy\u00e1\u00bb\u0087t \u00e1\u00ba\u00a3nh \u00e1\u00ba\u00a1",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Giang Uy\u00c3\u00aan",
+      "timestamp_ms": 1712141336919,
+      "content": "d\u00e1\u00ba\u00a1 v\u00c3\u00a2ng \u00e1\u00bb\u00a3, \u00c4\u0091\u00e1\u00bb\u0083 em vi\u00e1\u00ba\u00bft th\u00c3\u00aam m\u00e1\u00ba\u00a5y l\u00e1\u00bb\u009di b\u00c3\u00acnh c\u00e1\u00bb\u00a7a btv",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Tran Anh"
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Tran Anh",
+      "timestamp_ms": 1712141319803,
+      "content": "Ph\u00e1\u00ba\u00a3i \u00c4\u0091\u00e1\u00bb\u0083 \u00c3\u00bd cmt nh\u00c3\u00a1",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Giang Uy\u00c3\u00aan",
+      "timestamp_ms": 1712141213109,
+      "content": "member \u00e1\u00ba\u00a1",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Tran Anh",
+      "timestamp_ms": 1712141207493,
+      "content": "Ai g\u00e1\u00bb\u00adi \u00c4\u0091\u00e1\u00ba\u00a5y @Giang Uy\u00c3\u00aan",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Tran Anh",
+      "timestamp_ms": 1712141202854,
+      "content": "\u00c4\u0090\u00e1\u00bb\u008dc b\u00c3\u00a0i n\u00c3\u00a0y nghe v\u00e1\u00ba\u00bb b\u00e1\u00bb\u008b ch\u00e1\u00bb\u00adi nhi\u00e1\u00bb\u0081u",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Giang Uy\u00c3\u00aan",
+      "timestamp_ms": 1712140952125,
+      "content": "d\u00e1\u00ba\u00a1 v\u00c3\u00a2ng \u00e1\u00ba\u00a1",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Th\u00c3\u00a0nh \u00c4\u0090\u00e1\u00ba\u00a1t",
+      "timestamp_ms": 1712140943965,
+      "content": "n\u00c3\u00aan ko sao \u00c4\u0091\u00c3\u00a2u",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Th\u00c3\u00a0nh \u00c4\u0090\u00e1\u00ba\u00a1t",
+      "timestamp_ms": 1712140937809,
+      "content": "m\u00c3\u00acnh \u00c4\u0091ang l\u00c3\u00a0 n\u00e1\u00ba\u00a1n nh\u00c3\u00a2n k\u00e1\u00bb\u0083 l\u00e1\u00ba\u00a1i",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Giang Uy\u00c3\u00aan",
+      "timestamp_ms": 1712140912059,
+      "content": "m\u00e1\u00ba\u00a5y t\u00e1\u00bb\u00ab nh\u00c3\u00a9t gi\u00e1\u00ba\u00bb v\u00c3\u00a0o m\u00e1\u00bb\u0093m c\u00c3\u00a1c th\u00e1\u00bb\u00a9 ksao \u00e1\u00ba\u00a1 .-.",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Giang Uy\u00c3\u00aan",
+      "timestamp_ms": 1712140832187,
+      "content": "bkd \u00c6\u00a1i check k\u00c4\u00a9 h\u00e1\u00bb\u0099 em b\u00c3\u00a0i n\u00c3\u00a0y v\u00e1\u00bb\u009bi \u00e1\u00ba\u00a1",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Giang Uy\u00c3\u00aan",
+      "timestamp_ms": 1712140824786,
+      "content": "H\u00e1\u00bb\u0093i h\u00e1\u00bb\u008dc m\u00e1\u00ba\u00abu gi\u00c3\u00a1o, l\u00e1\u00ba\u00a7n \u00c4\u0091\u00e1\u00ba\u00a7u ti\u00c3\u00aan m\u00c3\u00acnh bi\u00e1\u00ba\u00bft \u00c4\u0083n tr\u00e1\u00bb\u0099m 20k c\u00e1\u00bb\u00a7a b\u00c3\u00a0 (th\u00e1\u00bb\u009di \u00c4\u0091\u00c3\u00b3 m\u00e1\u00bb\u0087nh gi\u00c3\u00a1 t\u00e1\u00ba\u00a7m 200k so v\u00e1\u00bb\u009bi b\u00c3\u00a2y gi\u00e1\u00bb\u009d), m\u00c3\u00acnh b\u00e1\u00bb\u008b m\u00e1\u00ba\u00afng m\u00e1\u00bb\u0099t tr\u00e1\u00ba\u00adn nh\u00e1\u00bb\u009b \u00c4\u0091\u00e1\u00bb\u009di, b\u00e1\u00bb\u008b n\u00c3\u00b3i: \u00e2\u0080\u009cT\u00e1\u00ba\u00a1i sao con l\u00e1\u00ba\u00a1i l\u00e1\u00ba\u00a5y tr\u00e1\u00bb\u0099m ti\u00e1\u00bb\u0081n th\u00e1\u00ba\u00bf h\u00e1\u00ba\u00a3? M\u00e1\u00bb\u009bi n\u00e1\u00bb\u00a9t m\u00e1\u00ba\u00aft ra m\u00c3\u00a0 nh\u00c6\u00b0 th\u00e1\u00ba\u00bf th\u00c3\u00ac sau n\u00c3\u00a0y ai d\u00e1\u00ba\u00a1y n\u00e1\u00bb\u0095i m\u00c3\u00a0y?\u00e2\u0080\u009d \n\nNh\u00c6\u00b0ng m\u00c3\u00acnh tuy\u00e1\u00bb\u0087t nhi\u00c3\u00aan kh\u00c3\u00b4ng n\u00c3\u00b3i cho ai bi\u00e1\u00ba\u00bft nguy\u00c3\u00aan do t\u00e1\u00ba\u00a1i sao, v\u00c3\u00ac h\u00c3\u00a8n nh\u00c3\u00a1t. \n\nTh\u00e1\u00bb\u00b1c ra l\u00c3\u00bac \u00e1\u00ba\u00a5y mu\u00e1\u00bb\u0091n mang ti\u00e1\u00bb\u0081n \u00c4\u0091\u00c3\u00b3 \u00c4\u0091\u00e1\u00ba\u00bfn cho 1 b\u00e1\u00ba\u00a1n c\u00c3\u00b9ng l\u00e1\u00bb\u009bp. B\u00e1\u00bb\u008b thu l\u00e1\u00ba\u00a1i ti\u00e1\u00bb\u0081n m\u00e1\u00ba\u00a5t r\u00e1\u00bb\u0093i, m\u00c3\u00acnh kh\u00c3\u00b4ng bi\u00e1\u00ba\u00bft s\u00e1\u00ba\u00bd t\u00e1\u00ba\u00b7ng cho b\u00e1\u00ba\u00a1n \u00e1\u00ba\u00a5y c\u00c3\u00a1i g\u00c3\u00ac, \u00c4\u0091\u00e1\u00bb\u0083 b\u00e1\u00ba\u00a1n \u00e1\u00ba\u00a5y th\u00c3\u00b4i kh\u00c3\u00b4ng nh\u00c3\u00a9t gi\u00e1\u00ba\u00bb lau b\u00e1\u00ba\u00a3ng si\u00c3\u00aau b\u00e1\u00bb\u00a5i v\u00c3\u00a0o m\u00e1\u00bb\u0093m m\u00c3\u00acnh n\u00e1\u00bb\u00afa. V\u00c3\u00a0 \u00c4\u0091\u00e1\u00bb\u0083 \u00c4\u0091\u00c6\u00b0\u00e1\u00bb\u00a3c b\u00e1\u00ba\u00a1n \u00e1\u00ba\u00a5y qu\u00c3\u00bd m\u00c3\u00acnh h\u00c6\u00a1n. V\u00c3\u00ac l\u00c3\u00bac \u00e1\u00ba\u00a5y m\u00c3\u00acnh th\u00e1\u00ba\u00a5y khi c\u00c3\u00b3 b\u00e1\u00ba\u00a1n mang k\u00e1\u00ba\u00b9o \u00c4\u0091\u00e1\u00ba\u00bfn cho b\u00e1\u00ba\u00a1n \u00e1\u00ba\u00a5y th\u00c3\u00ac \u00c4\u0091\u00c6\u00b0\u00e1\u00bb\u00a3c \u00c4\u0091i nh\u00c3\u00a9t gi\u00e1\u00ba\u00bb c\u00c3\u00b9ng v\u00c3\u00a0 c\u00c3\u00b2n \u00c4\u0091\u00c6\u00b0\u00e1\u00bb\u00a3c ng\u00e1\u00bb\u00a7 tr\u00c6\u00b0a c\u00e1\u00ba\u00a1nh n\u00e1\u00bb\u00afa.\n \nV\u00c3\u00a0 th\u00e1\u00ba\u00bf l\u00c3\u00a0 m\u00c3\u00acnh \u00c4\u0091\u00c3\u00a3 ng\u00e1\u00ba\u00adm gi\u00e1\u00ba\u00bb lau b\u00e1\u00ba\u00a3ng \u00c4\u0091\u00e1\u00ba\u00bfn khi t\u00e1\u00bb\u0091t nghi\u00e1\u00bb\u0087p m\u00e1\u00ba\u00a7m non, c\u00c3\u00b9ng v\u00e1\u00bb\u009bi nhi\u00e1\u00bb\u0081u b\u00e1\u00ba\u00a1n kh\u00c3\u00a1c, nh\u00c6\u00b0ng ch\u00c6\u00b0a t\u00e1\u00bb\u00abng ai d\u00c3\u00a1m \u00c4\u0091\u00e1\u00bb\u00a9ng l\u00c3\u00aan t\u00e1\u00bb\u0091 c\u00c3\u00a1o b\u00e1\u00ba\u00a1n \u00e1\u00ba\u00a5y c\u00e1\u00ba\u00a3. \n\nM\u00c3\u00acnh \u00c4\u0091\u00c3\u00a3 mang theo n\u00e1\u00bb\u0097i \u00c3\u00a1m \u00e1\u00ba\u00a3nh v\u00e1\u00bb\u0081 b\u00e1\u00ba\u00a1o l\u00e1\u00bb\u00b1c h\u00e1\u00bb\u008dc \u00c4\u0091\u00c6\u00b0\u00e1\u00bb\u009dng su\u00e1\u00bb\u0091t \u00c4\u0091\u00e1\u00ba\u00bfn t\u00e1\u00ba\u00adn b\u00c3\u00a2y gi\u00e1\u00bb\u009d, v\u00c3\u00a0 c\u00e1\u00ba\u00a3 n\u00e1\u00bb\u0097i s\u00e1\u00bb\u00a3 kh\u00c3\u00b4ng bi\u00e1\u00ba\u00bft v\u00c6\u00b0\u00e1\u00bb\u00a3t qua khi g\u00e1\u00ba\u00b7p nh\u00e1\u00bb\u00afng tr\u00c6\u00b0\u00e1\u00bb\u009dng h\u00e1\u00bb\u00a3p t\u00c6\u00b0\u00c6\u00a1ng t\u00e1\u00bb\u00b1 th\u00e1\u00ba\u00bf n\u00c3\u00a0o. V\u00c3\u00ac m\u00c3\u00acnh bi\u00e1\u00ba\u00bft ph\u00e1\u00bb\u00a5 huynh hay gi\u00c3\u00a1o vi\u00c3\u00aan c\u00c5\u00a9ng ch\u00e1\u00bb\u0089 gi\u00c3\u00bap \u00c4\u0091\u00c6\u00b0\u00e1\u00bb\u00a3c m\u00c3\u00acnh ngay l\u00c3\u00bac \u00e1\u00ba\u00a5y th\u00c3\u00b4i, c\u00c3\u00b2n sau n\u00c3\u00a0y n\u00e1\u00bb\u00afa\u00e2\u0080\u00a6",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Th\u00c3\u00a0nh \u00c4\u0090\u00e1\u00ba\u00a1t"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "\u00c4\u0090\u00e1\u00bb\u00a9c B\u00c3\u00a1ch"
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nguy\u00e1\u00bb\u0085n \u00c4\u0090\u00e1\u00bb\u00a9c Tr\u00e1\u00bb\u008dng",
+      "timestamp_ms": 1712137252112,
+      "content": "BKD oiii",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Th\u00c3\u00a0nh \u00c4\u0090\u00e1\u00ba\u00a1t"
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nguy\u00e1\u00bb\u0085n \u00c4\u0090\u00e1\u00bb\u00a9c Tr\u00e1\u00bb\u008dng",
+      "timestamp_ms": 1712137154357,
+      "photos": [
+        {
+          "uri": "your_activity_across_facebook/messages/inbox/kiemduyetinsidethebox_6891072950981936/photos/434320874_7511526162240650_1653385371737812935_n_1086986999227492.jpg",
+          "creation_timestamp": 1712137058
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Th\u00c3\u00a0nh \u00c4\u0090\u00e1\u00ba\u00a1t"
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nguy\u00e1\u00bb\u0085n \u00c4\u0090\u00e1\u00bb\u00a9c Tr\u00e1\u00bb\u008dng",
+      "timestamp_ms": 1712137153977,
+      "content": "Vui: M\u00e1\u00bb\u0099t b\u00e1\u00bb\u0099 phim d\u00e1\u00bb\u00b1 ki\u00e1\u00ba\u00bfn ra m\u00e1\u00ba\u00aft d\u00e1\u00bb\u008bp k\u00e1\u00bb\u00b7 ni\u00e1\u00bb\u0087m 70 n\u00c4\u0083m chi\u00e1\u00ba\u00bfn th\u00e1\u00ba\u00afng \u00c4\u0090i\u00e1\u00bb\u0087n Bi\u00c3\u00aan Ph\u00e1\u00bb\u00a7. Nh\u00c3\u00acn h\u00c3\u00acnh th\u00c3\u00b4i \u00c4\u0091\u00c3\u00a3 th\u00e1\u00ba\u00a5y mu\u00e1\u00bb\u0091n xem r\u00e1\u00bb\u0093i \u00f0\u009f\u0087\u00bb\u00f0\u009f\u0087\u00b3\u00f0\u009f\u0098\u00ae\n\n| \u00e1\u00ba\u00a2nh chia s\u00e1\u00ba\u00bb b\u00e1\u00bb\u009fi Viet Phuong",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Th\u00c3\u00a0nh \u00c4\u0090\u00e1\u00ba\u00a1t"
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nguy\u00e1\u00bb\u0085n \u00c4\u0090\u00e1\u00bb\u00a9c Tr\u00e1\u00bb\u008dng",
+      "timestamp_ms": 1712028941144,
+      "photos": [
+        {
+          "uri": "your_activity_across_facebook/messages/inbox/kiemduyetinsidethebox_6891072950981936/photos/432706604_801661488443182_6973205380940589281_n_801661485109849.png",
+          "creation_timestamp": 1712028940
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nguy\u00e1\u00bb\u0085n \u00c4\u0090\u00e1\u00bb\u00a9c Tr\u00e1\u00bb\u008dng",
+      "timestamp_ms": 1712028907977,
+      "content": "c\u00c3\u00b3 b\u00c3\u00a0 b\u00e1\u00ba\u00a3o d\u00e1\u00ba\u00b9p xe bus HN \u00c4\u0091i, t\u00c3\u00ad b\u00e1\u00bb\u008b \u00c4\u0091\u00e1\u00ba\u00a5m",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nguy\u00e1\u00bb\u0085n \u00c4\u0090\u00e1\u00bb\u00a9c Tr\u00e1\u00bb\u008dng",
+      "timestamp_ms": 1712028891719,
+      "content": "\u00c4\u0091\u00e1\u00bb\u008dc cmt post n\u00c3\u00a0y th\u00e1\u00ba\u00a5y vui ph\u00e1\u00ba\u00bft =))",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nguy\u00e1\u00bb\u0085n \u00c4\u0090\u00e1\u00bb\u00a9c Tr\u00e1\u00bb\u008dng",
+      "timestamp_ms": 1712028871737,
+      "content": "BKD oi hii",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nguy\u00e1\u00bb\u0085n \u00c4\u0090\u00e1\u00bb\u00a9c Tr\u00e1\u00bb\u008dng",
+      "timestamp_ms": 1712028868007,
+      "photos": [
+        {
+          "uri": "your_activity_across_facebook/messages/inbox/kiemduyetinsidethebox_6891072950981936/photos/432913832_1342192429780758_3629917770381910046_n_1598569760965241.jpg",
+          "creation_timestamp": 1712028386
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Th\u00c3\u00a0nh \u00c4\u0090\u00e1\u00ba\u00a1t"
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nguy\u00e1\u00bb\u0085n \u00c4\u0090\u00e1\u00bb\u00a9c Tr\u00e1\u00bb\u008dng",
+      "timestamp_ms": 1712028867857,
+      "content": "B\u00e1\u00bb\u00afa c\u00c6\u00a1m cu\u00e1\u00bb\u0091i c\u00c3\u00b9ng tr\u00c3\u00aan tuy\u00e1\u00ba\u00bfn bus 10A (H\u00c3\u00a0 N\u00e1\u00bb\u0099i) tr\u00c6\u00b0\u00e1\u00bb\u009bc khi \u00c4\u0091\u00c6\u00b0\u00e1\u00bb\u00a3c \u00c4\u0091\u00c3\u00b3ng l\u00e1\u00ba\u00a1i.\n\n18 n\u00c4\u0083m \u00c4\u0091\u00e1\u00bb\u0093ng h\u00c3\u00a0nh, c\u00e1\u00ba\u00a3 ng\u00c6\u00b0\u00e1\u00bb\u009di l\u00c3\u00a1i xe, ph\u00e1\u00bb\u00a5 xe v\u00c3\u00a0 kh\u00c3\u00a1ch h\u00c3\u00a0ng quen \u00c4\u0091\u00e1\u00bb\u0081u c\u00c3\u00b3 nh\u00e1\u00bb\u00afng ngh\u00c4\u00a9 suy kh\u00c3\u00b3 t\u00e1\u00ba\u00a3.\n\nM\u00e1\u00bb\u0099t tuy\u00e1\u00ba\u00bfn xe bus d\u00e1\u00bb\u00abng l\u00e1\u00ba\u00a1i, c\u00c3\u00b3 ngh\u00c4\u00a9a l\u00c3\u00a0 ch\u00e1\u00ba\u00b7ng \u00c4\u0091\u00c6\u00b0\u00e1\u00bb\u009dng c\u00e1\u00bb\u00a7a nhi\u00e1\u00bb\u0081u ng\u00c6\u00b0\u00e1\u00bb\u009di s\u00e1\u00ba\u00bd kh\u00c3\u00a1c \u00c4\u0091i, v\u00c3\u00a0 k\u00c3\u00bd \u00e1\u00bb\u00a9c thanh xu\u00c3\u00a2n, \u00c4\u0091o\u00e1\u00ba\u00a1n \u00c4\u0091\u00c6\u00b0\u00e1\u00bb\u009dng \"c\u00c6\u00a1m \u00c3\u00a1o g\u00e1\u00ba\u00a1o ti\u00e1\u00bb\u0081n\" c\u00e1\u00bb\u00a7a nhi\u00e1\u00bb\u0081u ng\u00c6\u00b0\u00e1\u00bb\u009di c\u00c5\u00a9ng s\u00e1\u00ba\u00bd \u00e1\u00bb\u009f l\u00e1\u00ba\u00a1i v\u00e1\u00bb\u009bi th\u00c3\u00a1ng n\u00c4\u0083m...\n\n| \u00e1\u00ba\u00a2nh \u00c4\u0091\u00c6\u00b0\u00e1\u00bb\u00a3c chia s\u00e1\u00ba\u00bb b\u00e1\u00bb\u009fi Xe bus confessions",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Th\u00c3\u00a0nh \u00c4\u0090\u00e1\u00ba\u00a1t"
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Giang Uy\u00c3\u00aan",
+      "timestamp_ms": 1711980189393,
+      "content": "Check gi\u00c3\u00bap em v\u00e1\u00bb\u009bi \u00e1\u00ba\u00a1",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Giang Uy\u00c3\u00aan",
+      "timestamp_ms": 1711980184126,
+      "content": "N\u00e1\u00ba\u00bfu b\u00e1\u00ba\u00a1n l\u00c3\u00a0m v\u00e1\u00bb\u00a1 m\u00e1\u00bb\u0099t chi\u00e1\u00ba\u00bfc b\u00c3\u00a1t tr\u00e1\u00bb\u008b gi\u00c3\u00a1 v\u00c3\u00a0o ch\u00e1\u00bb\u00a5c ng\u00c3\u00a0n, b\u00e1\u00ba\u00a1n c\u00c3\u00b3 th\u00e1\u00bb\u0083 mua l\u00e1\u00ba\u00a1i. N\u00e1\u00ba\u00bfu gi\u00c3\u00a0y \u00c4\u0091\u00e1\u00ba\u00b7t sai v\u00e1\u00bb\u008b tr\u00c3\u00ad, b\u00e1\u00ba\u00a1n c\u00c5\u00a9ng c\u00c3\u00b3 th\u00c3\u00aat \u00c4\u0091i\u00e1\u00bb\u0081u ch\u00e1\u00bb\u0089nh l\u00e1\u00ba\u00a1i. Nh\u00c6\u00b0ng m\u00e1\u00bb\u0099t \u00c4\u0091\u00e1\u00bb\u00a9a tr\u00e1\u00ba\u00bb b\u00e1\u00bb\u008b hu\u00e1\u00bb\u00b7 ho\u00e1\u00ba\u00a1i b\u00e1\u00bb\u009fi nh\u00e1\u00bb\u00afng l\u00e1\u00bb\u009di la m\u00e1\u00ba\u00afng kh\u00c3\u00b4ng ng\u00e1\u00bb\u00abng ngh\u00e1\u00bb\u0089 th\u00c3\u00ac kh\u00c3\u00b3 c\u00c3\u00b3 th\u00e1\u00bb\u0083 ph\u00e1\u00bb\u00a5c h\u00e1\u00bb\u0093i \u00c4\u0091\u00c6\u00b0\u00e1\u00bb\u00a3c.\n\nNhi\u00e1\u00bb\u0081u ng\u00c6\u00b0\u00e1\u00bb\u009di l\u00e1\u00ba\u00a7n \u00c4\u0091\u00e1\u00ba\u00a7u ti\u00c3\u00aan tr\u00e1\u00bb\u009f th\u00c3\u00a0nh cha m\u00e1\u00ba\u00b9, h\u00e1\u00bb\u008d c\u00c3\u00b3 th\u00e1\u00bb\u0083 b\u00e1\u00bb\u0091i r\u00e1\u00bb\u0091i v\u00c3\u00a0 cho\u00c3\u00a1ng ng\u00e1\u00bb\u00a3p. Nh\u00c6\u00b0ng \u00c4\u0091\u00c3\u00a2y kh\u00c3\u00b4ng ph\u00e1\u00ba\u00a3i l\u00e1\u00ba\u00a7n \u00c4\u0091\u00e1\u00ba\u00a7u ti\u00c3\u00aan ch\u00c3\u00bang ta l\u00c3\u00a0 tr\u00e1\u00ba\u00bb con. \u00e2\u0080\u009cKhi b\u00e1\u00ba\u00a1n kh\u00c3\u00b4ng bi\u00e1\u00ba\u00bft c\u00c3\u00a1ch nu\u00c3\u00b4i d\u00e1\u00ba\u00a1y con c\u00c3\u00a1i, h\u00c3\u00a3y ngh\u00c4\u00a9 \u00c4\u0091\u00e1\u00ba\u00bfn ki\u00e1\u00bb\u0083u cha m\u00e1\u00ba\u00b9 m\u00c3\u00a0 b\u00e1\u00ba\u00a1n c\u00e1\u00ba\u00a7n khi c\u00c3\u00b2n nh\u00e1\u00bb\u008f.\u00e2\u0080\u009d\n\n| \u00e1\u00ba\u00a2nh: daubap.home",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Th\u00c3\u00a0nh \u00c4\u0090\u00e1\u00ba\u00a1t"
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Giang Uy\u00c3\u00aan",
+      "timestamp_ms": 1711980176982,
+      "photos": [
+        {
+          "uri": "your_activity_across_facebook/messages/inbox/kiemduyetinsidethebox_6891072950981936/photos/434059254_951458012784241_6407544759076661154_n_951458009450908.jpg",
+          "creation_timestamp": 1711980174
+        },
+        {
+          "uri": "your_activity_across_facebook/messages/inbox/kiemduyetinsidethebox_6891072950981936/photos/433576915_703233625342274_3301804475381107946_n_703233622008941.jpg",
+          "creation_timestamp": 1711980174
+        },
+        {
+          "uri": "your_activity_across_facebook/messages/inbox/kiemduyetinsidethebox_6891072950981936/photos/433531761_978605927165517_8727815377038531202_n_978605923832184.jpg",
+          "creation_timestamp": 1711980174
+        },
+        {
+          "uri": "your_activity_across_facebook/messages/inbox/kiemduyetinsidethebox_6891072950981936/photos/434008183_392257613641344_7993726416015490748_n_392257610308011.jpg",
+          "creation_timestamp": 1711980174
+        },
+        {
+          "uri": "your_activity_across_facebook/messages/inbox/kiemduyetinsidethebox_6891072950981936/photos/434011639_311042098674008_9212332717431296015_n_311042092007342.jpg",
+          "creation_timestamp": 1711980174
+        },
+        {
+          "uri": "your_activity_across_facebook/messages/inbox/kiemduyetinsidethebox_6891072950981936/photos/433522887_1005053444688887_2754770754528459908_n_1005053441355554.jpg",
+          "creation_timestamp": 1711980174
+        },
+        {
+          "uri": "your_activity_across_facebook/messages/inbox/kiemduyetinsidethebox_6891072950981936/photos/434037973_1440766829854064_2931826770888900410_n_1440766826520731.jpg",
+          "creation_timestamp": 1711980175
+        },
+        {
+          "uri": "your_activity_across_facebook/messages/inbox/kiemduyetinsidethebox_6891072950981936/photos/433555305_1285391388835817_1182174676433911485_n_1285391385502484.jpg",
+          "creation_timestamp": 1711980175
+        },
+        {
+          "uri": "your_activity_across_facebook/messages/inbox/kiemduyetinsidethebox_6891072950981936/photos/434006630_1365822344819365_129663599124633093_n_1365822341486032.jpg",
+          "creation_timestamp": 1711980175
+        },
+        {
+          "uri": "your_activity_across_facebook/messages/inbox/kiemduyetinsidethebox_6891072950981936/photos/433514134_1090660855380347_1101419273683289842_n_1090660852047014.jpg",
+          "creation_timestamp": 1711980175
+        },
+        {
+          "uri": "your_activity_across_facebook/messages/inbox/kiemduyetinsidethebox_6891072950981936/photos/433568211_949551067171723_2948800419130514136_n_949551063838390.jpg",
+          "creation_timestamp": 1711980175
+        },
+        {
+          "uri": "your_activity_across_facebook/messages/inbox/kiemduyetinsidethebox_6891072950981936/photos/433522886_1943245436095960_5337001313791759843_n_1943245432762627.jpg",
+          "creation_timestamp": 1711980175
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Th\u00c3\u00a0nh \u00c4\u0090\u00e1\u00ba\u00a1t"
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nguy\u00e1\u00bb\u0085n \u00c4\u0090\u00e1\u00bb\u00a9c Tr\u00e1\u00bb\u008dng",
+      "timestamp_ms": 1711966651654,
+      "content": "b\u00c3\u00a0i n\u00c3\u00a0y ch\u00e1\u00ba\u00afc ph\u00e1\u00ba\u00a3i check k\u00c4\u00a9",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nguy\u00e1\u00bb\u0085n \u00c4\u0090\u00e1\u00bb\u00a9c Tr\u00e1\u00bb\u008dng",
+      "timestamp_ms": 1711966647457,
+      "content": "BKD \u00c6\u00a1i",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nguy\u00e1\u00bb\u0085n \u00c4\u0090\u00e1\u00bb\u00a9c Tr\u00e1\u00bb\u008dng",
+      "timestamp_ms": 1711966635561,
+      "photos": [
+        {
+          "uri": "your_activity_across_facebook/messages/inbox/kiemduyetinsidethebox_6891072950981936/photos/433982095_3693009014347693_7019195426306137128_n_408503098589324.jpg",
+          "creation_timestamp": 1711966634
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Th\u00c3\u00a0nh \u00c4\u0090\u00e1\u00ba\u00a1t"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "\u00c4\u0090\u00e1\u00bb\u00a9c B\u00c3\u00a1ch"
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nguy\u00e1\u00bb\u0085n \u00c4\u0090\u00e1\u00bb\u00a9c Tr\u00e1\u00bb\u008dng",
+      "timestamp_ms": 1711966635438,
+      "content": "M\u00c3\u00acnh ch\u00e1\u00ba\u00a5p nh\u00e1\u00ba\u00adn \u00c4\u0091\u00c6\u00b0\u00e1\u00bb\u00a3c c\u00c3\u00a1i m\u00c5\u00a9i c\u00e1\u00bb\u00a7a m\u00c3\u00acnh, v\u00c3\u00a0 \u00c4\u0091i\u00e1\u00bb\u0081u \u00c4\u0091\u00c3\u00b3 th\u00e1\u00ba\u00adt tuy\u00e1\u00bb\u0087t v\u00e1\u00bb\u009di.\n\nM\u00c3\u00acnh v\u00e1\u00ba\u00abn nh\u00e1\u00bb\u009b m\u00c3\u00a3i, n\u00c4\u0083m 10 tu\u00e1\u00bb\u0095i, c\u00c3\u00b3 l\u00e1\u00ba\u00a7n m\u00c3\u00acnh v\u00e1\u00bb\u00aba ng\u00e1\u00bb\u00a7 d\u00e1\u00ba\u00ady th\u00c3\u00ac b\u00e1\u00bb\u0091 m\u00c3\u00acnh tr\u00c3\u00aau \u00e2\u0080\u009cT. m\u00c5\u00a9i to d\u00e1\u00ba\u00ady r\u00e1\u00bb\u0093i!\u00e2\u0080\u009d\n\u00c4\u0090\u00e1\u00bb\u00a9a em h\u00e1\u00bb\u008d h\u00c3\u00a0ng g\u00e1\u00ba\u00a7n \u00c4\u0091\u00c3\u00b3 c\u00c5\u00a9ng n\u00c3\u00b3i l\u00c3\u00aau l\u00c3\u00aau, \u00e2\u0080\u009cT. m\u00c5\u00a9i to T. m\u00c5\u00a9i to\u00e2\u0080\u009d...\n\nTr\u00c6\u00b0\u00e1\u00bb\u009bc \u00c4\u0091\u00c3\u00b3 m\u00c3\u00acnh ch\u00e1\u00ba\u00b3ng bi\u00e1\u00ba\u00bft c\u00c3\u00a1i m\u00c5\u00a9i m\u00c3\u00acnh x\u00e1\u00ba\u00a5u hay \u00c4\u0091\u00e1\u00ba\u00b9p, c\u00c3\u00b3 v\u00e1\u00ba\u00a5n \u00c4\u0091\u00e1\u00bb\u0081 g\u00c3\u00ac kh\u00c3\u00b4ng. Nh\u00c6\u00b0ng k\u00e1\u00bb\u0083 t\u00e1\u00bb\u00ab \u00c4\u0091\u00c3\u00b3, m\u00c3\u00acnh m\u00e1\u00ba\u00b7c \u00c4\u0091\u00e1\u00bb\u008bnh b\u00e1\u00ba\u00a3n th\u00c3\u00a2n c\u00c3\u00b3 c\u00c3\u00a1i to, th\u00e1\u00ba\u00bf l\u00c3\u00a0 x\u00e1\u00ba\u00a5u.\nTh\u00e1\u00ba\u00bf l\u00c3\u00a0 su\u00e1\u00bb\u0091t nh\u00e1\u00bb\u00afng n\u00c4\u0083m c\u00e1\u00ba\u00a5p 2, m\u00c3\u00acnh lu\u00c3\u00b4n ngh\u00c4\u00a9 b\u00e1\u00ba\u00a3n th\u00c3\u00a2n l\u00c3\u00a0 th\u00e1\u00ba\u00b1ng nh\u00c3\u00b3c x\u00e1\u00ba\u00a5u x\u00c3\u00ad, t\u00e1\u00bb\u00b1 ti. M\u00c3\u00acnh ngh\u00c4\u00a9, n\u00e1\u00ba\u00bfu \u00c4\u0091\u00c6\u00b0\u00e1\u00bb\u00a3c th\u00c3\u00ac nh\u00e1\u00ba\u00a5t \u00c4\u0091\u00e1\u00bb\u008bnh s\u00e1\u00ba\u00bd s\u00e1\u00bb\u00ada \u00c4\u0091\u00e1\u00ba\u00b9p h\u00c6\u00a1n. \n\nN\u00e1\u00ba\u00bfu nh\u00c6\u00b0 c\u00c3\u00b3 ng\u00c6\u00b0\u00e1\u00bb\u009di khen m\u00c3\u00acnh \u00c4\u0091\u00e1\u00ba\u00b9p, m\u00c3\u00acnh s\u00e1\u00ba\u00bd kh\u00c3\u00b4ng tin. Kh\u00c3\u00b4ng ph\u00e1\u00ba\u00a3i m\u00c3\u00acnh t\u00e1\u00bb\u008f ra \u00c4\u0091\u00c3\u00a1ng th\u00c6\u00b0\u00c6\u00a1ng, m\u00c3\u00a0 m\u00c3\u00acnh th\u00e1\u00bb\u00b1c s\u00e1\u00bb\u00b1 th\u00e1\u00ba\u00afc m\u00e1\u00ba\u00afc: m\u00c5\u00a9i to th\u00e1\u00ba\u00bf th\u00c3\u00ac \u00c4\u0091\u00e1\u00ba\u00b9p ch\u00e1\u00bb\u0097 n\u00c3\u00a0o? Th\u00e1\u00ba\u00adt kh\u00c3\u00b3 kh\u00c4\u0083n khi soi g\u00c6\u00b0\u00c6\u00a1ng v\u00c3\u00a0 nh\u00c3\u00acn th\u00e1\u00ba\u00a5y c\u00c3\u00a1i m\u00c5\u00a9i m\u00c3\u00acnh, thi tho\u00e1\u00ba\u00a3ng n\u00c3\u00b3 c\u00c3\u00b2n m\u00e1\u00bb\u008dc m\u00e1\u00bb\u00a5n n\u00e1\u00bb\u00afa\u00e2\u0080\u00a6\n\nV\u00e1\u00ba\u00ady m\u00c3\u00a0 hai ch\u00e1\u00bb\u00a5c n\u00c4\u0083m sau, m\u00c3\u00acnh qu\u00c3\u00aan chuy\u00e1\u00bb\u0087n c\u00c3\u00a1i m\u00c5\u00a9i. Nay nh\u00c3\u00acn th\u00e1\u00ba\u00a5y b\u00c3\u00a0i vi\u00e1\u00ba\u00bft c\u00e1\u00bb\u00a7a Ki\u00e1\u00ba\u00bfn Kh\u00c3\u00b4ng Ng\u00e1\u00bb\u00a7 m\u00e1\u00bb\u009bi nh\u00e1\u00bb\u009b l\u00e1\u00ba\u00a1i.\n\nTh\u00e1\u00bb\u00b1c ra kh\u00c3\u00b4ng ph\u00e1\u00ba\u00a3i qu\u00c3\u00aan, m\u00c3\u00a0 m\u00c3\u00acnh d\u00e1\u00ba\u00a7n th\u00e1\u00bb\u00b1c s\u00e1\u00bb\u00b1 hi\u00e1\u00bb\u0083u \u00c4\u0091\u00c6\u00b0\u00e1\u00bb\u00a3c, v\u00e1\u00ba\u00bb ngo\u00c3\u00a0i kh\u00c3\u00b4ng ph\u00e1\u00ba\u00a3i th\u00e1\u00bb\u00a9 quy\u00e1\u00ba\u00bft \u00c4\u0091\u00e1\u00bb\u008bnh t\u00e1\u00ba\u00a5t c\u00e1\u00ba\u00a3. N\u00e1\u00bb\u0099i t\u00e1\u00ba\u00a1i con ng\u00c6\u00b0\u00e1\u00bb\u009di quan tr\u00e1\u00bb\u008dng l\u00e1\u00ba\u00afm, m\u00c3\u00acnh t\u00e1\u00ba\u00adp trung v\u00c3\u00a0o b\u00c3\u00aan trong h\u00c6\u00a1n. Ngo\u00e1\u00ba\u00a1i h\u00c3\u00acnh kh\u00c3\u00b4ng xu\u00e1\u00ba\u00a5t s\u00e1\u00ba\u00afc th\u00c3\u00ac ph\u00e1\u00ba\u00a3i t\u00e1\u00bb\u00b1 c\u00e1\u00bb\u0091 g\u00e1\u00ba\u00afng h\u00c6\u00a1n.\n\nGi\u00e1\u00bb\u009d m\u00c3\u00acnh r\u00e1\u00ba\u00a5t tho\u00e1\u00ba\u00a3i m\u00c3\u00a1i v\u00e1\u00bb\u009bi c\u00c3\u00a1i m\u00c5\u00a9i hay \u00c4\u0091\u00c3\u00b4i m\u00e1\u00ba\u00aft c\u00e1\u00bb\u00a7a b\u00e1\u00ba\u00a3n th\u00c3\u00a2n. M\u00e1\u00bb\u008di th\u00e1\u00bb\u00a9 \u00c4\u0091\u00e1\u00bb\u0081u b\u00c3\u00acnh th\u00c6\u00b0\u00e1\u00bb\u009dng, th\u00e1\u00ba\u00adt may m\u00e1\u00ba\u00afn. \u00c4\u0090\u00e1\u00ba\u00b9p hay kh\u00c3\u00b4ng c\u00c5\u00a9ng l\u00c3\u00a0 m\u00e1\u00ba\u00aft nh\u00c3\u00acn m\u00e1\u00bb\u0097i ng\u00c6\u00b0\u00e1\u00bb\u009di. Kh\u00c3\u00b4ng c\u00c3\u00b3 c\u00c3\u00a1i m\u00c5\u00a9i x\u00e1\u00ba\u00a5u, th\u00e1\u00bb\u00b1c ra ch\u00e1\u00bb\u0089 c\u00c3\u00b3 nh\u00e1\u00bb\u00afng c\u00c3\u00a1i m\u00c5\u00a9i kh\u00c3\u00a1c nhau th\u00c3\u00b4i.\n\nM\u00c3\u00acnh kh\u00c3\u00b4ng tr\u00c3\u00a1ch b\u00e1\u00bb\u0091 hay tr\u00c3\u00a1ch ai c\u00e1\u00ba\u00a3, v\u00c3\u00ac \u00c4\u0091\u00c3\u00b3 l\u00c3\u00a0 l\u00e1\u00bb\u009di n\u00c3\u00b3i \u00c4\u0091\u00c3\u00b9a v\u00c3\u00b4 \u00c3\u00bd th\u00c3\u00b4i, v\u00c3\u00a0 suy cho c\u00c3\u00b9ng \u00c4\u0091\u00c3\u00b3 v\u00e1\u00ba\u00abn l\u00c3\u00a0 do t\u00e1\u00bb\u00b1 m\u00c3\u00acnh suy ngh\u00c4\u00a9.\n\nNh\u00c6\u00b0ng n\u00e1\u00ba\u00bfu sau n\u00c3\u00a0y c\u00c3\u00b3 con, nh\u00e1\u00ba\u00a5t \u00c4\u0091\u00e1\u00bb\u008bnh m\u00c3\u00acnh s\u00e1\u00ba\u00bd kh\u00c3\u00b4ng \u00c4\u0091\u00e1\u00bb\u0083 nh\u00e1\u00bb\u008f ph\u00e1\u00ba\u00a3i t\u00e1\u00bb\u00b1 ph\u00c3\u00a1n x\u00c3\u00a9t ngo\u00e1\u00ba\u00a1i h\u00c3\u00acnh b\u00e1\u00ba\u00a3n th\u00c3\u00a2n nh\u00c6\u00b0 th\u00e1\u00ba\u00bf.\n\nNh\u00e1\u00ba\u00a5t \u00c4\u0091\u00e1\u00bb\u008bnh b\u00e1\u00ba\u00a3o v\u00e1\u00bb\u0087 nh\u00e1\u00bb\u008f kh\u00e1\u00bb\u008fi b\u00e1\u00ba\u00a5t c\u00e1\u00bb\u00a9 th\u00e1\u00bb\u00a9 g\u00c3\u00ac khi\u00e1\u00ba\u00bfn nh\u00e1\u00bb\u008f ph\u00e1\u00ba\u00a3i t\u00e1\u00bb\u00b1 ti, ph\u00e1\u00ba\u00a3i gh\u00c3\u00a9t b\u00e1\u00ba\u00a3n th\u00c3\u00a2n m\u00c3\u00a0 ch\u00e1\u00ba\u00b3ng ph\u00e1\u00ba\u00a3i l\u00e1\u00bb\u0097i do nh\u00e1\u00bb\u008f c\u00e1\u00ba\u00a3.\n\n| aT\n\u00e1\u00ba\u00a2nh: Ki\u00e1\u00ba\u00bfn Kh\u00c3\u00b4ng Ng\u00e1\u00bb\u00a7",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Th\u00c3\u00a0nh \u00c4\u0090\u00e1\u00ba\u00a1t"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "\u00c4\u0090\u00e1\u00bb\u00a9c B\u00c3\u00a1ch"
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nguy\u00e1\u00bb\u0085n \u00c4\u0090\u00e1\u00bb\u00a9c Tr\u00e1\u00bb\u008dng",
+      "timestamp_ms": 1711961137393,
+      "content": "ukii tks ae :3",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Th\u00c3\u00a0nh \u00c4\u0090\u00e1\u00ba\u00a1t",
+      "timestamp_ms": 1711960084572,
+      "content": "v\u00c3\u00a2ng anh",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nguy\u00e1\u00bb\u0085n \u00c4\u0090\u00e1\u00bb\u00a9c Tr\u00e1\u00bb\u008dng",
+      "timestamp_ms": 1711959794669,
+      "content": "\u00c4\u0091\u00e1\u00bb\u0083 \u00c4\u0091\u00c4\u0083ng",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Th\u00c3\u00a0nh \u00c4\u0090\u00e1\u00ba\u00a1t"
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nguy\u00e1\u00bb\u0085n \u00c4\u0090\u00e1\u00bb\u00a9c Tr\u00e1\u00bb\u008dng",
+      "timestamp_ms": 1711959792370,
+      "content": "ko sao h\u00e1\u00bb\u008f",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nguy\u00e1\u00bb\u0085n \u00c4\u0090\u00e1\u00bb\u00a9c Tr\u00e1\u00bb\u008dng",
+      "timestamp_ms": 1711959658616,
+      "content": "BKD oi c\u00c3\u00b3 c\u00e1\u00ba\u00a7n che t\u00c3\u00aan hay id hay che m\u00e1\u00ba\u00b7t ko",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nguy\u00e1\u00bb\u0085n \u00c4\u0090\u00e1\u00bb\u00a9c Tr\u00e1\u00bb\u008dng",
+      "timestamp_ms": 1711959650725,
+      "photos": [
+        {
+          "uri": "your_activity_across_facebook/messages/inbox/kiemduyetinsidethebox_6891072950981936/photos/434622430_1016336280136290_7805721553857636019_n_1016336276802957.png",
+          "creation_timestamp": 1711959645
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Th\u00c3\u00a0nh \u00c4\u0090\u00e1\u00ba\u00a1t"
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nguy\u00e1\u00bb\u0085n \u00c4\u0090\u00e1\u00bb\u00a9c Tr\u00e1\u00bb\u008dng",
+      "timestamp_ms": 1711959650517,
+      "content": "Trong m\u00e1\u00bb\u008di tr\u00c6\u00b0\u00e1\u00bb\u009dng h\u00e1\u00bb\u00a3p, m\u00c3\u00acnh kh\u00c3\u00b4ng l\u00e1\u00ba\u00a5y chuy\u00e1\u00bb\u0087n t\u00c3\u00acnh c\u00e1\u00ba\u00a3m ra \u00c4\u0091\u00e1\u00bb\u0083 \u00c4\u0091\u00c3\u00b9a gi\u00e1\u00bb\u00a1n.\n\u00c4\u0090\u00c3\u00b9a \u00c4\u0091\u00e1\u00bb\u0083 \u00c4\u0091\u00c6\u00b0\u00e1\u00bb\u00a3c g\u00c3\u00ac? \u00c4\u0090\u00e1\u00bb\u0083 l\u00e1\u00bb\u00aba \u00c4\u0091\u00c6\u00b0\u00e1\u00bb\u00a3c ng\u00c6\u00b0\u00e1\u00bb\u009di s\u00e1\u00ba\u00b5n s\u00c3\u00a0ng tin t\u00c6\u00b0\u00e1\u00bb\u009fng l\u00e1\u00bb\u009di n\u00c3\u00b3i c\u00e1\u00bb\u00a7a b\u00e1\u00ba\u00a1n, d\u00c3\u00b9 cho h\u00c3\u00b4m nay l\u00c3\u00a0 c\u00c3\u00a1 th\u00c3\u00a1ng t\u00c6\u00b0 \u00c6\u00b0?\n\nM\u00c3\u00acnh kh\u00c3\u00b4ng th\u00c3\u00adch c\u00e1\u00ba\u00a3m gi\u00c3\u00a1c b\u00e1\u00bb\u008b ng\u00c6\u00b0\u00e1\u00bb\u009di kh\u00c3\u00a1c \u00c4\u0091\u00c3\u00b9a gi\u00e1\u00bb\u00a1n, n\u00c3\u00aan m\u00c3\u00acnh kh\u00c3\u00b4ng l\u00c3\u00a0m chuy\u00e1\u00bb\u0087n \u00c4\u0091\u00c3\u00b3 v\u00e1\u00bb\u009bi ng\u00c6\u00b0\u00e1\u00bb\u009di kh\u00c3\u00a1c.\n\nKh\u00c3\u00b4ng t\u00e1\u00bb\u008f t\u00c3\u00acnh \u00c4\u0091\u00c3\u00b9a, c\u00c5\u00a9ng kh\u00c3\u00b4ng chia tay \u00c4\u0091\u00c3\u00b9a.\n\nC\u00e1\u00ba\u00a3 th\u00e1\u00ba\u00bf gi\u00e1\u00bb\u009bi c\u00c3\u00b3 th\u00e1\u00bb\u0083 n\u00c3\u00b3i d\u00e1\u00bb\u0091i ng\u00c3\u00a0y c\u00c3\u00a1 th\u00c3\u00a1ng t\u00c6\u00b0 v\u00e1\u00bb\u0081 \u00c4\u0091\u00e1\u00bb\u00a7 m\u00e1\u00bb\u008di chuy\u00e1\u00bb\u0087n, c\u00c3\u00b3 ng\u00c6\u00b0\u00e1\u00bb\u009di l\u00c3\u00a0m c\u00e1\u00ba\u00a3 l\u00e1\u00bb\u0085 c\u00c6\u00b0\u00e1\u00bb\u009bi gi\u00e1\u00ba\u00a3, nh\u00c6\u00b0ng m\u00c3\u00acnh kh\u00c3\u00b4ng mu\u00e1\u00bb\u0091n. \nC\u00c3\u00b3 th\u00e1\u00bb\u0083 v\u00c3\u00ac m\u00c3\u00acnh v\u00e1\u00bb\u0091n l\u00c3\u00a0 ng\u00c6\u00b0\u00e1\u00bb\u009di \u00c4\u0091\u00c6\u00a1n thu\u00e1\u00ba\u00a7n, c\u00c3\u00b3 th\u00e1\u00bb\u0083 m\u00c3\u00acnh nh\u00e1\u00ba\u00a1t nh\u00e1\u00ba\u00bdo c\u00c5\u00a9ng \u00c4\u0091\u00c6\u00b0\u00e1\u00bb\u00a3c, nh\u00c6\u00b0ng kh\u00c3\u00b4ng l\u00c3\u00a0 kh\u00c3\u00b4ng.\n\nM\u00c3\u00acnh kh\u00c3\u00b4ng th\u00c3\u00adch c\u00c3\u00a1i c\u00e1\u00ba\u00a3m gi\u00c3\u00a1c m\u00e1\u00bb\u0087t m\u00e1\u00bb\u008fi ph\u00e1\u00ba\u00a3i \u00c4\u0091o\u00c3\u00a1n xem ng\u00c6\u00b0\u00e1\u00bb\u009di kh\u00c3\u00a1c r\u00e1\u00bb\u0091t cu\u00e1\u00bb\u0099c \u00c4\u0091ang n\u00c3\u00b3i th\u00e1\u00ba\u00adt hay n\u00c3\u00b3i d\u00e1\u00bb\u0091i. L\u00e1\u00bb\u009di n\u00c3\u00b3i t\u00e1\u00bb\u008f t\u00c3\u00acnh hay chia tay \u00c4\u0091\u00e1\u00bb\u0081u r\u00e1\u00ba\u00a5t quan tr\u00e1\u00bb\u008dng, b\u00e1\u00bb\u009fi v\u00c3\u00ac n\u00c3\u00b3 quy\u00e1\u00ba\u00bft \u00c4\u0091\u00e1\u00bb\u008bnh r\u00e1\u00ba\u00a5t nhi\u00e1\u00bb\u0081u chuy\u00e1\u00bb\u0087n c\u00e1\u00bb\u00a7a hai ng\u00c6\u00b0\u00e1\u00bb\u009di sau \u00c4\u0091\u00c3\u00b3.\n\u00c4\u0090\u00e1\u00bb\u00abng n\u00c3\u00b3i xong r\u00e1\u00bb\u0093i, l\u00c3\u00a0m ng\u00c6\u00b0\u00e1\u00bb\u009di kh\u00c3\u00a1c ng\u00e1\u00bb\u00a1 ng\u00c3\u00a0ng, tan v\u00e1\u00bb\u00a1 hay gi\u00e1\u00ba\u00adt m\u00c3\u00acnh, m\u00e1\u00bb\u00abng h\u00e1\u00bb\u00a5t\u00e2\u0080\u00a6 r\u00e1\u00bb\u0093i b\u00e1\u00ba\u00a3o \u00c4\u0091\u00c3\u00b3 l\u00c3\u00a0 \u00c4\u0091\u00c3\u00b9a. Ch\u00e1\u00ba\u00b3ng vui!\n\nTr\u00c3\u00b2 \u00c4\u0091\u00c3\u00b9a n\u00c3\u00a0o c\u00c5\u00a9ng n\u00c3\u00aan c\u00c3\u00b3 gi\u00e1\u00bb\u009bi h\u00e1\u00ba\u00a1n, cho d\u00c3\u00b9 l\u00c3\u00a0 ng\u00c3\u00a0y c\u00c3\u00a1 th\u00c3\u00a1ng t\u00c6\u00b0. B\u00e1\u00bb\u009fi nh\u00c6\u00b0 \u00c4\u0091\u00c3\u00a3 n\u00c3\u00b3i, \u00c4\u0091\u00c3\u00b9a c\u00e1\u00bb\u00a3t ch\u00e1\u00bb\u0089 \u00c4\u0091\u00e1\u00bb\u0083 th\u00e1\u00ba\u00a5y r\u00e1\u00ba\u00b1ng, b\u00e1\u00ba\u00a1n \u00c4\u0091\u00c3\u00a3 th\u00c3\u00a0nh c\u00c3\u00b4ng l\u00e1\u00bb\u00aba \u00c4\u0091\u00c6\u00b0\u00e1\u00bb\u00a3c m\u00e1\u00bb\u0099t ng\u00c6\u00b0\u00e1\u00bb\u009di s\u00e1\u00ba\u00b5n s\u00c3\u00a0ng tin t\u00c6\u00b0\u00e1\u00bb\u009fng b\u00e1\u00ba\u00a1n th\u00c3\u00b4i\u00e2\u0080\u00a6\n\n| aT",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Th\u00c3\u00a0nh \u00c4\u0090\u00e1\u00ba\u00a1t"
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nguy\u00e1\u00bb\u0085n \u00c4\u0090\u00e1\u00bb\u00a9c Tr\u00e1\u00bb\u008dng",
+      "timestamp_ms": 1711953443033,
+      "content": "BKD \u00c3\u00a0...",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nguy\u00e1\u00bb\u0085n \u00c4\u0090\u00e1\u00bb\u00a9c Tr\u00e1\u00bb\u008dng",
+      "timestamp_ms": 1711953440795,
+      "photos": [
+        {
+          "uri": "your_activity_across_facebook/messages/inbox/kiemduyetinsidethebox_6891072950981936/photos/432893198_1193521298686407_1292600470163016117_n_1193521295353074.jpg",
+          "creation_timestamp": 1711953137
+        },
+        {
+          "uri": "your_activity_across_facebook/messages/inbox/kiemduyetinsidethebox_6891072950981936/photos/433459853_1472536096670210_1791826314257580297_n_763701122524295.jpg",
+          "creation_timestamp": 1711953137
+        },
+        {
+          "uri": "your_activity_across_facebook/messages/inbox/kiemduyetinsidethebox_6891072950981936/photos/434938770_1130412071412746_8177236542898623887_n_1130412068079413.jpg",
+          "creation_timestamp": 1711953137
+        },
+        {
+          "uri": "your_activity_across_facebook/messages/inbox/kiemduyetinsidethebox_6891072950981936/photos/432960938_1877496876025566_6221118504178499435_n_1877496872692233.jpg",
+          "creation_timestamp": 1711953138
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Th\u00c3\u00a0nh \u00c4\u0090\u00e1\u00ba\u00a1t"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "\u00c4\u0090\u00e1\u00bb\u00a9c B\u00c3\u00a1ch"
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nguy\u00e1\u00bb\u0085n \u00c4\u0090\u00e1\u00bb\u00a9c Tr\u00e1\u00bb\u008dng",
+      "timestamp_ms": 1711953440588,
+      "content": "\"M\u00e1\u00bb\u0099t \u00c4\u0091\u00e1\u00bb\u009di n\u00c3\u00a0y ta s\u00e1\u00ba\u00bd c\u00c3\u00b3 m\u00e1\u00ba\u00a5y l\u00e1\u00ba\u00a7n m\u00c6\u00b0\u00e1\u00bb\u009di n\u00c4\u0083m?\"\nCh\u00c3\u00ba Ninh anh \u00c3\u0082m b\u00c3\u00aan nhau 10 n\u00c4\u0083m, c\u00e1\u00ba\u00a3 c\u00c3\u00b4ng ty h\u00e1\u00ba\u00a1nh ph\u00c3\u00bac \u00f0\u009f\u008d\u0080",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Th\u00c3\u00a0nh \u00c4\u0090\u00e1\u00ba\u00a1t"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "\u00c4\u0090\u00e1\u00bb\u00a9c B\u00c3\u00a1ch"
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nguy\u00e1\u00bb\u0085n \u00c4\u0090\u00e1\u00bb\u00a9c Tr\u00e1\u00bb\u008dng",
+      "timestamp_ms": 1711905251077,
+      "content": "@Tu\u00e1\u00ba\u00a5n D\u00c5\u00a9ng@\u00c4\u0090\u00e1\u00bb\u00a9c B\u00c3\u00a1ch@Th\u00c3\u00a0nh \u00c4\u0090\u00e1\u00ba\u00a1t",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nguy\u00e1\u00bb\u0085n \u00c4\u0090\u00e1\u00bb\u00a9c Tr\u00e1\u00bb\u008dng",
+      "timestamp_ms": 1711905245907,
+      "content": "\u00c3\u009am bala bi\u00e1\u00ba\u00bfn ra BKD",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nguy\u00e1\u00bb\u0085n \u00c4\u0090\u00e1\u00bb\u00a9c Tr\u00e1\u00bb\u008dng",
+      "timestamp_ms": 1711905204815,
+      "content": "BKD oi hii",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nguy\u00e1\u00bb\u0085n \u00c4\u0090\u00e1\u00bb\u00a9c Tr\u00e1\u00bb\u008dng",
+      "timestamp_ms": 1711905202831,
+      "photos": [
+        {
+          "uri": "your_activity_across_facebook/messages/inbox/kiemduyetinsidethebox_6891072950981936/photos/387473091_1132706988109676_8597101585676013187_n_810259784313378.jpg",
+          "creation_timestamp": 1711905049
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Tu\u00e1\u00ba\u00a5n D\u00c5\u00a9ng"
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nguy\u00e1\u00bb\u0085n \u00c4\u0090\u00e1\u00bb\u00a9c Tr\u00e1\u00bb\u008dng",
+      "timestamp_ms": 1711905202399,
+      "content": "Ch\u00c3\u00a0o th\u00c3\u00a1ng T\u00c6\u00b0, th\u00c3\u00a1ng c\u00e1\u00bb\u00a7a nh\u00e1\u00bb\u00afng l\u00e1\u00bb\u009di n\u00c3\u00b3i d\u00e1\u00bb\u0091i r\u00e1\u00ba\u00a5t th\u00e1\u00ba\u00adt!\n\n1/4/2024, Ca kh\u00c3\u00bac Th\u00c3\u00a1ng T\u00c6\u00b0 l\u00c3\u00a0 l\u00e1\u00bb\u009di n\u00c3\u00b3i d\u00e1\u00bb\u0091i c\u00e1\u00bb\u00a7a em c\u00c3\u00b3 181.524.000 l\u00c6\u00b0\u00e1\u00bb\u00a3t xem.\n\nKh\u00c3\u00b4ng bi\u00e1\u00ba\u00bft n\u00c4\u0083m sau s\u00e1\u00ba\u00bd c\u00c3\u00b3 th\u00c3\u00aam bao nhi\u00c3\u00aau l\u00e1\u00bb\u009di n\u00c3\u00b3i d\u00e1\u00bb\u0091i, nh\u00c6\u00b0ng mong nh\u00e1\u00bb\u00afng \u00c4\u0091i\u00e1\u00bb\u0081u th\u00e1\u00ba\u00adt t\u00e1\u00bb\u0091t s\u00e1\u00ba\u00bd \u00c4\u0091\u00e1\u00ba\u00bfn v\u00e1\u00bb\u009bi t\u00e1\u00ba\u00a5t c\u00e1\u00ba\u00a3 ch\u00c3\u00bang ta <3",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Tu\u00e1\u00ba\u00a5n D\u00c5\u00a9ng"
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Giang Uy\u00c3\u00aan",
+      "timestamp_ms": 1711855778307,
+      "content": "Okk",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Giang Uy\u00c3\u00aan",
+      "timestamp_ms": 1711855777214,
+      "content": "D\u00e1\u00ba\u00a1 ooo",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nguy\u00e1\u00bb\u0085n \u00c4\u0090\u00e1\u00bb\u00a9c Tr\u00e1\u00bb\u008dng",
+      "timestamp_ms": 1711854777297,
+      "content": "c\u00c3\u00b3 dc c\u00c3\u00b4ng nh\u00e1\u00ba\u00adn \u00c4\u0091\u00c3\u00a2u m\u00c3\u00a0 c\u00c6\u00b0\u00e1\u00bb\u009bi =)))",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nguy\u00e1\u00bb\u0085n \u00c4\u0090\u00e1\u00bb\u00a9c Tr\u00e1\u00bb\u008dng",
+      "timestamp_ms": 1711854764105,
+      "content": "\u00c3\u00b2 \u00c3\u00b2 anh c\u00c5\u00a9ng ko \u00c4\u0091\u00e1\u00bb\u0083 l\u00c3\u00a0 c\u00c6\u00b0\u00e1\u00bb\u009bi n\u00e1\u00bb\u00afa",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Giang Uy\u00c3\u00aan",
+      "timestamp_ms": 1711854731181,
+      "content": "K\u00e1\u00bb\u0089 ni\u00e1\u00bb\u0087m 10 n\u00c4\u0083m",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Giang Uy\u00c3\u00aan",
+      "timestamp_ms": 1711854727775,
+      "content": "Anh \u00c6\u00a1i ch\u00c6\u00b0a c\u00c6\u00b0\u00e1\u00bb\u009bi",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nguy\u00e1\u00bb\u0085n \u00c4\u0090\u00e1\u00bb\u00a9c Tr\u00e1\u00bb\u008dng",
+      "timestamp_ms": 1711854285805,
+      "content": "c\u00c3\u00adu v\u00e1\u00bb\u009biiii",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nguy\u00e1\u00bb\u0085n \u00c4\u0090\u00e1\u00bb\u00a9c Tr\u00e1\u00bb\u008dng",
+      "timestamp_ms": 1711854275405,
+      "content": "ai theo ko \u00c4\u0091\u00e1\u00bb\u008dc xem c\u00c3\u00b3 b\u00e1\u00bb\u008b v\u00e1\u00ba\u00a5p ko :v",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nguy\u00e1\u00bb\u0085n \u00c4\u0090\u00e1\u00bb\u00a9c Tr\u00e1\u00bb\u008dng",
+      "timestamp_ms": 1711854255198,
+      "content": "@Giang Uy\u00c3\u00aan \u00c6\u00a1i c\u00c3\u00b3 theo d\u00c3\u00b5i c\u00e1\u00ba\u00b7p n\u00c3\u00a0y nhi\u00e1\u00bb\u0081u ko z",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nguy\u00e1\u00bb\u0085n \u00c4\u0090\u00e1\u00bb\u00a9c Tr\u00e1\u00bb\u008dng",
+      "timestamp_ms": 1711854241398,
+      "content": "BKD oiii",
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nguy\u00e1\u00bb\u0085n \u00c4\u0090\u00e1\u00bb\u00a9c Tr\u00e1\u00bb\u008dng",
+      "timestamp_ms": 1711854237243,
+      "photos": [
+        {
+          "uri": "your_activity_across_facebook/messages/inbox/kiemduyetinsidethebox_6891072950981936/photos/434019621_1468358030754475_7001369143958790927_n_1468358027421142.jpg",
+          "creation_timestamp": 1711854233
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Th\u00c3\u00a0nh \u00c4\u0090\u00e1\u00ba\u00a1t"
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    },
+    {
+      "sender_name": "Nguy\u00e1\u00bb\u0085n \u00c4\u0090\u00e1\u00bb\u00a9c Tr\u00e1\u00bb\u008dng",
+      "timestamp_ms": 1711854237093,
+      "content": "V\u00c3\u00ac sao h\u00e1\u00bb\u008d c\u00c6\u00b0\u00e1\u00bb\u009bi nhau, ng\u00c6\u00b0\u00e1\u00bb\u009di h\u00e1\u00ba\u00a1nh ph\u00c3\u00bac c\u00c5\u00a9ng l\u00c3\u00a0 ch\u00c3\u00bang t\u00c3\u00b4i?\n\nS\u00c3\u00a1ng nay t\u00c3\u00b4i nh\u00c3\u00acn th\u00e1\u00ba\u00a5y tin n\u00c3\u00a0y m\u00c3\u00a0 t\u00e1\u00bb\u00b1 nhi\u00c3\u00aan ng\u00e1\u00ba\u00a9n ng\u00c6\u00b0\u00e1\u00bb\u009di m\u00e1\u00bb\u0099t ch\u00c3\u00bat, th\u00e1\u00ba\u00a5y vui trong l\u00c3\u00b2ng.\n\nLu\u00c3\u00b4n c\u00c3\u00b3 ng\u00c6\u00b0\u00e1\u00bb\u009di h\u00e1\u00bb\u008fi t\u00c3\u00b4i r\u00e1\u00ba\u00b1ng, v\u00c3\u00ac sao ch\u00c3\u00ba Ninh anh  m \u00e2\u0080\u009cch\u00e1\u00ba\u00b3ng c\u00c3\u00b3 g\u00c3\u00ac\u00e2\u0080\u009d m\u00c3\u00a0 \u00c4\u0091\u00c6\u00b0\u00e1\u00bb\u00a3c nhi\u00e1\u00bb\u0081u ng\u00c6\u00b0\u00e1\u00bb\u009di bi\u00e1\u00ba\u00bft, h\u00c3\u00a2m m\u00e1\u00bb\u0099, xin v\u00c3\u00a0o c\u00c3\u00b4ng ty th\u00e1\u00ba\u00bf?\n\u00c3\u0080 th\u00c3\u00ac, \u00e2\u0080\u009cT\u00c3\u00b4i c\u00e1\u00ba\u00a3m th\u00e1\u00ba\u00a5y \u00c4\u0091\u00c6\u00b0\u00e1\u00bb\u00a3c ch\u00e1\u00bb\u00afa l\u00c3\u00a0nh b\u00e1\u00bb\u009fi n\u00c4\u0083ng l\u00c6\u00b0\u00e1\u00bb\u00a3ng v\u00c3\u00b4 tri n\u00c3\u00a0y\u00e2\u0080\u00a6\u00e2\u0080\u009d\n\n\u00c4\u0090\u00c3\u00b9a \u00c4\u0091\u00e1\u00ba\u00a5y!\n\u00e1\u00bb\u00aa th\u00c3\u00ac \u00c4\u0091\u00c3\u00bang l\u00c3\u00a0 trong m\u00e1\u00ba\u00aft nhi\u00e1\u00bb\u0081u ng\u00c6\u00b0\u00e1\u00bb\u009di, ch\u00c3\u00ba Ninh anh  m \u00e2\u0080\u009cch\u00e1\u00ba\u00b3ng c\u00c3\u00b3 g\u00c3\u00ac\u00e2\u0080\u009d th\u00e1\u00ba\u00adt, ch\u00e1\u00ba\u00b3ng ph\u00e1\u00ba\u00a3i ca s\u00c4\u00a9 idol, ch\u00e1\u00ba\u00b3ng ph\u00e1\u00ba\u00a3i \u00c4\u0091\u00e1\u00ba\u00a1i gia,\u00e2\u0080\u00a6 nh\u00c6\u00b0ng m\u00c3\u00a0 th\u00e1\u00bb\u00b1c s\u00e1\u00bb\u00b1, n\u00e1\u00ba\u00bfu h\u00e1\u00bb\u008d l\u00c3\u00a0 th\u00e1\u00ba\u00bf\u00e2\u0080\u00a6 th\u00c3\u00ac c\u00c3\u00b3 l\u00e1\u00ba\u00bd t\u00c3\u00b4i xem nhi\u00e1\u00bb\u0081u nh\u00c6\u00b0 v\u00e1\u00ba\u00ady.\n\nB\u00e1\u00bb\u009fi v\u00c3\u00ac h\u00e1\u00bb\u008d c\u00c5\u00a9ng l\u00c3\u00a0 nh\u00e1\u00bb\u00afng ng\u00c6\u00b0\u00e1\u00bb\u009di b\u00c3\u00acnh th\u00c6\u00b0\u00e1\u00bb\u009dng, th\u00c6\u00b0\u00c6\u00a1ng nhau m\u00e1\u00bb\u0099t c\u00c3\u00a1ch b\u00c3\u00acnh th\u00c6\u00b0\u00e1\u00bb\u009dng trong \u00c4\u0091\u00e1\u00bb\u009di b\u00c3\u00acnh th\u00c6\u00b0\u00e1\u00bb\u009dng, n\u00c3\u00aan ch\u00c3\u00bang t\u00c3\u00b4i nh\u00c3\u00acn h\u00e1\u00bb\u008d nh\u00c6\u00b0 m\u00c3\u00acnh, b\u00c3\u00acnh th\u00c6\u00b0\u00e1\u00bb\u009dng.\n\nTh\u00e1\u00bb\u009di \u00c4\u0091\u00e1\u00ba\u00a1i n\u00c3\u00a0y, m\u00e1\u00bb\u0097i ng\u00c3\u00a0y \u00c4\u0091\u00e1\u00bb\u0081u c\u00c3\u00b3 qu\u00c3\u00a1 nhi\u00e1\u00bb\u0081u drama, nh\u00e1\u00bb\u00afng s\u00e1\u00bb\u00b1 ki\u00e1\u00bb\u0087n \u00c4\u0091\u00e1\u00ba\u00a7y r\u00e1\u00ba\u00aby chi\u00c3\u00aau tr\u00c3\u00b2\u00e2\u0080\u00a6 l\u00c3\u00a0m ng\u00c6\u00b0\u00e1\u00bb\u009di ta m\u00e1\u00bb\u0087t m\u00e1\u00bb\u008fi. Ch\u00c3\u00ba Ninh anh  m xu\u00e1\u00ba\u00a5t hi\u00e1\u00bb\u0087n b\u00c3\u00acnh d\u00e1\u00bb\u008b \u00c4\u0091\u00e1\u00ba\u00bfn kh\u00c3\u00b4ng th\u00e1\u00bb\u0083 b\u00c3\u00acnh d\u00e1\u00bb\u008b h\u00c6\u00a1n, c\u00c3\u00a2u chuy\u00e1\u00bb\u0087n b\u00c3\u00acnh th\u00c6\u00b0\u00e1\u00bb\u009dng c\u00e1\u00bb\u00a7a h\u00e1\u00bb\u008d, cu\u00e1\u00bb\u0091i c\u00c3\u00b9ng l\u00e1\u00ba\u00a1i l\u00c3\u00a0 th\u00e1\u00bb\u00a9 m\u00c3\u00a0 ch\u00c3\u00bang t\u00c3\u00b4i th\u00c3\u00a8m mu\u00e1\u00bb\u0091n.\n\nM\u00e1\u00bb\u0099t t\u00c3\u00acnh c\u00e1\u00ba\u00a3m v\u00e1\u00ba\u00abn \u00c4\u0091ong \u00c4\u0091\u00e1\u00ba\u00a7y sau 10 n\u00c4\u0083m v\u00c3\u00a0 v\u00e1\u00ba\u00abn c\u00c3\u00b2n ti\u00e1\u00ba\u00bfp t\u00e1\u00bb\u00a5c \u00c4\u0091\u00c6\u00b0\u00e1\u00bb\u00a3c vun \u00c4\u0091\u00e1\u00ba\u00afp m\u00e1\u00bb\u0097i ng\u00c3\u00a0y. Kh\u00c3\u00b4ng khoe khoang (th\u00e1\u00bb\u00b1c t\u00e1\u00ba\u00bf l\u00c3\u00a0 nh\u00c3\u00a2n vi\u00c3\u00aan c\u00c3\u00b4ng ty t\u00e1\u00bb\u00b1 \u00c4\u0091em khoe r\u00e1\u00bb\u0093i) v\u00e1\u00ba\u00abn c\u00c3\u00b2n ng\u00e1\u00ba\u00a1i ng\u00c3\u00b9ng b\u00e1\u00ba\u00bdn l\u00e1\u00ba\u00bdn, quan t\u00c3\u00a2m nhau m\u00e1\u00bb\u0099t ch\u00c3\u00bat, ngh\u00c4\u00a9 cho nhau m\u00e1\u00bb\u0099t ch\u00c3\u00bat, tr\u00c3\u00aau \u00c4\u0091\u00c3\u00b9a m\u00e1\u00bb\u0099t ch\u00c3\u00bat, y\u00c3\u00aau \u00c4\u0091\u00e1\u00bb\u009di m\u00e1\u00bb\u0099t ch\u00c3\u00bat, v\u00c3\u00b4 tri nhi\u00e1\u00bb\u0081u ch\u00c3\u00bat\u00e2\u0080\u00a6\n\nTh\u00e1\u00ba\u00adt ra, t\u00c3\u00b4i ch\u00e1\u00bb\u0089 c\u00e1\u00ba\u00a7n c\u00c3\u00b3 v\u00e1\u00ba\u00ady. \n\n\u00c4\u0090\u00c3\u00b4i khi b\u00e1\u00ba\u00a1n th\u00c3\u00adch m\u00e1\u00bb\u0099t ai \u00c4\u0091\u00c3\u00b3 kh\u00c3\u00b4ng ph\u00e1\u00ba\u00a3i v\u00c3\u00ac v\u00e1\u00ba\u00bb \u00c4\u0091\u00e1\u00ba\u00b9p, t\u00c3\u00a0i n\u00c4\u0083ng hay s\u00e1\u00bb\u00b1 gi\u00c3\u00a0u c\u00c3\u00b3, m\u00c3\u00a0 v\u00c3\u00ac h\u00e1\u00bb\u008d th\u00e1\u00ba\u00adt b\u00c3\u00acnh th\u00c6\u00b0\u00e1\u00bb\u009dng gi\u00e1\u00bb\u00afa \u00c4\u0091\u00e1\u00bb\u009di, gi\u00e1\u00bb\u0091ng nh\u00c6\u00b0 mong \u00c6\u00b0\u00e1\u00bb\u009bc b\u00c3\u00acnh th\u00c6\u00b0\u00e1\u00bb\u009dng c\u00e1\u00bb\u00a7a b\u00e1\u00ba\u00a1n\u00e2\u0080\u00a6.\n\nC\u00c3\u00b3 nh\u00e1\u00bb\u00afng th\u00e1\u00bb\u00a9 th\u00e1\u00ba\u00adt b\u00c3\u00acnh th\u00c6\u00b0\u00e1\u00bb\u009dng, d\u00c3\u00b9 r\u00e1\u00ba\u00a5t r\u00e1\u00ba\u00bb, nh\u00c6\u00b0ng ch\u00e1\u00ba\u00b3ng th\u00e1\u00bb\u0083 n\u00c3\u00a0o mua \u00c4\u0091\u00c6\u00b0\u00e1\u00bb\u00a3c.\n\n| aT",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Th\u00c3\u00a0nh \u00c4\u0090\u00e1\u00ba\u00a1t"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Giang Uy\u00c3\u00aan"
+        }
+      ],
+      "is_geoblocked_for_viewer": false
+    }
+  ],
+  "title": "\u00f0\u009f\u009f\u00a2Ki\u00e1\u00bb\u0083m duy\u00e1\u00bb\u0087t Inside the box",
+  "is_still_participant": true,
+  "thread_path": "inbox/kiemduyetinsidethebox_6891072950981936",
+  "magic_words": [
+    
+  ],
+  "image": {
+    "uri": "your_activity_across_facebook/messages/photos/420166056_759211916062659_8049925982275727202_n_759211912729326.jpg",
+    "creation_timestamp": 1706687838
+  },
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

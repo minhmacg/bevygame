@@ -47,7 +47,7 @@ require("lazy").setup({
 	{'L3MON4D3/LuaSnip'},
 })
 --color
-vim.cmd('colorscheme base16-woodland')
+vim.cmd('colorscheme base16-horizon-terminal-dark')
 
 
 require('mini.pairs').setup()

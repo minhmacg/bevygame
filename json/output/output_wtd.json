@@ -1,0 +1,209 @@
+{
+    "participants": [
+        {
+            "name": "Đức Bách"
+        },
+        {
+            "name": "Tuấn Dũng"
+        },
+        {
+            "name": "Quyen Tieu"
+        },
+        {
+            "name": "Tuấn Dũng"
+        },
+        {
+            "name": "Minh"
+        },
+        {
+            "name": "Hồng Thư Thư"
+        },
+        {
+            "name": "Châm Châm"
+        },
+        {
+            "name": "Thành Đạt"
+        }
+    ],
+    "messages": [
+        {
+            "sender_name": "Hồng Thư Thư",
+            "timestamp_ms": 1712235076927,
+            "content": "Check giúp e ạ",
+            "is_geoblocked_for_viewer": false
+        },
+        {
+            "sender_name": "Hồng Thư Thư",
+            "timestamp_ms": 1712235072010,
+            "photos": [
+                {
+                    "uri": "your_activity_across_facebook/messages/inbox/0gkiemduyetwhattheduck_7294629240558628/photos/432979321_1527106804517236_6766042601646607194_n_1527106801183903.jpg",
+                    "creation_timestamp": 1712235070
+                }
+            ],
+            "reactions": [
+                {
+                    "reaction": "👍",
+                    "actor": "Thành Đạt"
+                },
+                {
+                    "reaction": "😆",
+                    "actor": "Châm Châm"
+                }
+            ],
+            "is_geoblocked_for_viewer": false
+        },
+        {
+            "sender_name": "Hồng Thư Thư",
+            "timestamp_ms": 1712235069556,
+            "content": "Cap: tức cảnh sinh nhạc",
+            "reactions": [
+                {
+                    "reaction": "👍",
+                    "actor": "Thành Đạt"
+                }
+            ],
+            "is_geoblocked_for_viewer": false
+        },
+        {
+            "sender_name": "Quyen Tieu",
+            "timestamp_ms": 1712116288641,
+            "content": "Quyen Tieu đã thêm Châm Châm vào nhóm.",
+            "is_geoblocked_for_viewer": false
+        },
+        {
+            "sender_name": "Hồng Thư Thư",
+            "timestamp_ms": 1711931491672,
+            "content": "Check giúp e ạ",
+            "is_geoblocked_for_viewer": false
+        },
+        {
+            "sender_name": "Hồng Thư Thư",
+            "timestamp_ms": 1711931482025,
+            "photos": [
+                {
+                    "uri": "your_activity_across_facebook/messages/inbox/0gkiemduyetwhattheduck_7294629240558628/photos/434371247_1462159024382514_5805950707956140121_n_1462159021049181.jpg",
+                    "creation_timestamp": 1711931480
+                }
+            ],
+            "reactions": [
+                {
+                    "reaction": "👍",
+                    "actor": "Thành Đạt"
+                }
+            ],
+            "is_geoblocked_for_viewer": false
+        },
+        {
+            "sender_name": "Hồng Thư Thư",
+            "timestamp_ms": 1711931479148,
+            "content": "Cap: Đùa không căng, sếp đã vui",
+            "reactions": [
+                {
+                    "reaction": "👍",
+                    "actor": "Thành Đạt"
+                }
+            ],
+            "is_geoblocked_for_viewer": false
+        },
+        {
+            "sender_name": "Hồng Thư Thư",
+            "timestamp_ms": 1711875429334,
+            "photos": [
+                {
+                    "uri": "your_activity_across_facebook/messages/inbox/0gkiemduyetwhattheduck_7294629240558628/photos/433156694_429532739479046_5777844185496382652_n_429532736145713.jpg",
+                    "creation_timestamp": 1711875428
+                }
+            ],
+            "reactions": [
+                {
+                    "reaction": "👍",
+                    "actor": "Đức Bách"
+                }
+            ],
+            "is_geoblocked_for_viewer": false
+        },
+        {
+            "sender_name": "Hồng Thư Thư",
+            "timestamp_ms": 1711875427687,
+            "content": "Cap: Ra đường là hông có nhận người quen nha má",
+            "reactions": [
+                {
+                    "reaction": "👍",
+                    "actor": "Đức Bách"
+                }
+            ],
+            "is_geoblocked_for_viewer": false
+        },
+        {
+            "sender_name": "Hồng Thư Thư",
+            "timestamp_ms": 1711874978460,
+            "photos": [
+                {
+                    "uri": "your_activity_across_facebook/messages/inbox/0gkiemduyetwhattheduck_7294629240558628/photos/434305534_929706635531129_2613112687580014028_n_929706632197796.jpg",
+                    "creation_timestamp": 1711874977
+                }
+            ],
+            "reactions": [
+                {
+                    "reaction": "👍",
+                    "actor": "Đức Bách"
+                }
+            ],
+            "is_geoblocked_for_viewer": false
+        },
+        {
+            "sender_name": "Hồng Thư Thư",
+            "timestamp_ms": 1711874977174,
+            "content": "(Cmt) Một ngày cuối tuần bình yên~",
+            "reactions": [
+                {
+                    "reaction": "👍",
+                    "actor": "Đức Bách"
+                }
+            ],
+            "is_geoblocked_for_viewer": false
+        },
+        {
+            "sender_name": "Hồng Thư Thư",
+            "timestamp_ms": 1711874846311,
+            "photos": [
+                {
+                    "uri": "your_activity_across_facebook/messages/inbox/0gkiemduyetwhattheduck_7294629240558628/photos/434191799_1160222898760160_3483673107343970704_n_1160222892093494.jpg",
+                    "creation_timestamp": 1711874845
+                }
+            ],
+            "reactions": [
+                {
+                    "reaction": "👍",
+                    "actor": "Đức Bách"
+                }
+            ],
+            "is_geoblocked_for_viewer": false
+        },
+        {
+            "sender_name": "Hồng Thư Thư",
+            "timestamp_ms": 1711874843896,
+            "content": "Cap: Cũng có làm mà 🥺",
+            "reactions": [
+                {
+                    "reaction": "👍",
+                    "actor": "Đức Bách"
+                }
+            ],
+            "is_geoblocked_for_viewer": false
+        }
+    ],
+    "title": "🟢(0g) Kiểm duyệt What the Duck",
+    "is_still_participant": true,
+    "thread_path": "inbox/0gkiemduyetwhattheduck_7294629240558628",
+    "magic_words": [],
+    "image": {
+        "uri": "your_activity_across_facebook/messages/photos/420160406_1392297828833364_38302500350237847_n_1392297825500031.jpg",
+        "creation_timestamp": 1706687980
+    },
+    "joinable_mode": {
+        "mode": 1,
+        "link": ""
+    }
+}
